@@ -7901,3 +7901,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [16Aug2025 20:37:08.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.127.33.4:33801] logged in with entity id 24248 at (-425.5, 73.5625, 865.5)
 [16Aug2025 20:37:08.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
 [16Aug2025 20:39:26.034] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:40:09.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Aug2025 20:41:40.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:54365] logged in with entity id 29965 at (3.2115144682741628, 96.0, 69.75530303732111)
+[16Aug2025 20:41:40.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[16Aug2025 20:41:55.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Suit Up]
+[16Aug2025 20:43:36.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [A Freezing Place]
+[16Aug2025 20:43:59.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Aug2025 20:44:21.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[16Aug2025 20:44:34.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Suit Up]
+[16Aug2025 20:45:14.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Aug2025 20:45:26.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Dripstone Everywhere]
+[16Aug2025 20:46:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Alex's Mobs]
+[16Aug2025 20:46:54.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[16Aug2025 20:46:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game

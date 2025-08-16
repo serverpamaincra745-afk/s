@@ -2221,6 +2221,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-16 20:46:16 +0000",
       "cooked_mutton": "2025-08-16 20:34:55 +0000",
       "bread": "2025-08-16 20:09:26 +0000",
       "rabbit_stew": "2025-08-16 20:07:36 +0000"
@@ -3194,78 +3195,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-08-16 20:25:38 +0000"
@@ -3296,15 +3225,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
+  "simpleplanes:recipes/plane": {
     "criteria": {
-      "has_mutton": "2025-08-16 20:31:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-08-16 20:30:47 +0000"
+      "in_fire": "2025-08-16 20:30:20 +0000"
     },
     "done": true
   },
@@ -3320,21 +3243,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
     "criteria": {
-      "has_mutton": "2025-08-16 20:31:22 +0000"
+      "has_bottles": "2025-08-16 20:30:45 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
-      "minecraft:stray": "2025-08-16 20:35:21 +0000"
+      "has_cooked_rabbit": "2025-08-16 20:30:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-08-16 20:30:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-16 20:30:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-08-16 20:30:49 +0000"
     },
     "done": true
   },
@@ -3350,11 +3285,23 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
-      "minecraft:stray": "2025-08-16 20:35:21 +0000"
+      "has_baked_potato": "2025-08-16 20:31:10 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-16 20:31:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-16 20:31:22 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
@@ -3362,33 +3309,154 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_meal": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_item": "2025-08-16 20:30:49 +0000"
+      "minecraft:stray": "2025-08-16 20:35:21 +0000"
     },
     "done": true
   },
-  "simpleplanes:recipes/plane": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "in_fire": "2025-08-16 20:30:20 +0000"
+      "minecraft:stray": "2025-08-16 20:35:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-08-16 20:46:35 +0000",
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "has_baked_potato": "2025-08-16 20:31:10 +0000"
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:46:36 +0000"
+    },
+    "done": false
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-08-16 20:45:26 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+  "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
-      "has_bottles": "2025-08-16 20:30:45 +0000"
+      "has_apple": "2025-08-16 20:41:54 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+  "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
-      "has_cooked_rabbit": "2025-08-16 20:30:47 +0000"
+      "has_iron_chestplate": "2025-08-16 20:42:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-08-16 20:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-08-16 20:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-16 20:41:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-16 20:41:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-08-16 20:42:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-08-16 20:45:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-08-16 20:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-16 20:41:55 +0000"
     },
     "done": true
   },
