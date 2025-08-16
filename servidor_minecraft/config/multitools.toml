@@ -1,0 +1,12 @@
+
+#Durability Settings
+[durability]
+	#Range: > 0
+	iron_multitool_durability = 500
+	#Range: > 0
+	diamond_multitool_durability = 3122
+	#Range: > 0
+	golden_multitool_durability = 64
+	#Range: > 0
+	netherite_multitool_durability = 4032
+
