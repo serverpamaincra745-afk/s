@@ -120,6 +120,7 @@
       "minecraft:snowy_plains": "2025-08-16 20:14:15 +0000",
       "minecraft:snowy_taiga": "2025-08-16 20:02:10 +0000",
       "minecraft:frozen_ocean": "2025-08-16 20:14:52 +0000",
+      "minecraft:deep_frozen_ocean": "2025-08-16 20:16:35 +0000",
       "minecraft:snowy_beach": "2025-08-16 20:14:32 +0000"
     },
     "done": false
@@ -2220,6 +2221,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-08-16 20:34:55 +0000",
       "bread": "2025-08-16 20:09:26 +0000",
       "rabbit_stew": "2025-08-16 20:07:36 +0000"
     },
@@ -2345,78 +2347,335 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-08-16 20:15:21 +0000",
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
+      "has_item": "2025-08-16 20:12:03 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
+      "has_item": "2025-08-16 20:12:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 20:15:00 +0000"
+      "has_dragonbone": "2025-08-16 20:12:03 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-08-16 20:12:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-08-16 20:12:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-08-16 20:12:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-08-16 20:12:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-08-16 20:12:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-08-16 20:12:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-08-16 20:12:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-08-16 20:12:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-08-16 20:12:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-08-16 20:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-16 20:12:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-16 20:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-16 20:12:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2025-08-16 20:12:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-08-16 20:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-16 20:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 20:14:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/cursed_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/dark_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 20:14:37 +0000"
+    },
+    "done": true
   },
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
@@ -2436,12 +2695,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
@@ -2454,18 +2707,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
@@ -2475,18 +2716,6 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/fir_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
     },
     "done": true
   },
@@ -2508,12 +2737,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
@@ -2526,27 +2749,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-08-16 20:12:03 +0000"
     },
     "done": true
   },
@@ -2574,18 +2779,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
   "werewolves:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
@@ -2610,18 +2803,6 @@
     },
     "done": true
   },
-  "werewolves:recipes/transportation/jacaranda_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
@@ -2640,27 +2821,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "has_the_recipe": "2025-08-16 20:14:36 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
     },
     "done": true
   },
@@ -2685,12 +2848,6 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
     },
     "done": true
   },
@@ -2736,12 +2893,6 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-08-16 20:12:40 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
@@ -2772,18 +2923,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_stick": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/bamboo_drakkar": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
@@ -2802,33 +2941,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/pine_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_pickaxe_repairing": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-08-16 20:12:40 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
     },
     "done": true
   },
@@ -2844,21 +2959,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/maple_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
     },
     "done": true
   },
@@ -2868,39 +2971,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/palm_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
     },
     "done": true
   },
@@ -2910,39 +2983,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/transportation/cursed_spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/dark_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/stone_sword_repairing": {
-    "criteria": {
-      "has_stone_sword": "2025-08-16 20:12:53 +0000"
     },
     "done": true
   },
@@ -2982,39 +3025,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/canopy_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
     },
     "done": true
   },
@@ -3024,21 +3037,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/transportation/dark_spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
     },
     "done": true
   },
@@ -3048,39 +3049,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-08-16 20:13:06 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
     },
     "done": true
   },
@@ -3093,18 +3064,6 @@
   "smallships:recipes/transportation/birch_drakkar": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-08-16 20:12:40 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
     },
     "done": true
   },
@@ -3138,39 +3097,298 @@
     },
     "done": true
   },
-  "werewolves:recipes/transportation/magic_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-08-16 20:12:03 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_axe_repairing": {
-    "criteria": {
-      "has_stone_axe": "2025-08-16 20:12:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/transportation/skyroot_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 20:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2025-08-16 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "cold_desert": "2025-08-16 20:17:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "cold_desert": "2025-08-16 20:17:08 +0000",
+      "snowy_coniferous_forest": "2025-08-16 20:17:41 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "snowy": "2025-08-16 20:17:50 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "snowy": "2025-08-16 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-16 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 20:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-16 20:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-16 20:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-16 20:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-16 20:19:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 20:19:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/item_tent": {
+    "criteria": {
+      "has_bed": "2025-08-16 20:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-16 20:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-16 20:24:44 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-08-16 20:24:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-16 20:35:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-08-16 20:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-16 20:25:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-16 20:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-16 20:25:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-08-16 20:25:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-16 20:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-16 20:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/experience_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-08-16 20:30:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-08-16 20:30:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-16 20:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:stray": "2025-08-16 20:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-16 20:30:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 20:31:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-16 20:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:stray": "2025-08-16 20:35:21 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-16 20:31:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-08-16 20:30:49 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-08-16 20:30:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-16 20:31:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_bottles": "2025-08-16 20:30:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-16 20:30:47 +0000"
     },
     "done": true
   },

@@ -7849,3 +7849,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [16Aug2025 20:18:20.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was slain by Zombie
 [16Aug2025 20:18:31.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:33565] logged in with entity id 13124 at (0.9497957678947444, 98.00133597911214, 63.014394957095114)
 [16Aug2025 20:18:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[16Aug2025 20:19:00.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[16Aug2025 20:19:16.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[16Aug2025 20:19:16.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[16Aug2025 20:19:19.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Monster Hunter]
+[16Aug2025 20:19:24.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9540ms or 190 ticks behind
+[16Aug2025 20:19:41.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11380, l='ServerLevel[world]', x=-462.64, y=85.00, z=841.70] died, message: 'Villager suffocated in a wall'
+[16Aug2025 20:19:42.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[16Aug2025 20:19:57.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:59207] logged in with entity id 14294 at (3.2115144682741628, 96.0, 69.75530303732111)
+[16Aug2025 20:19:57.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[16Aug2025 20:19:59.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
+[16Aug2025 20:20:03.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Sweet Dreams]
+[16Aug2025 20:20:21.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[16Aug2025 20:20:21.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[16Aug2025 20:20:22.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[16Aug2025 20:20:22.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[16Aug2025 20:21:37.130] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Aug2025 20:21:37.141] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Aug2025 20:21:45.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.221.198.71:38577] logged in with entity id 15323 at (-416.69999998807907, 73.0, 870.2676043703306)
+[16Aug2025 20:21:45.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[16Aug2025 20:22:55.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:00.762] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:00.878] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:00.989] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:01.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:01.195] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:01.292] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:01.372] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:01.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:01.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:01.705] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:03.432] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:03.543] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:03.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:03.732] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 20:23:38.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Shared Location:S:-510:71:773:6:false:0:Internal-overworld-waypoints
+[16Aug2025 20:24:04.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16764, l='ServerLevel[world]', x=1673.50, y=133.05, z=65.70] died, message: 'Villager suffocated in a wall'
+[16Aug2025 20:26:15.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[16Aug2025 20:26:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[16Aug2025 20:28:11.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[16Aug2025 20:28:11.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[16Aug2025 20:29:36.258] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49a8fa7d[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.89.147.90:59151) lost connection: Timed out
+[16Aug2025 20:29:49.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.127.33.4:38609] logged in with entity id 19913 at (-424.69999998807907, 63.49520087700592, 829.4638740683041)
+[16Aug2025 20:29:49.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[16Aug2025 20:32:57.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:51751] logged in with entity id 21119 at (1531.5426068223799, 72.5625, -361.24446408787094)
+[16Aug2025 20:32:57.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[16Aug2025 20:33:17.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Sweet Dreams]
+[16Aug2025 20:35:21.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Monster Hunter]
+[16Aug2025 20:35:55.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[16Aug2025 20:35:55.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[16Aug2025 20:37:08.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.127.33.4:33801] logged in with entity id 24248 at (-425.5, 73.5625, 865.5)
+[16Aug2025 20:37:08.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[16Aug2025 20:39:26.034] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
