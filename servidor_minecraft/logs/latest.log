@@ -7948,3 +7948,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [16Aug2025 20:59:54.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Diamonds!]
 [16Aug2025 21:00:21.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Tools of the Trade]
 [16Aug2025 21:00:21.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Premium!]
+[16Aug2025 21:01:46.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Diamonds!]
+[16Aug2025 21:02:48.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 fell from a high place
+[16Aug2025 21:03:05.467] [Worker-Main-51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[16Aug2025 21:04:13.054] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_needles
+[16Aug2025 21:04:13.054] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodNeedlesSpell@8bcdaca9
+[16Aug2025 21:06:10.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.38.235.198:56549] logged in with entity id 49740 at (-573.3000000119209, 78.0, 1250.300000011921)
+[16Aug2025 21:06:10.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[16Aug2025 21:06:35.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sweet Dreams]
+[16Aug2025 21:07:03.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Not Today, Thank You]
+[16Aug2025 21:09:45.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Ghost
+[16Aug2025 21:09:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Who You Gonna Call?]
+[16Aug2025 21:10:51.257] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55284, l='ServerLevel[world]', x=-1251.28, y=80.00, z=1585.63] died, message: 'Villager suffocated in a wall'
+[16Aug2025 21:10:51.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
