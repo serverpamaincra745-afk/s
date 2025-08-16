@@ -7961,3 +7961,110 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [16Aug2025 21:09:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Who You Gonna Call?]
 [16Aug2025 21:10:51.257] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55284, l='ServerLevel[world]', x=-1251.28, y=80.00, z=1585.63] died, message: 'Villager suffocated in a wall'
 [16Aug2025 21:10:51.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Aug2025 21:11:09.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2801ms or 56 ticks behind
+[16Aug2025 21:11:26.441] [Worker-Main-51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Aug2025 21:11:27.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2664ms or 53 ticks behind
+[16Aug2025 21:11:29.300] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:guiding_bolt
+[16Aug2025 21:11:29.301] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.GuidingBoltSpell@ecb08685
+[16Aug2025 21:11:31.976] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wisp
+[16Aug2025 21:11:31.976] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.WispSpell@9f9940d9
+[16Aug2025 21:11:50.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Aug2025 21:12:14.741] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55301, l='ServerLevel[world]', x=-1337.30, y=81.00, z=1597.70] died, message: 'Villager was slain by Zombie'
+[16Aug2025 21:12:27.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[16Aug2025 21:13:00.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Aug2025 21:13:08.035] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/55414, l='ServerLevel[world]', x=-1239.87, y=75.94, z=1632.61] died, message: 'Nitwit was slain by Zombie'
+[16Aug2025 21:13:47.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Isn't It Iron Pick]
+[16Aug2025 21:15:14.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Blood Feeders' Home]
+[16Aug2025 21:18:59.019] [Worker-Main-51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Aug2025 21:18:59.019] [Worker-Main-51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Aug2025 21:20:03.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.2998194696714336
+[16Aug2025 21:20:03.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.45643962944438954
+[16Aug2025 21:22:06.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was slain by Hachiko2357
+[16Aug2025 21:22:35.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by camilxdk1
+[16Aug2025 21:23:35.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[16Aug2025 21:23:35.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[16Aug2025 21:24:02.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Amateur Archaeologist]
+[16Aug2025 21:25:04.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.38.235.198:51929] logged in with entity id 72796 at (-842.4848564369896, 62.286742276529544, 3116.0531738152654)
+[16Aug2025 21:25:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[16Aug2025 21:26:58.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by camilxdk1
+[16Aug2025 21:26:59.530] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%23264!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:132) ~[Vampirism-1.20.1-1.10.13.jar%23264!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:24) ~[Vampirism-1.20.1-1.10.13.jar%23264!/:1.20.1-1.10.13]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Aug2025 21:27:18.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by camilxdk1
+[16Aug2025 21:27:19.438] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%23264!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:132) ~[Vampirism-1.20.1-1.10.13.jar%23264!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:24) ~[Vampirism-1.20.1-1.10.13.jar%23264!/:1.20.1-1.10.13]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Aug2025 21:27:49.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[16Aug2025 21:27:49.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[16Aug2025 21:29:58.219] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7f9c3539[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.102.47.163:54783): Took too long to log in
+[16Aug2025 21:29:58.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f9c3539[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.102.47.163:54783) lost connection: Took too long to log in
+[16Aug2025 21:29:58.270] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 21:30:48.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.128.227.40:45121] logged in with entity id 77680 at (-832.6843948304909, 44.0, 3126.634005878352)
+[16Aug2025 21:30:48.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[16Aug2025 21:33:49.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[16Aug2025 21:33:49.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[16Aug2025 21:33:49.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by Ghost
+[16Aug2025 21:34:33.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.21.220.133:59699] logged in with entity id 84118 at (-694.7511573550578, 68.0, 2988.9649803704647)
+[16Aug2025 21:34:33.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[16Aug2025 21:34:48.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sunken City]
+[16Aug2025 21:34:48.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Sunken City]
+[16Aug2025 21:35:17.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[16Aug2025 21:35:29.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Aug2025 21:39:26.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Bloody Stream]
+[16Aug2025 21:40:10.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! -8.552069641129265,2.081741725736194,-5.029276019713052
+[16Aug2025 21:40:10.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 was kicked for floating too long!
+[16Aug2025 21:40:10.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Flying is not enabled on this server
+[16Aug2025 21:40:10.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[16Aug2025 21:40:53.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[16Aug2025 21:40:53.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[16Aug2025 21:41:37.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:59183] logged in with entity id 95346 at (1817.3341458963807, 64.0, -2801.9393956406816)
+[16Aug2025 21:41:37.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[16Aug2025 21:42:14.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[16Aug2025 21:42:14.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[16Aug2025 21:42:26.690] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:37311] logged in with entity id 96354 at (1935.624839557387, 75.41489740650857, -2636.199227551971)
+[16Aug2025 21:42:26.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[16Aug2025 21:43:16.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Bloody Stream]
+[16Aug2025 21:43:30.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[16Aug2025 21:43:30.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[16Aug2025 21:43:34.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[16Aug2025 21:43:34.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[16Aug2025 21:46:28.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:55943] logged in with entity id 98125 at (1812.8953829379416, 63.0, -2845.469240587277)
+[16Aug2025 21:46:28.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[16Aug2025 21:48:04.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:40837] logged in with entity id 98875 at (1781.9298097821722, 63.0, -2786.608791657888)
+[16Aug2025 21:48:04.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[16Aug2025 21:50:27.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.45.74.41:42731] logged in with entity id 99674 at (-685.1646494249562, 62.87426484795393, 3011.3192717812562)
+[16Aug2025 21:50:27.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
