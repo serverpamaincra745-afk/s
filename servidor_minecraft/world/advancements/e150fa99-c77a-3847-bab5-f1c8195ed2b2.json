@@ -142,6 +142,7 @@
       "minecraft:flower_forest": "2025-08-17 02:13:26 +0000",
       "minecraft:frozen_peaks": "2025-08-16 21:08:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-16 22:49:20 +0000",
+      "minecraft:meadow": "2025-08-17 17:36:30 +0000",
       "minecraft:savanna": "2025-08-17 02:03:44 +0000",
       "minecraft:plains": "2025-08-16 20:20:54 +0000"
     },
@@ -5608,6 +5609,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "taiga": "2025-08-17 17:38:21 +0000",
       "plains": "2025-08-17 03:54:49 +0000"
     },
     "done": false
@@ -7055,6 +7057,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_desk": {
     "criteria": {
       "has_log": "2025-08-17 16:52:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-08-17 17:36:43 +0000"
     },
     "done": true
   },

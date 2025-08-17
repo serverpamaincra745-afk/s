@@ -120,6 +120,7 @@
       "minecraft:deep_ocean": "2025-08-16 21:35:25 +0000",
       "minecraft:frozen_river": "2025-08-16 20:44:56 +0000",
       "minecraft:sunflower_plains": "2025-08-17 02:13:35 +0000",
+      "minecraft:birch_forest": "2025-08-17 17:33:56 +0000",
       "minecraft:bamboo_jungle": "2025-08-17 02:04:55 +0000",
       "minecraft:savanna_plateau": "2025-08-17 15:10:31 +0000",
       "minecraft:beach": "2025-08-16 21:31:58 +0000",
@@ -143,6 +144,7 @@
       "minecraft:flower_forest": "2025-08-17 02:13:26 +0000",
       "minecraft:frozen_peaks": "2025-08-16 21:08:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-16 22:50:59 +0000",
+      "minecraft:meadow": "2025-08-17 17:36:03 +0000",
       "minecraft:savanna": "2025-08-17 02:03:44 +0000",
       "minecraft:plains": "2025-08-17 02:00:22 +0000"
     },
@@ -1739,6 +1741,7 @@
       "pasture": "2025-08-17 16:11:19 +0000",
       "volcanic_plains": "2025-08-16 21:39:55 +0000",
       "lavender_field": "2025-08-17 16:25:53 +0000",
+      "fir_clearing": "2025-08-17 17:37:13 +0000",
       "pumpkin_patch": "2025-08-16 21:09:43 +0000",
       "grassland": "2025-08-16 21:36:14 +0000",
       "prairie": "2025-08-16 22:21:36 +0000",
@@ -4960,6 +4963,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "taiga": "2025-08-17 17:36:17 +0000",
       "plains": "2025-08-17 03:53:50 +0000",
       "snowy": "2025-08-17 03:45:55 +0000"
     },
@@ -6972,6 +6976,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-17 17:03:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-08-17 17:20:26 +0000"
     },
     "done": true
   },
