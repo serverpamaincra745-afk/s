@@ -4123,3 +4123,27 @@ java.lang.IllegalArgumentException: Missing required parameters: [<parameter min
 [17Aug2025 19:40:01.738] [Worker-Main-223/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
 [17Aug2025 19:41:29.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Ice Bucket Challenge]
 [17Aug2025 19:42:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hachiko2357> xaero-waypoint:Shared Location:S:15557:96:-359:9:false:0:Internal-overworld-waypoints
+[17Aug2025 19:44:54.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Herc was on a Roll!]
+[17Aug2025 19:46:06.717] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:06.797] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:06.797] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:06.880] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:06.945] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:07.047] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:07.285] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:07.661] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:07.761] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:07.770] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:07.770] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:07.854] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:46:07.854] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[17Aug2025 19:51:20.684] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WerewolfAlphaEntity['Alpha Werewolf Level 5'/160957, l='ServerLevel[world]', x=16180.36, y=64.00, z=88.38] died: Alpha Werewolf Level 5 was slain by Alpha Werewolf Level 5
+[17Aug2025 19:54:41.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -8.941122191969043,1.0009532239383816,-4.747221191547283
+[17Aug2025 19:56:47.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! -0.7390774577506818,11.97355276971561,-0.4718654692496784
+[17Aug2025 19:56:47.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -0.38302987789575127,10.682874328837471,-0.2592334151847808
+[17Aug2025 20:04:44.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[17Aug2025 20:04:44.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[17Aug2025 20:04:44.335] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[17Aug2025 20:04:46.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[17Aug2025 20:04:46.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[17Aug2025 20:04:46.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357

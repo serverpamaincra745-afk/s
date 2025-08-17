@@ -142,6 +142,7 @@
       "minecraft:desert": "2025-08-17 02:03:54 +0000",
       "minecraft:deep_frozen_ocean": "2025-08-17 18:22:59 +0000",
       "minecraft:ocean": "2025-08-16 21:36:03 +0000",
+      "minecraft:jungle": "2025-08-17 20:03:28 +0000",
       "minecraft:snowy_beach": "2025-08-17 18:24:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-17 02:02:57 +0000",
       "minecraft:flower_forest": "2025-08-17 02:13:26 +0000",
@@ -1873,6 +1874,7 @@
       "pasture": "2025-08-17 16:11:22 +0000",
       "volcanic_plains": "2025-08-16 21:40:04 +0000",
       "lavender_field": "2025-08-17 16:25:54 +0000",
+      "fir_clearing": "2025-08-17 19:52:21 +0000",
       "pumpkin_patch": "2025-08-16 20:19:06 +0000",
       "grassland": "2025-08-16 21:36:13 +0000",
       "prairie": "2025-08-16 22:21:40 +0000",
@@ -3188,7 +3190,9 @@
     "criteria": {
       "minecraft:pillager": "2025-08-17 16:23:45 +0000",
       "minecraft:skeleton": "2025-08-16 20:19:19 +0000",
+      "minecraft:vindicator": "2025-08-17 19:59:02 +0000",
       "minecraft:spider": "2025-08-16 20:33:48 +0000",
+      "minecraft:evoker": "2025-08-17 19:59:14 +0000",
       "minecraft:witch": "2025-08-17 18:21:00 +0000",
       "minecraft:zombie": "2025-08-16 20:35:05 +0000",
       "minecraft:zombie_villager": "2025-08-16 20:35:08 +0000"
@@ -7171,6 +7175,109 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-08-17 20:04:45 +0000",
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-08-17 19:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-08-17 19:57:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_hoe_repairing": {
     "criteria": {
       "has_diamond_hoe": "2025-08-17 19:18:35 +0000"
@@ -7180,6 +7287,18 @@
   "celestial_artifacts:recipes/misc/ender_protector": {
     "criteria": {
       "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
     },
     "done": true
   },
@@ -7195,6 +7314,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
   "celestial_artifacts:recipes/misc/precious_bracelet": {
     "criteria": {
       "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
@@ -7204,6 +7353,12 @@
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
     },
     "done": true
   },
@@ -7219,15 +7374,81 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/gaia_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-17 19:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/oak_wine_shelf": {
+    "criteria": {
+      "has_oak_slab": "2025-08-17 19:57:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-17 19:18:06 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-17 19:51:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-08-17 19:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-17 19:51:38 +0000"
     },
     "done": true
   },
@@ -7243,9 +7464,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-17 19:51:38 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire_beacon": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:41:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-08-17 19:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-17 19:57:30 +0000"
     },
     "done": true
   },
@@ -7261,9 +7506,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
     },
     "done": true
   },
@@ -7279,9 +7560,63 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/totem_top": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:41:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
     },
     "done": true
   },
@@ -7291,9 +7626,39 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
     },
     "done": true
   },
@@ -7303,9 +7668,69 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
   "celestial_artifacts:recipes/misc/gallop_necklace": {
     "criteria": {
       "has_unowned_pendant": "2025-08-17 19:03:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-17 19:51:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-08-17 19:57:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
     },
     "done": true
   },
@@ -7315,9 +7740,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-08-17 19:18:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
     },
     "done": true
   },
@@ -7333,6 +7782,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
@@ -7342,6 +7803,36 @@
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/copper_reinforce_plate": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-08-17 19:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
     },
     "done": true
   },
@@ -7369,15 +7860,81 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-17 19:57:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-08-17 19:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/crying_obsidian": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:41:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:41:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:57:27 +0000"
     },
     "done": true
   },

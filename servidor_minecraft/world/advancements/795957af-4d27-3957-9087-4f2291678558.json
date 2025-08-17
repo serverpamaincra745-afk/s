@@ -140,6 +140,7 @@
       "minecraft:desert": "2025-08-17 02:03:54 +0000",
       "minecraft:deep_frozen_ocean": "2025-08-17 03:45:40 +0000",
       "minecraft:ocean": "2025-08-16 21:36:03 +0000",
+      "minecraft:jungle": "2025-08-17 20:02:49 +0000",
       "minecraft:snowy_beach": "2025-08-17 03:45:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-17 02:02:57 +0000",
       "minecraft:flower_forest": "2025-08-17 02:13:26 +0000",
@@ -147,6 +148,7 @@
       "minecraft:old_growth_birch_forest": "2025-08-16 22:50:59 +0000",
       "minecraft:deep_dark": "2025-08-17 18:30:45 +0000",
       "minecraft:meadow": "2025-08-17 17:36:03 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-08-17 19:48:24 +0000",
       "minecraft:savanna": "2025-08-17 02:03:44 +0000",
       "minecraft:plains": "2025-08-17 02:00:22 +0000"
     },
@@ -1754,7 +1756,8 @@
       "gravel_beach": "2025-08-16 21:33:57 +0000",
       "rainforest": "2025-08-16 22:13:52 +0000",
       "snowy_maple_woods": "2025-08-16 20:49:49 +0000",
-      "crag": "2025-08-17 16:03:09 +0000"
+      "crag": "2025-08-17 16:03:09 +0000",
+      "ominous_woods": "2025-08-17 19:53:10 +0000"
     },
     "done": false
   },
@@ -1777,7 +1780,9 @@
       "minecraft:vindicator": "2025-08-17 14:49:35 +0000",
       "minecraft:spider": "2025-08-16 21:47:22 +0000",
       "minecraft:creeper": "2025-08-17 18:06:10 +0000",
+      "minecraft:evoker": "2025-08-17 19:58:53 +0000",
       "minecraft:phantom": "2025-08-17 18:06:06 +0000",
+      "minecraft:vex": "2025-08-17 19:58:52 +0000",
       "minecraft:zombie": "2025-08-16 20:51:16 +0000",
       "minecraft:drowned": "2025-08-17 02:08:40 +0000"
     },
@@ -7995,6 +8000,228 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-08-17 19:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-17 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/gaia_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-17 19:58:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-17 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-17 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-17 19:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-08-17 19:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-17 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:59:58 +0000"
     },
     "done": true
   },

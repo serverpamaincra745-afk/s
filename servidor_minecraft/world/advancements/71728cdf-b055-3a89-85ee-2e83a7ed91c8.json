@@ -143,6 +143,7 @@
       "minecraft:deep_frozen_ocean": "2025-08-16 20:16:35 +0000",
       "minecraft:windswept_forest": "2025-08-16 21:11:00 +0000",
       "minecraft:ocean": "2025-08-16 21:18:51 +0000",
+      "minecraft:jungle": "2025-08-17 20:03:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-16 23:21:49 +0000",
       "minecraft:snowy_beach": "2025-08-16 20:14:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-17 02:02:57 +0000",
@@ -150,6 +151,7 @@
       "minecraft:old_growth_birch_forest": "2025-08-16 21:53:18 +0000",
       "minecraft:deep_dark": "2025-08-17 19:11:32 +0000",
       "minecraft:meadow": "2025-08-17 17:41:23 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-08-17 19:48:13 +0000",
       "minecraft:savanna": "2025-08-16 22:53:57 +0000",
       "minecraft:plains": "2025-08-16 21:14:50 +0000"
     },
@@ -3150,10 +3152,12 @@
       "woodland": "2025-08-16 22:13:46 +0000",
       "shrubland": "2025-08-17 15:21:11 +0000",
       "snowblossom_grove": "2025-08-17 03:33:04 +0000",
+      "rocky_shrubland": "2025-08-17 19:55:10 +0000",
       "scrubland": "2025-08-16 23:15:13 +0000",
       "floodplain": "2025-08-16 23:06:59 +0000",
       "highland": "2025-08-17 15:29:01 +0000",
       "jacaranda_glade": "2025-08-16 21:17:44 +0000",
+      "wetland": "2025-08-17 19:46:12 +0000",
       "cold_desert": "2025-08-16 20:17:08 +0000",
       "old_growth_woodland": "2025-08-16 22:53:17 +0000",
       "field": "2025-08-16 23:21:29 +0000",
@@ -3174,12 +3178,14 @@
       "pasture": "2025-08-17 16:24:47 +0000",
       "volcanic_plains": "2025-08-17 02:05:17 +0000",
       "lavender_field": "2025-08-17 16:26:16 +0000",
+      "fir_clearing": "2025-08-17 19:46:11 +0000",
       "prairie": "2025-08-16 21:18:11 +0000",
       "snowy_coniferous_forest": "2025-08-16 20:17:41 +0000",
       "snowy_fir_clearing": "2025-08-17 03:33:05 +0000",
       "rainforest": "2025-08-16 23:09:44 +0000",
       "snowy_maple_woods": "2025-08-16 21:08:09 +0000",
-      "crag": "2025-08-17 16:03:09 +0000"
+      "crag": "2025-08-17 16:03:09 +0000",
+      "ominous_woods": "2025-08-17 19:51:34 +0000"
     },
     "done": false
   },
@@ -3388,10 +3394,13 @@
       "minecraft:pillager": "2025-08-17 02:21:03 +0000",
       "minecraft:skeleton": "2025-08-16 21:07:09 +0000",
       "minecraft:ravager": "2025-08-17 16:24:10 +0000",
+      "minecraft:vindicator": "2025-08-17 19:58:34 +0000",
       "minecraft:spider": "2025-08-16 21:51:10 +0000",
       "minecraft:creeper": "2025-08-17 15:45:35 +0000",
+      "minecraft:evoker": "2025-08-17 19:58:39 +0000",
       "minecraft:phantom": "2025-08-17 02:08:01 +0000",
       "minecraft:stray": "2025-08-16 20:35:21 +0000",
+      "minecraft:vex": "2025-08-17 19:59:28 +0000",
       "minecraft:zombie": "2025-08-16 22:50:39 +0000"
     },
     "done": false
@@ -8350,9 +8359,124 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-08-17 20:04:38 +0000",
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-17 20:04:33 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-17 19:24:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-17 19:48:53 +0000"
     },
     "done": true
   },
@@ -8368,9 +8492,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/gaia_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-17 19:58:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-17 19:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-17 19:24:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-08-17 19:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
     },
     "done": true
   },
@@ -8380,9 +8588,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-17 19:24:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-08-17 20:02:03 +0000"
     },
     "done": true
   },
@@ -8392,15 +8624,75 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-17 19:24:59 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-17 19:47:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-17 19:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-17 19:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-08-17 19:22:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-08-17 20:02:03 +0000"
     },
     "done": true
   },
@@ -8416,15 +8708,63 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-08-17 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 19:48:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-08-17 19:21:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-08-17 20:02:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-17 19:24:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-17 20:02:03 +0000"
     },
     "done": true
   },
@@ -8437,6 +8777,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-17 19:24:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-08-17 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-17 19:48:53 +0000"
     },
     "done": true
   },
