@@ -6758,6 +6758,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-08-17 17:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-08-17 17:03:42 +0000"
@@ -6794,6 +6800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-17 17:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-08-17 16:52:24 +0000"
@@ -6809,6 +6821,12 @@
   "vampirism:recipes/decorations/hunter/potion_table": {
     "criteria": {
       "has_glass_bottle": "2025-08-17 17:03:28 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-08-17 17:12:32 +0000"
     },
     "done": true
   },
@@ -6863,6 +6881,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
     "criteria": {
       "has_log": "2025-08-17 16:52:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-17 17:18:32 +0000"
     },
     "done": true
   },

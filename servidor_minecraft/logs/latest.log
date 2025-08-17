@@ -3821,3 +3821,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [17Aug2025 17:12:17.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Dungeon Delving]
 [17Aug2025 17:12:30.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Dungeon Delving]
 [17Aug2025 17:12:32.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Dungeon Delving]
+[17Aug2025 17:13:07.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [How long's this been here?]
+[17Aug2025 17:17:27.032] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:raise_dead
+[17Aug2025 17:17:27.033] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RaiseDeadSpell@a68f3101
+[17Aug2025 17:17:28.491] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[17Aug2025 17:17:28.491] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[17Aug2025 17:17:28.492] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[17Aug2025 17:17:28.492] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[17Aug2025 17:17:34.991] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:acid_orb
+[17Aug2025 17:17:34.991] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.AcidOrbSpell@29976087
+[17Aug2025 17:17:46.234] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wither_skull
+[17Aug2025 17:17:46.234] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.WitherSkullSpell@64d78c3b
+[17Aug2025 17:17:51.034] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_step
+[17Aug2025 17:17:51.034] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodStepSpell@5ae9361b
+[17Aug2025 17:18:26.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[17Aug2025 17:20:26.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Necronomicon]
+[17Aug2025 17:21:39.006] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:lob_creeper
+[17Aug2025 17:21:39.006] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.LobCreeperSpell@e7c76c98
