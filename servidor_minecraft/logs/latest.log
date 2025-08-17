@@ -3888,3 +3888,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [17Aug2025 17:58:41.704] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
 [17Aug2025 17:58:41.704] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
 [17Aug2025 17:59:49.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [It Came from The Pit]
+[17Aug2025 18:10:51.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:15876:63:-544:2:false:0:Internal-overworld-waypoints
+[17Aug2025 18:12:37.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved wrongly!
+[17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot

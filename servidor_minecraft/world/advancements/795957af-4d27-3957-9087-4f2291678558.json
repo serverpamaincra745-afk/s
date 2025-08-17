@@ -1774,6 +1774,8 @@
       "minecraft:skeleton": "2025-08-16 21:23:46 +0000",
       "minecraft:vindicator": "2025-08-17 14:49:35 +0000",
       "minecraft:spider": "2025-08-16 21:47:22 +0000",
+      "minecraft:creeper": "2025-08-17 18:06:10 +0000",
+      "minecraft:phantom": "2025-08-17 18:06:06 +0000",
       "minecraft:zombie": "2025-08-16 20:51:16 +0000",
       "minecraft:drowned": "2025-08-17 02:08:40 +0000"
     },
@@ -6727,6 +6729,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-08-17 18:01:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-17 17:01:25 +0000"
@@ -6823,9 +6831,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-08-17 18:04:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2025-08-17 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 18:04:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-08-17 18:04:02 +0000"
     },
     "done": true
   },
@@ -6910,6 +6936,12 @@
   "create:recipes/building_blocks/crafting/logistics/red_postbox": {
     "criteria": {
       "has_barrel": "2025-08-17 17:02:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 18:04:02 +0000"
     },
     "done": true
   },
@@ -7216,6 +7248,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-08-17 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-17 18:04:02 +0000"
     },
     "done": true
   },
