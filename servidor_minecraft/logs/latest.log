@@ -3865,3 +3865,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [17Aug2025 17:49:01.863] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_punch
 [17Aug2025 17:49:01.863] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VortexPunchSpell@f83efbd
 [17Aug2025 17:50:48.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/109234, l='ServerLevel[world]', x=16546.35, y=64.00, z=-334.86] died, message: 'Forester was slain by Zombie'
+[17Aug2025 17:53:25.352] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.352] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.352] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.352] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.352] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.352] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.352] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.352] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.352] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.353] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.353] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:25.353] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 17:53:57.492] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[17Aug2025 17:56:10.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[17Aug2025 17:56:10.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[17Aug2025 17:56:10.301] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[17Aug2025 17:56:10.341] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Aug2025 17:57:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 40 entities
+[17Aug2025 17:58:41.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:56795] logged in with entity id 116473 at (16431.773329694795, 91.0, -440.45301075336255)
+[17Aug2025 17:58:41.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[17Aug2025 17:58:41.704] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
+[17Aug2025 17:58:41.704] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[17Aug2025 17:59:49.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [It Came from The Pit]
