@@ -118,6 +118,7 @@
       "minecraft:taiga": "2025-08-16 20:04:45 +0000",
       "minecraft:deep_ocean": "2025-08-16 21:35:25 +0000",
       "minecraft:frozen_river": "2025-08-16 20:05:02 +0000",
+      "minecraft:birch_forest": "2025-08-16 22:47:25 +0000",
       "minecraft:beach": "2025-08-16 21:31:58 +0000",
       "minecraft:river": "2025-08-16 20:10:58 +0000",
       "minecraft:stony_shore": "2025-08-16 20:25:36 +0000",
@@ -127,6 +128,7 @@
       "minecraft:deep_cold_ocean": "2025-08-16 20:39:10 +0000",
       "minecraft:ocean": "2025-08-16 21:36:03 +0000",
       "minecraft:frozen_peaks": "2025-08-16 21:08:29 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-16 22:49:20 +0000",
       "minecraft:plains": "2025-08-16 20:20:54 +0000"
     },
     "done": false
@@ -1788,6 +1790,7 @@
       "sweet_berries": "2025-08-16 20:13:22 +0000",
       "cooked_beef": "2025-08-16 20:28:05 +0000",
       "beef": "2025-08-16 21:16:13 +0000",
+      "golden_apple": "2025-08-16 22:33:11 +0000",
       "rotten_flesh": "2025-08-16 21:21:21 +0000"
     },
     "done": false
@@ -1819,28 +1822,35 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-08-16 21:06:53 +0000",
+      "woodland": "2025-08-16 22:09:04 +0000",
       "shrubland": "2025-08-16 21:38:38 +0000",
       "snowblossom_grove": "2025-08-16 20:15:51 +0000",
       "rocky_shrubland": "2025-08-16 21:39:38 +0000",
+      "floodplain": "2025-08-16 22:14:49 +0000",
       "highland": "2025-08-16 20:18:31 +0000",
+      "mystic_grove": "2025-08-16 22:16:47 +0000",
       "old_growth_woodland": "2025-08-16 21:43:12 +0000",
       "maple_woods": "2025-08-16 20:17:46 +0000",
       "field": "2025-08-16 20:40:00 +0000",
       "orchard": "2025-08-16 21:37:42 +0000",
       "overgrown_greens": "2025-08-16 21:36:41 +0000",
+      "mediterranean_forest": "2025-08-16 22:08:24 +0000",
       "coniferous_forest": "2025-08-16 20:25:41 +0000",
       "old_growth_dead_forest": "2025-08-16 20:10:43 +0000",
+      "redwood_forest": "2025-08-16 22:20:51 +0000",
       "aspen_glade": "2025-08-16 20:20:59 +0000",
       "seasonal_forest": "2025-08-16 20:35:51 +0000",
       "dead_forest": "2025-08-16 20:12:04 +0000",
       "volcanic_plains": "2025-08-16 21:40:04 +0000",
       "pumpkin_patch": "2025-08-16 20:19:06 +0000",
       "grassland": "2025-08-16 21:36:13 +0000",
+      "prairie": "2025-08-16 22:21:40 +0000",
       "snowy_coniferous_forest": "2025-08-16 21:05:07 +0000",
       "snowy_fir_clearing": "2025-08-16 21:05:14 +0000",
       "tundra": "2025-08-16 21:07:13 +0000",
       "glowing_grotto": "2025-08-16 20:45:35 +0000",
       "gravel_beach": "2025-08-16 21:33:57 +0000",
+      "rainforest": "2025-08-16 22:14:07 +0000",
       "crag": "2025-08-16 20:17:54 +0000",
       "snowy_maple_woods": "2025-08-16 21:04:43 +0000",
       "ominous_woods": "2025-08-16 20:25:54 +0000"
@@ -5097,75 +5107,237 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-08-16 22:09:11 +0000"
+    },
+    "done": false
+  },
+  "vampiresdelight:recipes/food/snow_white_ice_cream": {
+    "criteria": {
+      "has_holy_water": "2025-08-16 22:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-16 22:10:51 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-08-16 22:10:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-08-16 22:18:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-08-16 22:22:19 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-08-16 22:23:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-08-16 22:23:39 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/emerald_ring": {
+    "criteria": {
+      "has_emerald": "2025-08-16 22:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-16 22:24:57 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/emerald_bracelet": {
+    "criteria": {
+      "has_emerald": "2025-08-16 22:24:57 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/chaotic_pendant": {
+    "criteria": {
+      "has_enchanted_book": "2025-08-16 22:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-16 22:28:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-08-16 22:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-16 22:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-16 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-08-16 22:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-16 22:40:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-16 22:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-08-16 22:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-08-16 22:41:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-08-16 22:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-08-16 22:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-16 22:41:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-08-16 22:41:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-08-16 22:41:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-08-16 23:01:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 21:42:50 +0000"
+      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
     },
     "done": false
   },
