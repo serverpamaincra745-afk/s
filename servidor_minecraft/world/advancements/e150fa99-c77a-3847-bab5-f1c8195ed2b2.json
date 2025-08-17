@@ -121,6 +121,7 @@
       "minecraft:sunflower_plains": "2025-08-17 02:13:34 +0000",
       "minecraft:birch_forest": "2025-08-16 22:47:25 +0000",
       "minecraft:bamboo_jungle": "2025-08-17 02:04:53 +0000",
+      "minecraft:savanna_plateau": "2025-08-17 15:09:43 +0000",
       "minecraft:beach": "2025-08-16 21:31:58 +0000",
       "minecraft:dark_forest": "2025-08-17 02:02:00 +0000",
       "minecraft:river": "2025-08-16 20:10:58 +0000",
@@ -1846,6 +1847,7 @@
       "overgrown_greens": "2025-08-16 21:36:41 +0000",
       "mediterranean_forest": "2025-08-16 22:08:24 +0000",
       "coniferous_forest": "2025-08-16 20:25:41 +0000",
+      "spider_nest": "2025-08-17 15:03:30 +0000",
       "dryland": "2025-08-17 02:04:14 +0000",
       "old_growth_dead_forest": "2025-08-16 20:10:43 +0000",
       "lush_desert": "2025-08-17 02:04:18 +0000",
@@ -5679,9 +5681,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:recipes/food/grilled_garlic": {
     "criteria": {
       "grilled_garlic": "2025-08-17 14:55:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-08-17 14:58:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
     },
     "done": true
   },
@@ -5691,9 +5711,147 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-08-17 15:12:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-08-17 15:11:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 15:12:01 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/food/general/garlic_bread": {
     "criteria": {
       "has_garlic": "2025-08-17 14:55:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-08-17 15:12:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-08-17 15:11:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
     },
     "done": true
   },
@@ -5721,9 +5879,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
     "criteria": {
       "has_heart": "2025-08-17 14:49:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
     },
     "done": true
   },
@@ -5733,9 +5909,93 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
     "criteria": {
       "has_amulet": "2025-08-17 14:53:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-08-17 15:00:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-17 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-08-17 15:11:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-17 15:12:01 +0000"
     },
     "done": true
   },
@@ -5745,15 +6005,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-08-17 15:11:12 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:recipes/cooking/borscht": {
     "criteria": {
       "has_any_ingredient": "2025-08-17 14:55:44 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:recipes/cooking/garlic_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-17 14:55:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-17 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 15:12:01 +0000"
     },
     "done": true
   },

@@ -121,6 +121,7 @@
       "minecraft:sunflower_plains": "2025-08-17 02:13:34 +0000",
       "minecraft:birch_forest": "2025-08-16 23:09:23 +0000",
       "minecraft:bamboo_jungle": "2025-08-17 02:04:53 +0000",
+      "minecraft:savanna_plateau": "2025-08-17 15:10:55 +0000",
       "minecraft:beach": "2025-08-16 21:42:58 +0000",
       "minecraft:dark_forest": "2025-08-17 02:02:00 +0000",
       "minecraft:sparse_jungle": "2025-08-16 21:53:29 +0000",
@@ -7275,9 +7276,81 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-08-17 15:04:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-08-17 15:13:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2025-08-17 14:55:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 15:13:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-08-17 15:13:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-17 15:07:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 15:07:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-17 15:11:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-08-17 15:07:12 +0000"
     },
     "done": true
   },
@@ -7287,9 +7360,177 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-08-17 15:13:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2025-08-17 14:54:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-08-17 15:11:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_normal_from_enhanced": {
+    "criteria": {
+      "has_enhanced_holy_water": "2025-08-17 14:57:54 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/snow_white_ice_cream": {
+    "criteria": {
+      "has_holy_water": "2025-08-17 14:57:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 15:07:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-08-17 15:00:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-08-17 15:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
+    "criteria": {
+      "has_ultimate_holy_water": "2025-08-17 14:57:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-08-17 15:02:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-08-17 15:13:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-17 15:13:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-08-17 15:13:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 15:13:06 +0000"
     },
     "done": true
   },

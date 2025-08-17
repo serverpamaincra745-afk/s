@@ -12906,3 +12906,84 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [17Aug2025 14:59:29.089] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [17Aug2025 14:59:29.089] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [17Aug2025 14:59:37.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Shared Location:S:8902:64:-5610:12:false:0:Internal-overworld-waypoints
+[17Aug2025 15:00:45.086] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/1494, l='ServerLevel[world]', x=8855.63, y=96.00, z=-5388.20] died, message: 'Forester was energized by Lightning Dragon'
+[17Aug2025 15:00:45.346] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/325, l='ServerLevel[world]', x=8879.53, y=105.00, z=-5377.54] died, message: 'Nitwit was struck with lightning by Lightning Dragon'
+[17Aug2025 15:02:17.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 15:02:17.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 15:06:54.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Dragonslayer]
+[17Aug2025 15:07:17.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 15:07:17.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 15:07:22.554] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magic_arrow
+[17Aug2025 15:07:22.555] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.MagicArrowSpell@f42b5b21
+[17Aug2025 15:08:04.550] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[17Aug2025 15:09:23.783] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by vampirism:vampire at BlockPos{x=8853, y=79, z=-5511} with badomen level 0
+[17Aug2025 15:09:25.438] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[17Aug2025 15:09:27.412] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[17Aug2025 15:09:29.432] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[17Aug2025 15:09:31.420] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[17Aug2025 15:09:33.420] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[17Aug2025 15:11:41.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Dragonslayer]
+[17Aug2025 15:12:02.044] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[17Aug2025 15:12:17.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 15:12:17.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 15:13:24.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Strengthened by Fire]
+[17Aug2025 15:14:18.845] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[17Aug2025 15:14:18.845] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[17Aug2025 15:17:13.638] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[17Aug2025 15:17:15.194] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[17Aug2025 15:17:15.912] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[17Aug2025 15:17:15.917] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[17Aug2025 15:17:15.919] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[17Aug2025 15:17:15.923] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[17Aug2025 15:17:18.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 15:17:18.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 15:17:20.990] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:toucan
+[17Aug2025 15:17:24.178] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.25 and blood value 15 for entity alexsmobs:komodo_dragon
+[17Aug2025 15:17:31.277] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[17Aug2025 15:17:31.278] [Worker-Main-4/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[17Aug2025 15:17:37.210] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[17Aug2025 15:17:42.163] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.3 and blood value 9 for entity alexsmobs:tarantula_hawk
+[17Aug2025 15:17:51.630] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[17Aug2025 15:18:04.731] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[17Aug2025 15:18:04.731] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[17Aug2025 15:18:06.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -16.71115999430549,-4.498684108411069,-9.467070685795079
+[17Aug2025 15:18:06.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -16.309920454135863,-4.396529427467215,-9.239681840888807
+[17Aug2025 15:18:06.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -15.911080261661482,-4.282793279986279,-9.013907914592892
+[17Aug2025 15:18:06.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -15.514811957185884,-4.160196308620613,-8.789819082387112
+[17Aug2025 15:18:06.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -15.534945354946103,-4.114619715839794,-8.802184133213814
+[17Aug2025 15:18:06.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -15.143396801195195,-3.981736213959067,-8.581085541591165
+[17Aug2025 15:18:06.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -14.753834079689113,-3.8464817809028347,-8.3612164634269
+[17Aug2025 15:18:06.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -14.778713196616081,-3.805604887835784,-8.37635861986837
+[17Aug2025 15:18:06.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -14.392296830883424,-3.669250642499435,-8.15840366370685
+[17Aug2025 15:18:06.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -14.41835818193249,-3.6381076287500065,-8.174129829903904
+[17Aug2025 15:18:09.499] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:roadrunner
+[17Aug2025 15:18:58.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 0.3115521651106974,-2.60663227298096,10.591691265585723
+[17Aug2025 15:18:58.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 0.28816503916277725,-2.9829301713135123,11.66097098692444
+[17Aug2025 15:18:58.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 0.24988337549621065,-3.3866551238348848,12.728679131727404
+[17Aug2025 15:18:58.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 0.19590169231742038,-3.818416033126141,13.79396637939135
+[17Aug2025 15:18:58.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 0.12559718379452534,-4.27873567415628,14.855926767231722
+[17Aug2025 15:18:58.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 0.03850068878455204,-4.768246948570777,15.91379578998658
+[17Aug2025 15:18:59.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.0062330227319762,5.449807715746033,-11.55452200599484
+[17Aug2025 15:18:59.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.0062330227319762,5.449807715746033,-11.55452200599484
+[17Aug2025 15:18:59.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.0062330227319762,5.449807715746033,-11.55452200599484
+[17Aug2025 15:18:59.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.0062330227319762,5.449807715746033,-11.55452200599484
+[17Aug2025 15:18:59.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.0062330227319762,5.449807715746033,-11.55452200599484
+[17Aug2025 15:18:59.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.0062330227319762,5.449807715746033,-11.55452200599484
+[17Aug2025 15:18:59.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 0.8708993676209502,4.8799310110882175,-10.506744937162694
+[17Aug2025 15:18:59.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.5712052342641982,7.071718114994894,-13.63617996926041
+[17Aug2025 15:18:59.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 2.0717930879527557,8.615884194480202,-15.806598387967824
+[17Aug2025 15:18:59.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.8592616866171738,6.316541412682227,-9.48928057582907
+[17Aug2025 15:18:59.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.6813370213203598,5.677849021586553,-8.465804902577474
+[17Aug2025 15:18:59.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.8592616866171738,6.316541412682227,-9.48928057582907
+[17Aug2025 15:18:59.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.8592616866171738,6.316541412682227,-9.48928057582907
+[17Aug2025 15:18:59.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.8592616866171738,6.316541412682227,-9.48928057582907
+[17Aug2025 15:18:59.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.8592616866171738,6.316541412682227,-9.48928057582907
+[17Aug2025 15:18:59.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.8592616866171738,6.316541412682227,-9.48928057582907
+[17Aug2025 15:18:59.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 1.8592616866171738,6.316541412682227,-9.48928057582907
+[17Aug2025 15:19:42.248] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[17Aug2025 15:20:05.576] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.17 and blood value 0 for entity alexsmobs:flutter
+[17Aug2025 15:20:13.255] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[17Aug2025 15:20:13.256] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[17Aug2025 15:20:46.218] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[17Aug2025 15:20:47.213] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[17Aug2025 15:20:48.694] [Worker-Main-13/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 18.268s
