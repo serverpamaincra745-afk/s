@@ -6405,6 +6405,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-17 16:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-17 16:14:12 +0000"
@@ -6444,6 +6450,12 @@
   "vampirism:recipes/misc/vampire_beacon": {
     "criteria": {
       "has_obsidian": "2025-08-17 16:25:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-17 16:37:40 +0000"
     },
     "done": true
   },
@@ -6489,6 +6501,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-08-17 16:43:56 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/decorations/general/totem_top": {
     "criteria": {
       "has_obsidian": "2025-08-17 16:25:04 +0000"
@@ -6498,6 +6516,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-08-17 16:21:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-08-17 16:44:06 +0000"
     },
     "done": true
   },
@@ -6585,6 +6609,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-08-17 16:43:43 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/vampire_forest": {
     "criteria": {
       "main": "2025-08-17 16:36:19 +0000"
@@ -6594,6 +6624,12 @@
   "minecraft:recipes/misc/crying_obsidian": {
     "criteria": {
       "has_obsidian": "2025-08-17 16:25:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-17 16:37:40 +0000"
     },
     "done": true
   },
