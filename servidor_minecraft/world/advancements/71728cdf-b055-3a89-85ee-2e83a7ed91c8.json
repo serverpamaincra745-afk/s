@@ -116,8 +116,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-08-16 20:08:46 +0000",
+      "minecraft:deep_ocean": "2025-08-17 02:02:29 +0000",
       "minecraft:frozen_river": "2025-08-16 20:11:55 +0000",
+      "minecraft:sunflower_plains": "2025-08-17 02:13:34 +0000",
       "minecraft:birch_forest": "2025-08-16 23:09:23 +0000",
+      "minecraft:bamboo_jungle": "2025-08-17 02:04:53 +0000",
       "minecraft:beach": "2025-08-16 21:42:58 +0000",
       "minecraft:dark_forest": "2025-08-17 02:02:00 +0000",
       "minecraft:sparse_jungle": "2025-08-16 21:53:29 +0000",
@@ -132,11 +135,14 @@
       "minecraft:forest": "2025-08-16 21:31:45 +0000",
       "minecraft:deep_cold_ocean": "2025-08-16 23:19:51 +0000",
       "minecraft:frozen_ocean": "2025-08-16 20:14:52 +0000",
+      "minecraft:desert": "2025-08-17 02:03:54 +0000",
       "minecraft:deep_frozen_ocean": "2025-08-16 20:16:35 +0000",
       "minecraft:windswept_forest": "2025-08-16 21:11:00 +0000",
       "minecraft:ocean": "2025-08-16 21:18:51 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-16 23:21:49 +0000",
       "minecraft:snowy_beach": "2025-08-16 20:14:32 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-17 02:02:57 +0000",
+      "minecraft:flower_forest": "2025-08-17 02:13:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-16 21:53:18 +0000",
       "minecraft:savanna": "2025-08-16 22:53:57 +0000",
       "minecraft:plains": "2025-08-16 21:14:50 +0000"
@@ -2242,6 +2248,7 @@
       "cooked_porkchop": "2025-08-16 20:46:16 +0000",
       "cooked_mutton": "2025-08-16 20:34:55 +0000",
       "cooked_beef": "2025-08-17 01:43:19 +0000",
+      "baked_potato": "2025-08-17 02:22:21 +0000",
       "mutton": "2025-08-16 21:40:24 +0000",
       "bread": "2025-08-16 20:09:26 +0000",
       "rabbit_stew": "2025-08-16 20:07:36 +0000"
@@ -3142,10 +3149,17 @@
       "orchard": "2025-08-16 23:16:16 +0000",
       "overgrown_greens": "2025-08-16 23:09:16 +0000",
       "mediterranean_forest": "2025-08-16 23:14:34 +0000",
+      "coniferous_forest": "2025-08-17 02:12:30 +0000",
+      "dryland": "2025-08-17 02:04:14 +0000",
       "old_growth_dead_forest": "2025-08-16 21:09:49 +0000",
+      "lush_desert": "2025-08-17 02:04:19 +0000",
       "redwood_forest": "2025-08-16 21:18:25 +0000",
       "aspen_glade": "2025-08-16 21:16:46 +0000",
       "dune_beach": "2025-08-16 21:20:26 +0000",
+      "seasonal_forest": "2025-08-17 02:12:43 +0000",
+      "dead_forest": "2025-08-17 03:32:16 +0000",
+      "rocky_rainforest": "2025-08-17 02:04:49 +0000",
+      "volcanic_plains": "2025-08-17 02:05:17 +0000",
       "prairie": "2025-08-16 21:18:11 +0000",
       "snowy_coniferous_forest": "2025-08-16 20:17:41 +0000",
       "rainforest": "2025-08-16 23:09:44 +0000",
@@ -3354,8 +3368,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-17 02:21:03 +0000",
       "minecraft:skeleton": "2025-08-16 21:07:09 +0000",
       "minecraft:spider": "2025-08-16 21:51:10 +0000",
+      "minecraft:phantom": "2025-08-17 02:08:01 +0000",
       "minecraft:stray": "2025-08-16 20:35:21 +0000",
       "minecraft:zombie": "2025-08-16 22:50:39 +0000"
     },
@@ -6925,15 +6941,93 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-17 01:45:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-08-17 01:59:23 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
     "criteria": {
-      "killed_fire_dragon": "2025-08-17 01:45:44 +0000"
+      "has_black_sand": "2025-08-17 02:05:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-17 02:07:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-17 02:07:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 02:07:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-08-17 02:07:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-08-17 02:07:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 02:07:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-08-17 02:07:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-08-17 02:07:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2025-08-17 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/cooked_bat_from_smoking": {
+    "criteria": {
+      "cooked_bat": "2025-08-17 02:18:52 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/cooked_bat": {
+    "criteria": {
+      "cooked_bat": "2025-08-17 02:18:52 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/cooked_bat_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bat": "2025-08-17 02:18:52 +0000"
     },
     "done": true
   },
