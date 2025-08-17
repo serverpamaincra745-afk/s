@@ -3809,3 +3809,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [17Aug2025 17:02:09.331] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:burning_dash
 [17Aug2025 17:02:09.331] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.BurningDashSpell@277a50c8
 [17Aug2025 17:02:18.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Let's Get To Work]
+[17Aug2025 17:02:34.899] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firebolt
+[17Aug2025 17:02:34.900] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.FireboltSpell@7dcdb5f5
+[17Aug2025 17:03:47.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[17Aug2025 17:04:56.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Killed 73 entities]
+[17Aug2025 17:05:16.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Killed 97 entities]
+[17Aug2025 17:05:28.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[17Aug2025 17:06:23.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Boss:B:16482:20:-1013:11:false:0:Internal-overworld-waypoints
+[17Aug2025 17:11:21.540] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:spectral_hammer
+[17Aug2025 17:11:21.540] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SpectralHammerSpell@7b137a2b
+[17Aug2025 17:12:17.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Dungeon Delving]
+[17Aug2025 17:12:30.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Dungeon Delving]
+[17Aug2025 17:12:32.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Dungeon Delving]
