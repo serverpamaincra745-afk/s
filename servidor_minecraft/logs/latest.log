@@ -2718,3 +2718,80 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [17Aug2025 01:42:42.775] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
 [17Aug2025 01:42:42.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
 [17Aug2025 01:45:06.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:3322:88:-2469:14:false:0:Internal-overworld-waypoints
+[17Aug2025 01:45:44.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Who You Gonna Call?]
+[17Aug2025 01:46:06.468] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@99940[id=<null>,name=Hachiko2357,properties={},legacy=false] (/127.70.50.114:48197): Took too long to log in
+[17Aug2025 01:46:06.468] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@99940[id=<null>,name=Hachiko2357,properties={},legacy=false] (/127.70.50.114:48197) lost connection: Timed out
+[17Aug2025 01:46:06.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Aug2025 01:46:10.343] [Server thread/INFO] [irons_spells_js/]: traveloptics:nocturnal_swarm
+[17Aug2025 01:46:10.343] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.blood.NocturnalSwarmSpell@b1db5903
+[17Aug2025 01:48:01.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:38351] logged in with entity id 2712 at (3342.1333283470135, 96.99609212451435, -2480.8965456656942)
+[17Aug2025 01:48:01.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[17Aug2025 01:48:08.686] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
+[17Aug2025 01:48:08.686] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[17Aug2025 01:50:04.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After camilxdk1 was slain by Zairac74509, they gave up
+[17Aug2025 01:50:13.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Hachiko2357 was slain by Summoned Vesper, they gave up
+[17Aug2025 01:50:31.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Timed out
+[17Aug2025 01:50:31.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[17Aug2025 01:50:31.271] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[17Aug2025 01:50:31.301] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Aug2025 01:50:33.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[17Aug2025 01:50:33.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[17Aug2025 01:50:33.288] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[17Aug2025 01:50:51.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:40305] logged in with entity id 3757 at (3320.14965792818, 87.0, -2464.287700362041)
+[17Aug2025 01:50:51.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[17Aug2025 01:50:51.636] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[17Aug2025 01:50:51.637] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[17Aug2025 01:51:00.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:55187] logged in with entity id 3789 at (3337.665309977265, 87.0, -2477.7603047830657)
+[17Aug2025 01:51:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[17Aug2025 01:51:00.728] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
+[17Aug2025 01:51:00.729] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[17Aug2025 01:51:43.214] [Server thread/INFO] [irons_spells_js/]: traveloptics:void_eruption
+[17Aug2025 01:51:43.215] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VoidEruptionSpell@af34a2c7
+[17Aug2025 01:55:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> conteste
+[17Aug2025 01:55:28.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> aaa
+[17Aug2025 01:55:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> contesteme
+[17Aug2025 01:57:11.883] [Server thread/INFO] [irons_spells_js/]: traveloptics:stele_cascade
+[17Aug2025 01:57:11.883] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.nature.SteleCascadeSpell@27b41c72
+[17Aug2025 02:01:03.884] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[17Aug2025 02:01:03.888] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[17Aug2025 02:01:03.957] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[17Aug2025 02:01:03.986] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[17Aug2025 02:01:04.041] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[17Aug2025 02:01:04.041] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[17Aug2025 02:01:04.273] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[17Aug2025 02:01:04.319] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[17Aug2025 02:01:04.608] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[17Aug2025 02:01:04.709] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[17Aug2025 02:01:04.721] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[17Aug2025 02:01:04.741] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[17Aug2025 02:01:04.756] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[17Aug2025 02:01:04.782] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[17Aug2025 02:01:05.014] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[17Aug2025 02:01:05.070] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[17Aug2025 02:01:05.081] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[17Aug2025 02:01:05.094] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[17Aug2025 02:01:05.384] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[17Aug2025 02:01:05.396] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellarity:stronghold/storage/piles
+[17Aug2025 02:01:05.396] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellarity:stronghold/storage/piles
+[17Aug2025 02:01:05.406] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[17Aug2025 02:01:05.556] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[17Aug2025 02:01:44.702] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Aug2025 02:02:29.771] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Aug2025 02:03:55.489] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
+[17Aug2025 02:03:55.489] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
+[17Aug2025 02:04:02.208] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:raise_dead
+[17Aug2025 02:04:02.209] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RaiseDeadSpell@a68f3101
+[17Aug2025 02:04:03.642] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[17Aug2025 02:04:03.642] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[17Aug2025 02:04:03.644] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[17Aug2025 02:04:03.645] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[17Aug2025 02:05:16.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Timed out
+[17Aug2025 02:05:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[17Aug2025 02:05:16.740] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[17Aug2025 02:05:52.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:37061] logged in with entity id 16569 at (5587.889732052226, 105.52321249245664, -5404.361931432404)
+[17Aug2025 02:05:52.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[17Aug2025 02:05:53.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
+[17Aug2025 02:05:53.088] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[17Aug2025 02:06:22.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Timed out
+[17Aug2025 02:06:22.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[17Aug2025 02:06:22.294] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357

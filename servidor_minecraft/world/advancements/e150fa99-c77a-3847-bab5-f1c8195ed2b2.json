@@ -119,16 +119,24 @@
       "minecraft:deep_ocean": "2025-08-16 21:35:25 +0000",
       "minecraft:frozen_river": "2025-08-16 20:05:02 +0000",
       "minecraft:birch_forest": "2025-08-16 22:47:25 +0000",
+      "minecraft:bamboo_jungle": "2025-08-17 02:04:53 +0000",
       "minecraft:beach": "2025-08-16 21:31:58 +0000",
+      "minecraft:dark_forest": "2025-08-17 02:02:00 +0000",
       "minecraft:river": "2025-08-16 20:10:58 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-17 02:03:19 +0000",
       "minecraft:stony_shore": "2025-08-16 20:25:36 +0000",
       "minecraft:snowy_taiga": "2025-08-16 20:01:15 +0000",
+      "minecraft:grove": "2025-08-17 01:58:33 +0000",
+      "minecraft:jagged_peaks": "2025-08-17 02:00:26 +0000",
       "minecraft:cold_ocean": "2025-08-16 20:37:05 +0000",
       "minecraft:forest": "2025-08-16 20:20:48 +0000",
       "minecraft:deep_cold_ocean": "2025-08-16 20:39:10 +0000",
+      "minecraft:desert": "2025-08-17 02:03:54 +0000",
       "minecraft:ocean": "2025-08-16 21:36:03 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-17 02:02:57 +0000",
       "minecraft:frozen_peaks": "2025-08-16 21:08:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-16 22:49:20 +0000",
+      "minecraft:savanna": "2025-08-17 02:03:44 +0000",
       "minecraft:plains": "2025-08-16 20:20:54 +0000"
     },
     "done": false
@@ -1836,11 +1844,14 @@
       "overgrown_greens": "2025-08-16 21:36:41 +0000",
       "mediterranean_forest": "2025-08-16 22:08:24 +0000",
       "coniferous_forest": "2025-08-16 20:25:41 +0000",
+      "dryland": "2025-08-17 02:04:14 +0000",
       "old_growth_dead_forest": "2025-08-16 20:10:43 +0000",
+      "lush_desert": "2025-08-17 02:04:18 +0000",
       "redwood_forest": "2025-08-16 22:20:51 +0000",
       "aspen_glade": "2025-08-16 20:20:59 +0000",
       "seasonal_forest": "2025-08-16 20:35:51 +0000",
       "dead_forest": "2025-08-16 20:12:04 +0000",
+      "rocky_rainforest": "2025-08-17 02:04:49 +0000",
       "volcanic_plains": "2025-08-16 21:40:04 +0000",
       "pumpkin_patch": "2025-08-16 20:19:06 +0000",
       "grassland": "2025-08-16 21:36:13 +0000",
@@ -5271,73 +5282,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-16 23:10:20 +0000"
+      "log_spam_fixer": "2025-08-17 02:06:14 +0000"
     },
     "done": false
   },
