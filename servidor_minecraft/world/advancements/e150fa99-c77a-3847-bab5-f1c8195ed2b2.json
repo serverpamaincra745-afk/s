@@ -122,6 +122,7 @@
       "minecraft:sunflower_plains": "2025-08-17 02:13:34 +0000",
       "minecraft:cherry_grove": "2025-08-17 16:47:34 +0000",
       "minecraft:birch_forest": "2025-08-16 22:47:25 +0000",
+      "minecraft:windswept_hills": "2025-08-17 18:20:08 +0000",
       "minecraft:bamboo_jungle": "2025-08-17 02:04:53 +0000",
       "minecraft:savanna_plateau": "2025-08-17 15:09:43 +0000",
       "minecraft:beach": "2025-08-16 21:31:58 +0000",
@@ -130,18 +131,23 @@
       "minecraft:river": "2025-08-16 20:10:58 +0000",
       "minecraft:lukewarm_ocean": "2025-08-17 02:03:19 +0000",
       "minecraft:stony_shore": "2025-08-16 20:25:36 +0000",
+      "minecraft:snowy_plains": "2025-08-17 18:24:48 +0000",
       "minecraft:snowy_taiga": "2025-08-16 20:01:15 +0000",
       "minecraft:grove": "2025-08-17 01:58:33 +0000",
       "minecraft:jagged_peaks": "2025-08-17 02:00:26 +0000",
       "minecraft:cold_ocean": "2025-08-16 20:37:05 +0000",
       "minecraft:forest": "2025-08-16 20:20:48 +0000",
       "minecraft:deep_cold_ocean": "2025-08-16 20:39:10 +0000",
+      "minecraft:frozen_ocean": "2025-08-17 18:22:08 +0000",
       "minecraft:desert": "2025-08-17 02:03:54 +0000",
+      "minecraft:deep_frozen_ocean": "2025-08-17 18:22:59 +0000",
       "minecraft:ocean": "2025-08-16 21:36:03 +0000",
+      "minecraft:snowy_beach": "2025-08-17 18:24:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-17 02:02:57 +0000",
       "minecraft:flower_forest": "2025-08-17 02:13:26 +0000",
       "minecraft:frozen_peaks": "2025-08-16 21:08:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-16 22:49:20 +0000",
+      "minecraft:deep_dark": "2025-08-17 18:30:46 +0000",
       "minecraft:meadow": "2025-08-17 17:36:30 +0000",
       "minecraft:savanna": "2025-08-17 02:03:44 +0000",
       "minecraft:plains": "2025-08-16 20:20:54 +0000"
@@ -3182,6 +3188,7 @@
       "minecraft:pillager": "2025-08-17 16:23:45 +0000",
       "minecraft:skeleton": "2025-08-16 20:19:19 +0000",
       "minecraft:spider": "2025-08-16 20:33:48 +0000",
+      "minecraft:witch": "2025-08-17 18:21:00 +0000",
       "minecraft:zombie": "2025-08-16 20:35:05 +0000",
       "minecraft:zombie_villager": "2025-08-16 20:35:08 +0000"
     },
@@ -5610,7 +5617,8 @@
   "morevillagers:all_villages": {
     "criteria": {
       "taiga": "2025-08-17 17:38:21 +0000",
-      "plains": "2025-08-17 03:54:49 +0000"
+      "plains": "2025-08-17 03:54:49 +0000",
+      "snowy": "2025-08-17 18:22:08 +0000"
     },
     "done": false
   },
@@ -7090,6 +7098,12 @@
     },
     "done": true
   },
+  "minecraft:main/sludge": {
+    "criteria": {
+      "killed_sludge": "2025-08-17 17:59:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
       "has_dragonscales_bronze": "2025-08-17 18:04:27 +0000"
@@ -7120,9 +7134,201 @@
     },
     "done": true
   },
-  "minecraft:main/sludge": {
+  "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
-      "killed_sludge": "2025-08-17 17:59:49 +0000"
+      "has_stone_button": "2025-08-17 18:15:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-08-17 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-08-17 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-17 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2025-08-17 19:18:35 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/ender_protector": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-08-17 19:10:06 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/precious_bracelet": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-17 19:18:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-17 18:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/magic_arrow_bag": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/gallop_necklace": {
+    "criteria": {
+      "has_unowned_pendant": "2025-08-17 19:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-08-17 19:18:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-08-17 19:03:26 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/amethyst_reinforce_plate": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
     },
     "done": true
   },

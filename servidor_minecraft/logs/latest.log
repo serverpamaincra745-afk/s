@@ -3898,3 +3898,214 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
 [17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
 [17Aug2025 18:13:11.952] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Aug2025 18:15:18.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/120167, l='ServerLevel[world]', x=15864.43, y=65.00, z=-520.36] died, message: 'Hunter was turned into KFC by Fire Dragon'
+[17Aug2025 18:15:41.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[17Aug2025 18:15:41.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[17Aug2025 18:15:41.749] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[17Aug2025 18:16:06.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/120193, l='ServerLevel[world]', x=15851.50, y=83.00, z=-572.49] died, message: 'Villager burned to death'
+[17Aug2025 18:16:26.808] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:47743] logged in with entity id 122370 at (15856.056615763244, 82.0, -571.717180472225)
+[17Aug2025 18:16:26.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[17Aug2025 18:16:27.195] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[17Aug2025 18:16:27.196] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[17Aug2025 18:17:06.354] [Worker-Main-13/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (15610, -26, -797)
+[17Aug2025 18:18:45.157] [Server thread/INFO] [irons_spells_js/]: traveloptics:cursed_revenants
+[17Aug2025 18:18:45.157] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ice.CursedRevenantsSpell@83836d6b
+[17Aug2025 18:20:16.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! -3.5967219300346187,3.5009966402674735,8.869469529996252
+[17Aug2025 18:22:27.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! 16135.346949757954,16.42159999847412,-991.9459725304225
+[17Aug2025 18:23:58.445] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@f6c05c8, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:979) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17Aug2025 18:23:58.601] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@7e629936, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:979) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17Aug2025 18:23:58.755] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@4e764fd, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:979) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17Aug2025 18:24:03.493] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@61fb36ac, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23262!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:979) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17Aug2025 18:24:57.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 6.617101661135422,3.3881461271496107,-6.951240871116056
+[17Aug2025 18:24:57.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! 3.0546394674694,4.7626870166078135,-8.672390457330152
+[17Aug2025 18:27:08.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 1.128505774238647,-11.561134026904703,-1.5150367233982536
+[17Aug2025 18:27:31.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! 8.069884601885462,-2.6588033530329653,-6.374422889097048
+[17Aug2025 18:35:37.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Blood Bank]
+[17Aug2025 18:39:26.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:51877] logged in with entity id 130654 at (16557.64520887915, 118.0, -411.1123889043024)
+[17Aug2025 18:39:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[17Aug2025 18:39:26.920] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[17Aug2025 18:39:26.921] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[17Aug2025 18:40:27.298] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/130555, l='ServerLevel[world]', x=439.95, y=-44.44, z=-212.38]
+[17Aug2025 18:41:43.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[17Aug2025 18:41:43.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[17Aug2025 18:41:43.402] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[17Aug2025 18:41:48.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[17Aug2025 18:41:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[17Aug2025 18:41:48.304] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[17Aug2025 18:42:13.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:35249] logged in with entity id 131769 at (438.5745316280387, -45.0, -215.63114232157193)
+[17Aug2025 18:42:13.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[17Aug2025 18:42:14.272] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[17Aug2025 18:42:14.272] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[17Aug2025 18:42:49.191] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/130661, l='ServerLevel[world]', x=16559.39, y=128.00, z=-389.25] died, message: 'Florist was slain by Zombie'
+[17Aug2025 18:42:55.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/130663, l='ServerLevel[world]', x=16558.32, y=128.00, z=-390.30] died, message: 'Florist was slain by Zombie'
+[17Aug2025 18:43:30.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! 906.9596835522352,31.92159999847412,-199.7542948266077
+[17Aug2025 18:43:42.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[17Aug2025 18:43:42.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[17Aug2025 18:43:42.734] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[17Aug2025 18:46:36.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[17Aug2025 18:46:41.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[17Aug2025 18:48:24.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:46801] logged in with entity id 133710 at (15645.652380008612, 82.0, -219.27606226643837)
+[17Aug2025 18:48:24.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[17Aug2025 18:48:24.937] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[17Aug2025 18:48:24.938] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[17Aug2025 18:53:02.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[17Aug2025 18:53:02.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[17Aug2025 18:53:02.291] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[17Aug2025 18:54:52.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[17Aug2025 18:54:52.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[17Aug2025 18:54:52.232] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[17Aug2025 18:57:08.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:45765] logged in with entity id 135456 at (438.5, -45.0, -212.5)
+[17Aug2025 18:57:08.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[17Aug2025 18:57:08.690] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[17Aug2025 18:57:08.691] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[17Aug2025 18:57:16.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:57289] logged in with entity id 135731 at (439.1323173995149, -45.0, -209.3017578125)
+[17Aug2025 18:57:16.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[17Aug2025 18:57:16.394] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
+[17Aug2025 18:57:16.395] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[17Aug2025 18:58:23.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:47347] logged in with entity id 136257 at (15648.987820797849, 82.0, -219.2886817052472)
+[17Aug2025 18:58:23.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[17Aug2025 18:58:23.662] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[17Aug2025 18:58:23.663] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[17Aug2025 18:59:31.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Sneak 100]
+[17Aug2025 18:59:34.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sneak 100]
+[17Aug2025 18:59:53.547] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/136683, l='ServerLevel[world]', x=15650.51, y=82.00, z=-221.67]
+[17Aug2025 19:05:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [It Spreads]
+[17Aug2025 19:08:26.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[17Aug2025 19:08:26.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[17Aug2025 19:08:26.751] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[17Aug2025 19:10:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Alex's Caves]
+[17Aug2025 19:10:19.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:49999] logged in with entity id 143860 at (15651.085649218428, 82.0, -217.35313069152292)
+[17Aug2025 19:10:19.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[17Aug2025 19:10:21.065] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[17Aug2025 19:10:21.065] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[17Aug2025 19:10:58.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved wrongly!
+[17Aug2025 19:11:38.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Sneak 100]
+[17Aug2025 19:11:45.910] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ray_of_siphoning
+[17Aug2025 19:11:45.911] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RayOfSiphoningSpell@c5ef394c
+[17Aug2025 19:11:59.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[17Aug2025 19:14:45.865] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:sculk_tentacles
+[17Aug2025 19:14:45.866] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.eldritch.SculkTentaclesSpell@2aa0db30
+[17Aug2025 19:15:45.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Amateur Archaeologist]
+[17Aug2025 19:18:11.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[17Aug2025 19:18:11.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[17Aug2025 19:18:11.138] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[17Aug2025 19:18:49.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:34519] logged in with entity id 148151 at (609.4290695167542, -53.0, -142.14132304702943)
+[17Aug2025 19:18:49.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[17Aug2025 19:18:50.144] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[17Aug2025 19:18:50.144] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[17Aug2025 19:21:19.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [It Spreads]
+[17Aug2025 19:22:14.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Alex's Caves]
+[17Aug2025 19:22:32.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [It Belongs in a Museum]
+[17Aug2025 19:25:24.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
