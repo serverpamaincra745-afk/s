@@ -120,6 +120,7 @@
       "minecraft:deep_ocean": "2025-08-17 02:02:29 +0000",
       "minecraft:frozen_river": "2025-08-16 20:11:55 +0000",
       "minecraft:sunflower_plains": "2025-08-17 02:13:34 +0000",
+      "minecraft:cherry_grove": "2025-08-17 16:55:53 +0000",
       "minecraft:birch_forest": "2025-08-16 23:09:23 +0000",
       "minecraft:bamboo_jungle": "2025-08-17 02:04:53 +0000",
       "minecraft:savanna_plateau": "2025-08-17 15:10:55 +0000",
@@ -7797,15 +7798,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
+      "has_salmon": "2025-08-17 16:52:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-08-17 16:45:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-08-17 16:54:25 +0000"
     },
     "done": true
   },
@@ -7818,6 +7825,12 @@
   "vampiresdelight:recipes/cooking/weird_jelly_block": {
     "criteria": {
       "has_any_ingredient": "2025-08-17 16:38:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 16:54:25 +0000"
     },
     "done": true
   },
@@ -7839,23 +7852,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-08-17 16:45:11 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
+      "has_salmon": "2025-08-17 16:52:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
     "criteria": {
@@ -7863,17 +7870,11 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
+      "has_salmon": "2025-08-17 16:52:30 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
-    },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
@@ -7887,29 +7888,23 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
+      "has_item": "2025-08-17 16:54:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
     "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
+      "has_dragonscales_green": "2025-08-17 16:54:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
+      "has_salmon": "2025-08-17 16:52:30 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
@@ -7929,21 +7924,27 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-08-17 16:35:30 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 16:50:19 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
     "criteria": {
       "has_pure_blood": "2025-08-17 16:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-17 16:50:19 +0000"
     },
     "done": true
   },
@@ -7989,12 +7990,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-08-17 16:45:11 +0000"
@@ -8007,15 +8002,21 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "log_spam_fixer": "2025-08-17 16:47:35 +0000"
+      "has_salmon": "2025-08-17 16:52:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-08-17 16:33:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 16:54:25 +0000"
     },
     "done": true
   },
