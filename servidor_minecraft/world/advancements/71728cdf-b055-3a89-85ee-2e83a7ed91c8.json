@@ -3146,6 +3146,7 @@
       "snowblossom_grove": "2025-08-17 03:33:04 +0000",
       "scrubland": "2025-08-16 23:15:13 +0000",
       "floodplain": "2025-08-16 23:06:59 +0000",
+      "highland": "2025-08-17 15:29:01 +0000",
       "jacaranda_glade": "2025-08-16 21:17:44 +0000",
       "cold_desert": "2025-08-16 20:17:08 +0000",
       "old_growth_woodland": "2025-08-16 22:53:17 +0000",
@@ -3378,6 +3379,7 @@
       "minecraft:pillager": "2025-08-17 02:21:03 +0000",
       "minecraft:skeleton": "2025-08-16 21:07:09 +0000",
       "minecraft:spider": "2025-08-16 21:51:10 +0000",
+      "minecraft:creeper": "2025-08-17 15:45:35 +0000",
       "minecraft:phantom": "2025-08-17 02:08:01 +0000",
       "minecraft:stray": "2025-08-16 20:35:21 +0000",
       "minecraft:zombie": "2025-08-16 22:50:39 +0000"
@@ -7278,9 +7280,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2025-08-17 15:04:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-08-17 15:42:12 +0000"
     },
     "done": true
   },
@@ -7326,6 +7346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2025-08-17 15:13:06 +0000"
@@ -7335,6 +7361,30 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-08-17 15:35:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 15:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 15:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
     },
     "done": true
   },
@@ -7356,6 +7406,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-17 15:37:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
@@ -7365,6 +7427,12 @@
   "morevillagers:recipes/woodworking_table": {
     "criteria": {
       "has_leaves": "2025-08-17 15:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
     },
     "done": true
   },
@@ -7386,15 +7454,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 15:29:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2025-08-17 15:13:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
     },
     "done": true
   },
@@ -7407,6 +7493,12 @@
   "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2025-08-17 14:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-17 15:37:25 +0000"
     },
     "done": true
   },
@@ -7446,9 +7538,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
+    },
+    "done": true
+  },
+  "celestial_core:recipes/misc/earth_core": {
+    "criteria": {
+      "has_crying_obsidian": "2025-08-17 15:37:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
     },
     "done": true
   },
@@ -7476,6 +7586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_helmet": {
     "criteria": {
       "has_item": "2025-08-17 15:07:12 +0000"
@@ -7500,6 +7616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
       "has_dragonscales_electric": "2025-08-17 15:07:12 +0000"
@@ -7509,6 +7631,12 @@
   "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
     "criteria": {
       "has_ultimate_holy_water": "2025-08-17 14:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
     },
     "done": true
   },
@@ -7536,6 +7664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2025-08-17 15:13:06 +0000"
@@ -7554,6 +7688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 15:29:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
@@ -7563,6 +7703,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-17 15:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-17 15:41:52 +0000"
     },
     "done": true
   },
