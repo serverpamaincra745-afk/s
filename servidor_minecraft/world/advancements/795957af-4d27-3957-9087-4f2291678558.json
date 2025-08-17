@@ -123,6 +123,7 @@
       "minecraft:savanna_plateau": "2025-08-17 15:10:31 +0000",
       "minecraft:beach": "2025-08-16 21:31:58 +0000",
       "minecraft:dark_forest": "2025-08-17 02:02:00 +0000",
+      "minecraft:sparse_jungle": "2025-08-17 15:17:25 +0000",
       "minecraft:river": "2025-08-16 20:47:47 +0000",
       "minecraft:lukewarm_ocean": "2025-08-17 02:03:19 +0000",
       "minecraft:stony_shore": "2025-08-16 21:09:45 +0000",
@@ -1724,6 +1725,7 @@
       "coniferous_forest": "2025-08-16 21:10:49 +0000",
       "spider_nest": "2025-08-17 03:40:32 +0000",
       "dryland": "2025-08-17 02:04:14 +0000",
+      "wasteland": "2025-08-17 15:17:30 +0000",
       "old_growth_dead_forest": "2025-08-16 20:47:49 +0000",
       "lush_desert": "2025-08-17 02:04:19 +0000",
       "redwood_forest": "2025-08-16 22:20:49 +0000",
@@ -5432,6 +5434,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_lightning_dragon": "2025-08-17 15:06:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-08-17 15:26:58 +0000"
     },
     "done": true
   },

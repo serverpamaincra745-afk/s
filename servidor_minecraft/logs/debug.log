@@ -12987,3 +12987,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [17Aug2025 15:20:46.218] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
 [17Aug2025 15:20:47.213] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
 [17Aug2025 15:20:48.694] [Worker-Main-13/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 18.268s
+[17Aug2025 15:22:17.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 15:22:17.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 15:22:30.367] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[17Aug2025 15:22:40.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16592, l='ServerLevel[world]', x=9653.30, y=68.00, z=-3437.50] died, message: 'Nitwit was slain by Zairac74509'
+[17Aug2025 15:22:43.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/16433, l='ServerLevel[world]', x=9678.40, y=70.00, z=-3433.47] died, message: 'Hunter hit the ground too hard whilst trying to escape Zombie'
+[17Aug2025 15:22:46.638] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/16591, l='ServerLevel[world]', x=9642.90, y=80.94, z=-3472.30] died, message: 'Oceanographer was slain by Ghost'
+[17Aug2025 15:22:58.236] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:alligator_snapping_turtle
+[17Aug2025 15:23:22.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Who You Gonna Call?]
+[17Aug2025 15:27:17.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 15:27:17.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 15:28:48.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [First Trade]
+[17Aug2025 15:28:48.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [What a Deal!]
+[17Aug2025 15:28:53.096] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_slash
+[17Aug2025 15:28:53.096] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodSlashSpell@54caf722
