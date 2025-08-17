@@ -1856,10 +1856,13 @@
       "lush_desert": "2025-08-17 02:04:18 +0000",
       "redwood_forest": "2025-08-16 22:20:51 +0000",
       "aspen_glade": "2025-08-16 20:20:59 +0000",
+      "dune_beach": "2025-08-17 16:10:30 +0000",
       "seasonal_forest": "2025-08-16 20:35:51 +0000",
       "dead_forest": "2025-08-16 20:12:04 +0000",
       "rocky_rainforest": "2025-08-17 02:04:49 +0000",
+      "pasture": "2025-08-17 16:11:22 +0000",
       "volcanic_plains": "2025-08-16 21:40:04 +0000",
+      "lavender_field": "2025-08-17 16:25:54 +0000",
       "pumpkin_patch": "2025-08-16 20:19:06 +0000",
       "grassland": "2025-08-16 21:36:13 +0000",
       "prairie": "2025-08-16 22:21:40 +0000",
@@ -3173,6 +3176,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-17 16:23:45 +0000",
       "minecraft:skeleton": "2025-08-16 20:19:19 +0000",
       "minecraft:spider": "2025-08-16 20:33:48 +0000",
       "minecraft:zombie": "2025-08-16 20:35:05 +0000",
@@ -6554,12 +6558,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-08-17 15:42:55 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2025-08-17 15:36:07 +0000"
@@ -6569,18 +6567,6 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-17 15:36:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-08-17 15:42:55 +0000"
-    },
-    "done": true
-  },
-  "celestial_core:recipes/misc/earth_core": {
-    "criteria": {
-      "has_crying_obsidian": "2025-08-17 15:42:55 +0000"
     },
     "done": true
   },
@@ -6632,9 +6618,45 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-17 15:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-17 15:42:55 +0000"
+    },
+    "done": true
+  },
+  "celestial_core:recipes/misc/earth_core": {
+    "criteria": {
+      "has_crying_obsidian": "2025-08-17 15:42:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2025-08-17 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-08-17 16:23:15 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-08-17 16:17:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-17 16:16:58 +0000"
     },
     "done": true
   },

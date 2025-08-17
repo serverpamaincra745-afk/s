@@ -3401,3 +3401,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [17Aug2025 16:10:40.619] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [17Aug2025 16:10:40.619] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [17Aug2025 16:10:41.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! -4.365796036447136,5.693667488628421,-7.9707450157179665
+[17Aug2025 16:11:57.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Bloody Stream]
+[17Aug2025 16:12:17.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[17Aug2025 16:12:17.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[17Aug2025 16:12:17.932] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[17Aug2025 16:12:52.945] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@746f197e[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.70.50.114:44577) lost connection: Timed out
+[17Aug2025 16:13:01.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:44825] logged in with entity id 61885 at (17811.30000001192, 65.0, -2899.1699771174513)
+[17Aug2025 16:13:01.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[17Aug2025 16:13:01.918] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[17Aug2025 16:13:01.919] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[17Aug2025 16:13:46.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[17Aug2025 16:13:46.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[17Aug2025 16:13:46.663] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[17Aug2025 16:13:54.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:36117] logged in with entity id 63583 at (17824.30000001192, 69.0, -2469.4177576936113)
+[17Aug2025 16:13:54.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[17Aug2025 16:13:55.261] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[17Aug2025 16:13:55.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[17Aug2025 16:14:45.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[17Aug2025 16:14:45.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[17Aug2025 16:14:45.698] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[17Aug2025 16:14:54.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:55849] logged in with entity id 64477 at (17853.486431007783, 63.0, -2444.8182191992537)
+[17Aug2025 16:14:54.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[17Aug2025 16:14:54.529] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
+[17Aug2025 16:14:54.530] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[17Aug2025 16:16:58.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Mine? Mine? Mine?]
+[17Aug2025 16:17:10.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Tools of the Trade]
+[17Aug2025 16:17:47.229] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firecracker
+[17Aug2025 16:17:47.229] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.FirecrackerSpell@6407391b
+[17Aug2025 16:18:43.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[17Aug2025 16:18:43.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp simpleplanes:large_plane Zairac74509<--[HERE]
+[17Aug2025 16:19:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[17Aug2025 16:19:20.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...irac74509 simpleplanes:large_plane<--[HERE]
+[17Aug2025 16:19:31.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[17Aug2025 16:22:04.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Large Plane to Zairac74509]
+[17Aug2025 16:22:15.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/69402, l='ServerLevel[world]', x=17936.50, y=62.00, z=-2429.50]
+[17Aug2025 16:22:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[17Aug2025 16:23:05.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:17831:93:-2470:10:false:0:Internal-overworld-waypoints
+[17Aug2025 16:23:15.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [New Age Librarian]
+[17Aug2025 16:25:04.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Ice Bucket Challenge]
+[17Aug2025 16:25:23.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -2.4897134001294035,0.41999998688697815,9.923839748831597
+[17Aug2025 16:26:01.944] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/70843, l='ServerLevel[world]', x=17647.81, y=63.00, z=-2257.80]
+[17Aug2025 16:28:34.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.37134674651770183
+[17Aug2025 16:28:34.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.0623564317954788
+[17Aug2025 16:28:34.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.7558620185641303
+[17Aug2025 16:29:03.039] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/74133, l='ServerLevel[world]', x=17415.84, y=74.12, z=-2029.15]
+[17Aug2025 16:29:19.698] [Server thread/INFO] [irons_spells_js/]: traveloptics:meteor_storm
+[17Aug2025 16:29:19.698] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.fire.MeteorStormSpell@376b9f6
+[17Aug2025 16:30:35.802] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:dragon_breath
+[17Aug2025 16:30:35.802] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.DragonBreathSpell@276e2c36
