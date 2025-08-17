@@ -1716,6 +1716,7 @@
       "rocky_shrubland": "2025-08-16 21:38:11 +0000",
       "floodplain": "2025-08-16 21:40:30 +0000",
       "highland": "2025-08-16 22:46:38 +0000",
+      "jacaranda_glade": "2025-08-17 16:35:39 +0000",
       "mystic_grove": "2025-08-16 22:17:08 +0000",
       "cold_desert": "2025-08-16 21:06:07 +0000",
       "old_growth_woodland": "2025-08-16 21:40:50 +0000",
@@ -3985,9 +3986,10 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
+      "resurrected": "2025-08-17 16:32:53 +0000",
       "main": "2025-08-16 21:35:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
@@ -6421,6 +6423,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-08-17 16:33:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-08-17 16:33:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2025-08-17 16:21:01 +0000"
@@ -6469,6 +6483,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-08-17 16:33:48 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/totem_top": {
     "criteria": {
       "has_obsidian": "2025-08-17 16:25:04 +0000"
@@ -6487,6 +6507,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-08-17 16:33:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-17 16:33:42 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-08-17 16:30:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-17 16:25:04 +0000"
@@ -6496,6 +6534,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-17 16:14:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-08-17 16:33:42 +0000"
     },
     "done": true
   },
@@ -6517,6 +6561,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-08-17 16:33:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-08-17 16:21:01 +0000"
@@ -6529,6 +6579,18 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-08-17 16:31:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-08-17 16:36:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/crying_obsidian": {
     "criteria": {
       "has_obsidian": "2025-08-17 16:25:04 +0000"
@@ -6538,6 +6600,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-08-17 16:25:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-08-17 16:30:43 +0000"
     },
     "done": true
   },
