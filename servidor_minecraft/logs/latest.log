@@ -4109,3 +4109,17 @@ java.lang.IllegalArgumentException: Missing required parameters: [<parameter min
 [17Aug2025 19:22:14.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Alex's Caves]
 [17Aug2025 19:22:32.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [It Belongs in a Museum]
 [17Aug2025 19:25:24.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[17Aug2025 19:35:12.081] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:chain_lightning
+[17Aug2025 19:35:12.081] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.lightning.ChainLightningSpell@7347f6f6
+[17Aug2025 19:35:21.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[17Aug2025 19:35:21.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[17Aug2025 19:35:21.982] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[17Aug2025 19:35:46.632] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blessing_of_life
+[17Aug2025 19:35:46.632] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.BlessingOfLifeSpell@78b6b956
+[17Aug2025 19:38:17.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:57587] logged in with entity id 155538 at (15639.300000011921, 79.0, -212.24560816396283)
+[17Aug2025 19:38:17.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[17Aug2025 19:38:20.302] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[17Aug2025 19:38:20.302] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[17Aug2025 19:40:01.738] [Worker-Main-223/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[17Aug2025 19:41:29.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Ice Bucket Challenge]
+[17Aug2025 19:42:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hachiko2357> xaero-waypoint:Shared Location:S:15557:96:-359:9:false:0:Internal-overworld-waypoints

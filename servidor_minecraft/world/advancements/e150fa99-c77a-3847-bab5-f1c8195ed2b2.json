@@ -149,6 +149,7 @@
       "minecraft:old_growth_birch_forest": "2025-08-16 22:49:20 +0000",
       "minecraft:deep_dark": "2025-08-17 18:30:46 +0000",
       "minecraft:meadow": "2025-08-17 17:36:30 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-08-17 19:38:12 +0000",
       "minecraft:savanna": "2025-08-17 02:03:44 +0000",
       "minecraft:plains": "2025-08-16 20:20:54 +0000"
     },
@@ -7224,6 +7225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-17 19:41:49 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2025-08-17 19:03:37 +0000"
@@ -7233,6 +7240,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-08-17 19:03:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2025-08-17 19:41:29 +0000"
     },
     "done": true
   },
@@ -7266,6 +7279,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-08-17 19:41:29 +0000"
+    },
+    "done": true
+  },
   "celestial_artifacts:recipes/misc/magic_arrow_bag": {
     "criteria": {
       "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
@@ -7290,9 +7309,21 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-17 19:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-08-17 19:18:06 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2025-08-17 19:41:29 +0000"
     },
     "done": true
   },
@@ -7314,6 +7345,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-08-17 19:41:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/altar_cleansing_new": {
     "criteria": {
       "has_book": "2025-08-17 19:03:37 +0000"
@@ -7329,6 +7366,18 @@
   "celestial_artifacts:recipes/misc/amethyst_reinforce_plate": {
     "criteria": {
       "has_amethyst_shard": "2025-08-17 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/crying_obsidian": {
+    "criteria": {
+      "has_obsidian": "2025-08-17 19:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-17 19:41:29 +0000"
     },
     "done": true
   },
