@@ -17373,3 +17373,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [17Aug2025 17:39:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:16482:124:-392:12:false:0:Internal-overworld-waypoints
 [17Aug2025 17:42:11.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/108346, l='ServerLevel[world]', x=16569.15, y=104.97, z=-366.64] died, message: 'Hunter was slain by Zombie'
 [17Aug2025 17:42:53.641] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/109231, l='ServerLevel[world]', x=16505.17, y=127.00, z=-369.02] died, message: 'Florist was slain by Zombie'
+[17Aug2025 17:43:18.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16563, y=119, z=-412} BlockPos{x=16563, y=117, z=-412}
+[17Aug2025 17:43:33.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 17:43:33.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 17:44:34.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/109336, l='ServerLevel[world]', x=16494.30, y=100.00, z=-339.51] died, message: 'Engineer was slain by Zombie'
+[17Aug2025 17:44:37.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[17Aug2025 17:44:37.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[17Aug2025 17:44:37.345] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Zairac74509
+[17Aug2025 17:44:37.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[17Aug2025 17:45:26.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/109334, l='ServerLevel[world]', x=16483.66, y=100.00, z=-354.36] died, message: 'Engineer was slain by Zombie'
+[17Aug2025 17:45:26.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/109205, l='ServerLevel[world]', x=16594.30, y=82.00, z=-354.70] died, message: 'Engineer was slain by Zombie'
+[17Aug2025 17:48:33.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 17:48:33.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 17:49:01.862] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_punch 1: [e150fa99-c77a-3847-bab5-f1c8195ed2b2]
+[17Aug2025 17:49:01.863] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_punch
+[17Aug2025 17:49:01.863] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VortexPunchSpell@f83efbd
+[17Aug2025 17:49:20.704] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_punch 1: [e150fa99-c77a-3847-bab5-f1c8195ed2b2]
+[17Aug2025 17:50:48.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/109234, l='ServerLevel[world]', x=16546.35, y=64.00, z=-334.86] died, message: 'Forester was slain by Zombie'
