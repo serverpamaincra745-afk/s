@@ -115,6 +115,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-08-17 16:01:02 +0000",
       "minecraft:taiga": "2025-08-16 20:46:25 +0000",
       "minecraft:deep_ocean": "2025-08-16 21:35:25 +0000",
       "minecraft:frozen_river": "2025-08-16 20:44:56 +0000",
@@ -1743,7 +1744,8 @@
       "glowing_grotto": "2025-08-16 21:20:40 +0000",
       "gravel_beach": "2025-08-16 21:33:57 +0000",
       "rainforest": "2025-08-16 22:13:52 +0000",
-      "snowy_maple_woods": "2025-08-16 20:49:49 +0000"
+      "snowy_maple_woods": "2025-08-16 20:49:49 +0000",
+      "crag": "2025-08-17 16:03:09 +0000"
     },
     "done": false
   },
@@ -5971,6 +5973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-17 15:58:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-17 15:45:55 +0000"
@@ -6082,6 +6090,12 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-17 15:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-17 15:58:45 +0000"
     },
     "done": true
   },
