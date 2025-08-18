@@ -3711,3 +3711,23 @@ java.lang.Throwable: null
 [18Aug2025 20:16:28.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
 [18Aug2025 20:16:28.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
 [18Aug2025 20:16:28.388] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[18Aug2025 20:26:05.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:57209] logged in with entity id 136641 at (1385.998559532511, 41.226981036528564, 1434.8650313753883)
+[18Aug2025 20:26:05.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[18Aug2025 20:26:06.548] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[18Aug2025 20:26:06.548] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[18Aug2025 20:28:18.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[18Aug2025 20:28:18.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[18Aug2025 20:28:18.887] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[18Aug2025 20:29:30.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:49449] logged in with entity id 137276 at (1388.892472825863, 35.0, 1442.3572458865117)
+[18Aug2025 20:29:30.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[18Aug2025 20:29:31.299] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
+[18Aug2025 20:29:31.300] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[18Aug2025 20:29:42.987] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@504234c1[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.70.50.114:57671) lost connection: Timed out
+[18Aug2025 20:30:36.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:37357] logged in with entity id 137523 at (1379.699999988079, 55.0, 1408.3317174629194)
+[18Aug2025 20:30:36.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[18Aug2025 20:30:37.229] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[18Aug2025 20:30:37.230] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[18Aug2025 20:31:19.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:37669] logged in with entity id 137557 at (1585.7682265502795, 142.0, 1615.2058302345033)
+[18Aug2025 20:31:19.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[18Aug2025 20:31:21.803] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[18Aug2025 20:31:21.804] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1

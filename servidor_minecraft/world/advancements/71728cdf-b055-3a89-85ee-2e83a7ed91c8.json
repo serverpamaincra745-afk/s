@@ -9995,82 +9995,63 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-08-18 20:16:09 +0000",
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:48 +0000"
-    },
-    "done": false
-  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-08-18 17:40:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-08-18 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-08-18 17:45:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-08-18 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-08-18 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-08-18 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-08-18 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-18 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-08-18 17:47:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-08-18 17:49:15 +0000"
     },
     "done": true
   },
@@ -10080,9 +10061,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+  "alexscaves:alexscaves/gelatin": {
     "criteria": {
-      "has_end_stone": "2025-08-18 19:40:00 +0000"
+      "gelatin": "2025-08-18 17:55:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-08-18 18:01:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/rainbounce_boots": {
+    "criteria": {
+      "limestone": "2025-08-18 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2025-08-18 18:07:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-08-18 18:10:00 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-18 18:14:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_gum_worm": {
+    "criteria": {
+      "ride_gum_worm": "2025-08-18 18:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-18 18:23:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-08-18 18:28:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-08-18 18:39:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-08-18 18:44:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-08-18 18:51:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-08-18 18:56:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-08-18 18:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-08-18 19:01:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2025-08-18 19:07:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-08-18 19:07:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-08-18 19:08:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-08-18 19:11:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-08-18 19:13:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_tall_lavender": "2025-08-18 19:17:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-08-18 19:19:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-08-18 19:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-18 19:20:37 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/prayer_crown": {
+    "criteria": {
+      "has_redstone_block": "2025-08-18 19:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-08-18 19:28:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-08-18 19:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-18 19:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-08-18 19:30:59 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-08-18 19:31:05 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2025-08-18 19:32:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2025-08-18 19:32:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-08-18 19:34:13 +0000"
     },
     "done": true
   },
@@ -10098,27 +10271,102 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_cabinet": {
+  "securitycraft:recipes/misc/protecto": {
     "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
+      "has_ender_eye": "2025-08-18 19:36:39 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+  "stellarity:recipes/slime_ball_from_ender_eye": {
     "criteria": {
-      "has_wildflower": "2025-08-18 18:44:55 +0000"
+      "has_item": "2025-08-18 19:36:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
+  "celestial_artifacts:recipes/misc/evil_eye": {
     "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
+      "has_ender_eye": "2025-08-18 19:36:39 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_table": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
+      "has_ender_eye": "2025-08-18 19:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2025-08-18 19:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/glass_from_end_stone": {
+    "criteria": {
+      "has_item": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-08-18 19:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-08-18 19:40:43 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/ender_adventurer": {
+    "criteria": {
+      "prismarine_forest": "2025-08-18 19:51:43 +0000",
+      "amethyst_forest": "2025-08-18 19:41:27 +0000",
+      "sculk_growth": "2025-08-18 20:03:49 +0000",
+      "end_highlands": "2025-08-18 19:52:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-08-18 19:41:44 +0000"
     },
     "done": true
   },
@@ -10134,189 +10382,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_granite": {
-    "criteria": {
-      "has_quartz": "2025-08-18 19:45:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
-    "criteria": {
-      "has_item": "2025-08-18 17:45:39 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/guano": {
-    "criteria": {
-      "guano": "2025-08-18 19:07:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimson_window": {
-    "criteria": {
-      "has_ingredient": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/licowitch_tower": {
-    "criteria": {
-      "licowitch_tower": "2025-08-18 18:10:00 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_crate": {
-    "criteria": {
-      "has_log": "2025-08-18 20:11:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-08-18 19:45:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2025-08-18 20:11:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2025-08-18 17:45:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2025-08-18 19:20:37 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/final_showdown": {
-    "criteria": {
-      "spawn_dragon_first_time": "2025-08-18 19:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-08-18 19:40:43 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/protecto": {
-    "criteria": {
-      "has_ender_eye": "2025-08-18 19:36:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-08-18 19:40:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-08-18 19:42:36 +0000"
-    },
-    "done": true
-  },
-  "stellarity:exploration/enter_end_village": {
-    "criteria": {
-      "find_a_town_in_a_complete_shithole": "2025-08-18 19:49:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-08-18 19:28:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-08-18 19:01:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-08-18 17:45:22 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "killed_by": "2025-08-18 18:39:28 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/sacrificial_ritual": {
-    "criteria": {
-      "requirement": "2025-08-18 19:32:01 +0000"
-    },
-    "done": true
-  },
-  "stellarity:events/first_time_in_end": {
-    "criteria": {
-      "requirement": "2025-08-18 19:31:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-08-18 19:43:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-08-18 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-08-18 19:47:06 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-08-18 18:14:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-08-18 19:13:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-08-18 19:40:00 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_observer": {
-    "criteria": {
-      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
@@ -10327,27 +10395,33 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/redstone": {
+  "stellarity:end_city/treasure_room": {
     "criteria": {
-      "has_redstone_block": "2025-08-18 19:20:37 +0000"
+      "obtain_head": "2025-08-18 19:42:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_hanging_sign": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "has_stripped_logs": "2025-08-18 20:11:38 +0000"
+      "has_shulker_shell": "2025-08-18 19:43:54 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_gumbeeper": {
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
-      "killed": "2025-08-18 17:47:29 +0000"
+      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
+      "has_quartz": "2025-08-18 19:45:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
@@ -10357,48 +10431,63 @@
     },
     "done": true
   },
-  "stellarity:recipes/slime_ball_from_ender_eye": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "has_item": "2025-08-18 19:36:39 +0000"
+      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_forlorn_hollows": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "discover": "2025-08-18 18:56:05 +0000"
+      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+  "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
-      "has_item": "2025-08-18 18:01:26 +0000"
+      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/gelatin": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "gelatin": "2025-08-18 17:55:34 +0000"
+      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
-  "stellarity:exploration/ender_adventurer": {
+  "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
-      "prismarine_forest": "2025-08-18 19:51:43 +0000",
-      "amethyst_forest": "2025-08-18 19:41:27 +0000",
-      "sculk_growth": "2025-08-18 20:03:49 +0000",
-      "end_highlands": "2025-08-18 19:52:50 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-08-18 18:51:14 +0000"
+      "has_golden_carrot": "2025-08-18 19:47:06 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_desk_cabinet": {
+  "stellarity:exploration/enter_end_village": {
     "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
+      "find_a_town_in_a_complete_shithole": "2025-08-18 19:49:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-08-18 20:08:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-18 20:11:38 +0000"
     },
     "done": true
   },
@@ -10420,69 +10509,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_sword_fire": {
-    "criteria": {
-      "has_item": "2025-08-18 19:19:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-08-18 19:40:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/candy_cane_hook": {
-    "criteria": {
-      "candy_cane_hook": "2025-08-18 18:07:26 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_purple_soda": {
-    "criteria": {
-      "in_purple_soda": "2025-08-18 17:49:15 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-08-18 19:34:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-08-18 19:40:02 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/purpur_altar": {
-    "criteria": {
-      "has_end_stone": "2025-08-18 19:40:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_corrodent": {
-    "criteria": {
-      "killed": "2025-08-18 19:08:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-08-18 20:11:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
-    "criteria": {
-      "has_tall_lavender": "2025-08-18 19:17:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-08-18 18:23:05 +0000"
     },
     "done": true
   },
@@ -10492,159 +10521,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-08-18 19:45:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-08-18 19:45:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2025-08-18 17:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-08-18 19:45:40 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/ender_flu": {
-    "criteria": {
-      "all_effects": "2025-08-18 20:08:53 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/underzealot_sacrifice": {
-    "criteria": {
-      "underzealot_sacrifice": "2025-08-18 19:07:20 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/prayer_crown": {
-    "criteria": {
-      "has_redstone_block": "2025-08-18 19:20:37 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2025-08-18 20:14:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_log": "2025-08-18 20:11:38 +0000"
     },
     "done": true
   },
-  "celestial_artifacts:recipes/misc/evil_eye": {
-    "criteria": {
-      "has_ender_eye": "2025-08-18 19:36:39 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_crate": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-08-18 19:36:39 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
     "criteria": {
       "has_log": "2025-08-18 20:11:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_underzealot": {
-    "criteria": {
-      "killed_by_underzealot": "2025-08-18 18:57:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "kill_dragon": "2025-08-18 19:39:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_desk": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/journeys_end": {
-    "criteria": {
-      "activate_portal": "2025-08-18 19:30:57 +0000"
-    },
-    "done": true
-  },
-  "stellarity:end_city/treasure_room": {
-    "criteria": {
-      "obtain_head": "2025-08-18 19:42:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
-    "criteria": {
-      "has_item": "2025-08-18 17:45:39 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_park_bench": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
     },
     "done": true
   },
@@ -10660,45 +10545,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-08-18 19:45:40 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/ride_gum_worm": {
-    "criteria": {
-      "ride_gum_worm": "2025-08-18 18:20:27 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_chair": {
-    "criteria": {
-      "has_planks": "2025-08-18 20:11:53 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-08-18 18:28:23 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
     "criteria": {
       "has_log": "2025-08-18 20:11:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2025-08-18 17:45:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-08-18 19:41:44 +0000"
     },
     "done": true
   },
@@ -10708,21 +10557,123 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/rainbounce_boots": {
+  "cfm:recipes/decorations/stripped_crimson_upgraded_fence": {
     "criteria": {
-      "limestone": "2025-08-18 18:05:53 +0000"
+      "has_log": "2025-08-18 20:11:38 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/moth_ball": {
+  "cfm:recipes/decorations/stripped_crimson_park_bench": {
     "criteria": {
-      "moth_ball": "2025-08-18 19:11:42 +0000"
+      "has_planks": "2025-08-18 20:11:38 +0000"
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "cfm:recipes/decorations/crimson_cabinet": {
     "criteria": {
-      "entered_end": "2025-08-18 19:30:59 +0000"
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:53 +0000"
     },
     "done": true
   },
@@ -10738,35 +10689,83 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_crimson_upgraded_fence": {
+  "alexsmobs:alexsmobs/capsid": {
     "criteria": {
-      "has_log": "2025-08-18 20:11:38 +0000"
+      "capsid": "2025-08-18 20:14:39 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_item": "2025-08-18 17:45:39 +0000"
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
     },
-    "done": true
+    "done": false
   },
-  "cfm:recipes/decorations/stripped_crimson_park_bench": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_planks": "2025-08-18 20:11:38 +0000"
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
     },
-    "done": true
+    "done": false
   },
-  "stellarity:recipes/glass_from_end_stone": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "has_item": "2025-08-18 19:40:00 +0000"
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+  "incendium:technical/holy_wrath": {
     "criteria": {
-      "has_end_stone": "2025-08-18 19:40:00 +0000"
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:27:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
