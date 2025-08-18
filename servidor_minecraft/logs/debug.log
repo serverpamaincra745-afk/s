@@ -16165,3 +16165,52 @@ java.lang.Throwable: null
 [18Aug2025 19:29:59.868] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [382e61fb-f6ce-4395-ba30-2689400ec17c]
 [18Aug2025 19:30:04.475] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
 [18Aug2025 19:30:04.475] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[18Aug2025 19:30:47.112] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [382e61fb-f6ce-4395-ba30-2689400ec17c]
+[18Aug2025 19:30:57.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Journey's End]
+[18Aug2025 19:30:57.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Journey's End]
+[18Aug2025 19:30:58.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The End?]
+[18Aug2025 19:30:59.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The End?]
+[18Aug2025 19:30:59.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[18Aug2025 19:31:02.851] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[18Aug2025 19:31:02.888] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[18Aug2025 19:31:05.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -19153.970513679105,18.26590000152588,5997.715314726132
+[18Aug2025 19:31:05.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -7.716972549858269,3.8937942379145483,-5.364637434894254
+[18Aug2025 19:31:16.728] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.41 and blood value 9 for entity alexsmobs:enderiophage
+[18Aug2025 19:31:16.729] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.94 and blood value 15 for entity alexsmobs:spectre
+[18Aug2025 19:31:16.729] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.94 and blood value 15 for entity alexsmobs:spectre
+[18Aug2025 19:31:16.729] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.94 and blood value 15 for entity alexsmobs:spectre
+[18Aug2025 19:31:16.729] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.94 and blood value 15 for entity alexsmobs:spectre
+[18Aug2025 19:31:16.730] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.41 and blood value 9 for entity alexsmobs:enderiophage
+[18Aug2025 19:31:16.730] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.94 and blood value 15 for entity alexsmobs:spectre
+[18Aug2025 19:31:16.730] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.94 and blood value 15 for entity alexsmobs:spectre
+[18Aug2025 19:31:16.730] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.41 and blood value 9 for entity alexsmobs:enderiophage
+[18Aug2025 19:31:16.731] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.94 and blood value 15 for entity alexsmobs:spectre
+[18Aug2025 19:31:16.731] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.41 and blood value 9 for entity alexsmobs:enderiophage
+[18Aug2025 19:31:16.731] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.41 and blood value 9 for entity alexsmobs:enderiophage
+[18Aug2025 19:32:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sacrificial Ritual]
+[18Aug2025 19:32:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Sacrificial Ritual]
+[18Aug2025 19:32:22.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Final Showdown]
+[18Aug2025 19:32:22.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Final Showdown]
+[18Aug2025 19:32:37.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 19:32:37.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 19:33:06.696] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[18Aug2025 19:33:18.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Eye Spy]
+[18Aug2025 19:33:47.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [The End?]
+[18Aug2025 19:33:48.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[18Aug2025 19:34:13.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Ender Distancing]
+[18Aug2025 19:36:21.905] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [795957af-4d27-3957-9087-4f2291678558]
+[18Aug2025 19:36:38.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Ender Distancing]
+[18Aug2025 19:36:39.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Strengthened by Fire]
+[18Aug2025 19:36:52.184] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 19:36:52.184] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 19:36:52.184] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 19:37:02.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Capsid-19]
+[18Aug2025 19:37:37.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 19:37:37.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 19:38:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [Eye of Darkness]
+[18Aug2025 19:39:05.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_dragon_loot
+[18Aug2025 19:39:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Free the End]
+[18Aug2025 19:39:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [Free the End]
+[18Aug2025 19:39:14.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has completed the challenge [Free the End]
+[18Aug2025 19:39:46.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Ender Distancing]
+[18Aug2025 19:40:02.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [The Next Generation]

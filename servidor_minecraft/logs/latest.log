@@ -3362,3 +3362,29 @@ java.lang.Throwable: null
 [18Aug2025 19:29:51.968] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
 [18Aug2025 19:29:52.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13008ms or 260 ticks behind
 [18Aug2025 19:29:52.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! -6.597886701994867,-1.4186642327334908,7.434028947464867
+[18Aug2025 19:30:57.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Journey's End]
+[18Aug2025 19:30:57.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Journey's End]
+[18Aug2025 19:30:58.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The End?]
+[18Aug2025 19:30:59.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The End?]
+[18Aug2025 19:30:59.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[18Aug2025 19:31:02.851] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[18Aug2025 19:31:02.888] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[18Aug2025 19:31:05.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -19153.970513679105,18.26590000152588,5997.715314726132
+[18Aug2025 19:31:05.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -7.716972549858269,3.8937942379145483,-5.364637434894254
+[18Aug2025 19:32:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sacrificial Ritual]
+[18Aug2025 19:32:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Sacrificial Ritual]
+[18Aug2025 19:32:22.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Final Showdown]
+[18Aug2025 19:32:22.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Final Showdown]
+[18Aug2025 19:33:18.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Eye Spy]
+[18Aug2025 19:33:47.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [The End?]
+[18Aug2025 19:33:48.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[18Aug2025 19:34:13.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Ender Distancing]
+[18Aug2025 19:36:38.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Ender Distancing]
+[18Aug2025 19:36:39.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Strengthened by Fire]
+[18Aug2025 19:37:02.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Capsid-19]
+[18Aug2025 19:38:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [Eye of Darkness]
+[18Aug2025 19:39:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Free the End]
+[18Aug2025 19:39:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [Free the End]
+[18Aug2025 19:39:14.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has completed the challenge [Free the End]
+[18Aug2025 19:39:46.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Ender Distancing]
+[18Aug2025 19:40:02.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [The Next Generation]

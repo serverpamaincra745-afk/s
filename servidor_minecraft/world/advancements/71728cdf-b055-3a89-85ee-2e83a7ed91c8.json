@@ -3420,6 +3420,7 @@
       "minecraft:phantom": "2025-08-17 02:08:01 +0000",
       "minecraft:witch": "2025-08-18 14:56:04 +0000",
       "minecraft:stray": "2025-08-16 20:35:21 +0000",
+      "minecraft:enderman": "2025-08-18 19:36:31 +0000",
       "minecraft:vex": "2025-08-17 19:59:28 +0000",
       "minecraft:zombie": "2025-08-16 22:50:39 +0000"
     },
@@ -10003,6 +10004,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-08-18 19:36:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-08-18 19:36:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_wildflower": "2025-08-18 18:44:55 +0000"
@@ -10039,6 +10052,24 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2025-08-18 19:32:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-08-18 19:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-08-18 19:28:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-08-18 19:01:35 +0000"
@@ -10054,6 +10085,24 @@
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-08-18 18:39:28 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2025-08-18 19:32:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-08-18 19:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-18 19:30:59 +0000"
     },
     "done": true
   },
@@ -10078,6 +10127,12 @@
   "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
       "killed": "2025-08-18 17:47:29 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-08-18 19:36:39 +0000"
     },
     "done": true
   },
@@ -10123,6 +10178,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-08-18 19:34:13 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
       "killed": "2025-08-18 19:08:16 +0000"
@@ -10159,9 +10220,27 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/evil_eye": {
+    "criteria": {
+      "has_ender_eye": "2025-08-18 19:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-08-18 19:36:39 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_underzealot": {
     "criteria": {
       "killed_by_underzealot": "2025-08-18 18:57:54 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-08-18 19:30:57 +0000"
     },
     "done": true
   },
@@ -10198,6 +10277,12 @@
   "alexscaves:alexscaves/moth_ball": {
     "criteria": {
       "moth_ball": "2025-08-18 19:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-08-18 19:30:59 +0000"
     },
     "done": true
   },
