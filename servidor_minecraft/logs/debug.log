@@ -16536,3 +16536,69 @@ java.lang.Throwable: null
 [18Aug2025 19:58:24.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/128764, l='ServerLevel[world]', x=16046.36, y=66.00, z=-6273.05] died: Vampire Baron Level 1 was slain by Vampire Baron Level 2
 [18Aug2025 19:58:45.684] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.84 and blood value 15 for entity alexsmobs:cosmaw
 [18Aug2025 20:00:41.267] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Aug2025 20:01:19.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3482692824759397
+[18Aug2025 20:01:19.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6035172256433725
+[18Aug2025 20:01:20.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.3887759096326135
+[18Aug2025 20:01:20.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.1907629702075155
+[18Aug2025 20:01:21.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.4328512999254599
+[18Aug2025 20:01:37.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+[18Aug2025 20:02:48.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 20:02:48.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 20:03:11.467] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:portal
+[18Aug2025 20:03:11.467] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.PortalSpell@64d21896
+[18Aug2025 20:04:25.213] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[18Aug2025 20:06:10.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e150fa99-c77a-3847-bab5-f1c8195ed2b2]
+[18Aug2025 20:06:29.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 fell out of the world
+[18Aug2025 20:06:30.091] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1064, y=42, z=1425} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 20:06:30.091] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1064, y=42, z=1425}
+[18Aug2025 20:06:30.141] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1066, y=44, z=1372} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 20:06:30.142] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1066, y=44, z=1372}
+[18Aug2025 20:06:31.369] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Zairac74509 has new faction level vampirism:vampire 4
+[18Aug2025 20:06:31.372] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[18Aug2025 20:06:54.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 fell out of the world
+[18Aug2025 20:06:56.981] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Zairac74509 has new faction level vampirism:vampire 4
+[18Aug2025 20:06:56.984] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[18Aug2025 20:07:09.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 fell out of the world
+[18Aug2025 20:07:10.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! 0.0,-22.953751039151484,0.0
+[18Aug2025 20:07:11.626] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Hachiko2357 has new faction level vampirism:vampire 4
+[18Aug2025 20:07:11.629] [Server thread/DEBUG] [twilightforest/]: Player Hachiko2357 (e150fa99-c77a-3847-bab5-f1c8195ed2b2) respawned and received items held in storage
+[18Aug2025 20:07:48.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 20:07:48.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 20:08:53.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Race Against The Clock]
+[18Aug2025 20:08:56.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 didn't want to live in the same world as Enderiophage
+[18Aug2025 20:08:58.622] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Zairac74509 has new faction level vampirism:vampire 4
+[18Aug2025 20:08:58.625] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[18Aug2025 20:09:14.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e51ad22d-3319-4412-ae97-ef8e2fa57918]
+[18Aug2025 20:09:24.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The Chorus Infection]
+[18Aug2025 20:09:43.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 fell out of the world
+[18Aug2025 20:09:46.242] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: camilxdk1 has new faction level vampirism:vampire 4
+[18Aug2025 20:09:46.245] [Server thread/DEBUG] [twilightforest/]: Player camilxdk1 (795957af-4d27-3957-9087-4f2291678558) respawned and received items held in storage
+[18Aug2025 20:10:19.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 fell out of the world
+[18Aug2025 20:10:21.530] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: camilxdk1 has new faction level vampirism:vampire 4
+[18Aug2025 20:10:21.533] [Server thread/DEBUG] [twilightforest/]: Player camilxdk1 (795957af-4d27-3957-9087-4f2291678558) respawned and received items held in storage
+[18Aug2025 20:11:00.354] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Aug2025 20:11:11.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 fell out of the world
+[18Aug2025 20:11:14.003] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Zairac74509 has new faction level vampirism:vampire 4
+[18Aug2025 20:11:14.006] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[18Aug2025 20:12:48.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 20:12:48.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 20:14:39.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Capsid-19]
+[18Aug2025 20:14:52.261] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Aug2025 20:15:12.804] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magic_arrow
+[18Aug2025 20:15:12.804] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.MagicArrowSpell@f42b5b21
+[18Aug2025 20:15:42.945] [Server thread/INFO] [irons_spells_js/]: traveloptics:orbital_void
+[18Aug2025 20:15:42.945] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.OrbitalVoidSpell@5f90e2fe
+[18Aug2025 20:16:15.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[18Aug2025 20:16:15.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[18Aug2025 20:16:15.453] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Zairac74509
+[18Aug2025 20:16:15.453] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[18Aug2025 20:16:17.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[18Aug2025 20:16:17.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[18Aug2025 20:16:17.104] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Hachiko2357
+[18Aug2025 20:16:17.104] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[18Aug2025 20:16:28.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[18Aug2025 20:16:28.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[18Aug2025 20:16:28.388] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of camilxdk1
+[18Aug2025 20:16:28.388] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[18Aug2025 20:17:48.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 20:17:48.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

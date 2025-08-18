@@ -3204,6 +3204,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-17 16:23:45 +0000",
       "minecraft:skeleton": "2025-08-16 20:19:19 +0000",
+      "minecraft:hoglin": "2025-08-18 20:11:00 +0000",
       "minecraft:vindicator": "2025-08-17 19:59:02 +0000",
       "minecraft:spider": "2025-08-16 20:33:48 +0000",
       "minecraft:evoker": "2025-08-17 19:59:14 +0000",
@@ -8922,6 +8923,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-08-18 20:16:11 +0000",
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-08-18 19:41:09 +0000"
@@ -8949,6 +9023,18 @@
   "stellarity:end_city/portable_storage": {
     "criteria": {
       "craft_shulker_box": "2025-08-18 19:54:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
     },
     "done": true
   },
@@ -9006,6 +9092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/obtain_an_ender_pearl": {
     "criteria": {
       "criteria": "2025-08-18 19:38:50 +0000"
@@ -9027,9 +9119,28 @@
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
       "amethyst_forest": "2025-08-18 19:43:24 +0000",
+      "sculk_growth": "2025-08-18 20:06:58 +0000",
       "end_highlands": "2025-08-18 19:45:12 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_chair": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
@@ -9049,9 +9160,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_leggings": {
     "criteria": {
       "has_item": "2025-08-18 19:29:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
     },
     "done": true
   },
@@ -9061,9 +9184,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-08-18 20:11:00 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-08-18 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
     },
     "done": true
   },
@@ -9085,6 +9220,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "kill_dragon": "2025-08-18 19:39:14 +0000"
@@ -9094,6 +9235,18 @@
   "celestial_artifacts:recipes/misc/backtrack_mirror": {
     "criteria": {
       "has_ender_pearl": "2025-08-18 19:38:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
     },
     "done": true
   },
@@ -9109,9 +9262,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-08-18 19:33:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_planks": "2025-08-18 20:11:50 +0000"
     },
     "done": true
   },
