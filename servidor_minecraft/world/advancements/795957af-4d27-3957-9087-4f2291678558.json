@@ -1796,9 +1796,11 @@
       "minecraft:phantom": "2025-08-17 18:06:06 +0000",
       "minecraft:witch": "2025-08-18 14:41:34 +0000",
       "minecraft:cave_spider": "2025-08-18 14:48:28 +0000",
+      "minecraft:enderman": "2025-08-18 18:11:12 +0000",
       "minecraft:vex": "2025-08-17 19:58:52 +0000",
       "minecraft:zombie": "2025-08-16 20:51:16 +0000",
-      "minecraft:drowned": "2025-08-17 02:08:40 +0000"
+      "minecraft:drowned": "2025-08-17 02:08:40 +0000",
+      "minecraft:zombie_villager": "2025-08-18 18:11:17 +0000"
     },
     "done": false
   },
@@ -9154,9 +9156,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-18 18:04:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-08-18 18:22:57 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
       "licowitch_tower": "2025-08-18 17:58:41 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/oak_wine_shelf": {
+    "criteria": {
+      "has_oak_slab": "2025-08-18 18:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-18 18:04:38 +0000"
     },
     "done": true
   },
@@ -9202,6 +9228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-18 18:04:38 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-08-18 17:59:36 +0000"
@@ -9235,6 +9267,18 @@
   "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
       "has_dragonscales_electric": "2025-08-18 17:51:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-08-18 18:23:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-08-18 18:23:10 +0000"
     },
     "done": true
   },

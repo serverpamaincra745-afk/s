@@ -14195,3 +14195,92 @@ java.lang.Throwable: null
 [18Aug2025 18:08:22.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [18Aug2025 18:08:27.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [18Aug2025 18:08:31.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Aug2025 18:08:45.165] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} 19213 -8270 -8270 VisualFallingBlockEntity['Falling Tuff'/37036, l='ServerLevel[world]', x=19213.50, y=-6.00, z=-8269.50]
+[18Aug2025 18:08:45.195] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19213 -8272 -8272 VisualFallingBlockEntity['Falling Deepslate'/37037, l='ServerLevel[world]', x=19213.50, y=-3.00, z=-8271.50]
+[18Aug2025 18:08:49.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2853ms or 57 ticks behind
+[18Aug2025 18:08:56.499] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19220 -8269 -8269 VisualFallingBlockEntity['Falling Deepslate'/37227, l='ServerLevel[world]', x=19220.50, y=-24.00, z=-8268.50]
+[18Aug2025 18:08:56.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19222 -8270 -8270 VisualFallingBlockEntity['Falling Deepslate'/37228, l='ServerLevel[world]', x=19222.50, y=-26.00, z=-8269.50]
+[18Aug2025 18:09:22.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 18:09:22.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 18:10:00.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Dark (Chocolate) Tower]
+[18Aug2025 18:10:27.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19351 -8233 -8233 VisualFallingBlockEntity['Falling Deepslate'/39133, l='ServerLevel[world]', x=19351.50, y=-16.00, z=-8232.50]
+[18Aug2025 18:10:34.846] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 19349 -8233 -8233 VisualFallingBlockEntity['Falling Stone'/39466, l='ServerLevel[world]', x=19349.50, y=3.00, z=-8232.50]
+[18Aug2025 18:10:34.853] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19353 -8230 -8230 VisualFallingBlockEntity['Falling Deepslate'/39467, l='ServerLevel[world]', x=19353.50, y=3.00, z=-8229.50]
+[18Aug2025 18:10:46.070] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 18:11:16.830] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 18:11:19.477] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 18:13:14.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Flexible Schedule]
+[18Aug2025 18:14:05.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Chest Slayer]
+[18Aug2025 18:14:21.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 18:14:21.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 18:14:40.971] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19147 -8296 -8296 VisualFallingBlockEntity['Falling Deepslate'/44715, l='ServerLevel[world]', x=19147.50, y=4.00, z=-8295.50]
+[18Aug2025 18:14:45.407] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:granite} 19144 -8283 -8283 VisualFallingBlockEntity['Falling Granite'/44783, l='ServerLevel[world]', x=19144.50, y=8.00, z=-8282.50]
+[18Aug2025 18:14:49.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[18Aug2025 18:14:52.664] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19143 -8279 -8279 VisualFallingBlockEntity['Falling Deepslate'/44916, l='ServerLevel[world]', x=19143.50, y=-2.00, z=-8278.50]
+[18Aug2025 18:14:57.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19141 -8271 -8271 VisualFallingBlockEntity['Falling Deepslate'/44981, l='ServerLevel[world]', x=19141.50, y=-2.00, z=-8270.50]
+[18Aug2025 18:15:02.427] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19142 -8272 -8272 VisualFallingBlockEntity['Falling Deepslate'/45021, l='ServerLevel[world]', x=19142.50, y=-12.00, z=-8271.50]
+[18Aug2025 18:15:02.430] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:gravel} 19143 -8272 -8272 VisualFallingBlockEntity['Falling Gravel'/45022, l='ServerLevel[world]', x=19143.50, y=-15.00, z=-8271.50]
+[18Aug2025 18:15:06.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[18Aug2025 18:15:23.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[18Aug2025 18:15:51.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Aug2025 18:15:54.560] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19137 -8258 -8258 VisualFallingBlockEntity['Falling Deepslate'/45734, l='ServerLevel[world]', x=19137.50, y=0.00, z=-8257.50]
+[18Aug2025 18:15:56.586] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19130 -8261 -8261 VisualFallingBlockEntity['Falling Deepslate'/45777, l='ServerLevel[world]', x=19130.50, y=0.00, z=-8260.50]
+[18Aug2025 18:15:58.635] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19131 -8253 -8253 VisualFallingBlockEntity['Falling Deepslate'/45832, l='ServerLevel[world]', x=19131.50, y=1.00, z=-8252.50]
+[18Aug2025 18:15:58.641] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19128 -8253 -8253 VisualFallingBlockEntity['Falling Deepslate'/45833, l='ServerLevel[world]', x=19128.50, y=2.00, z=-8252.50]
+[18Aug2025 18:15:58.652] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19132 -8256 -8256 VisualFallingBlockEntity['Falling Deepslate'/45834, l='ServerLevel[world]', x=19132.50, y=0.00, z=-8255.50]
+[18Aug2025 18:16:05.906] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19117 -8253 -8253 VisualFallingBlockEntity['Falling Deepslate'/45984, l='ServerLevel[world]', x=19117.50, y=-1.00, z=-8252.50]
+[18Aug2025 18:16:09.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Aug2025 18:16:10.152] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19110 -8247 -8247 VisualFallingBlockEntity['Falling Deepslate'/46138, l='ServerLevel[world]', x=19110.50, y=2.00, z=-8246.50]
+[18Aug2025 18:16:27.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
+[18Aug2025 18:16:44.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[18Aug2025 18:17:01.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[18Aug2025 18:17:19.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[18Aug2025 18:17:32.814] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:roadrunner
+[18Aug2025 18:17:32.999] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[18Aug2025 18:17:33.246] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[18Aug2025 18:17:37.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[18Aug2025 18:17:40.706] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[18Aug2025 18:17:56.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3517ms or 70 ticks behind
+[18Aug2025 18:18:14.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2974ms or 59 ticks behind
+[18Aug2025 18:18:31.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[18Aug2025 18:18:49.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3450ms or 69 ticks behind
+[18Aug2025 18:19:08.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3436ms or 68 ticks behind
+[18Aug2025 18:19:28.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4822ms or 96 ticks behind
+[18Aug2025 18:19:45.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[18Aug2025 18:20:03.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[18Aug2025 18:20:12.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 18:20:12.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 18:20:22.328] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 19038 -8053 -8053 VisualFallingBlockEntity['Falling Stone'/51225, l='ServerLevel[world]', x=19038.50, y=10.00, z=-8052.50]
+[18Aug2025 18:20:22.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4208ms or 84 ticks behind
+[18Aug2025 18:20:24.272] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 19039 -8049 -8049 VisualFallingBlockEntity['Falling Stone'/51283, l='ServerLevel[world]', x=19039.50, y=8.00, z=-8048.50]
+[18Aug2025 18:20:26.870] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 19030 -8050 -8050 VisualFallingBlockEntity['Falling Stone'/51323, l='ServerLevel[world]', x=19030.50, y=14.00, z=-8049.50]
+[18Aug2025 18:20:27.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [Dessert Power]
+[18Aug2025 18:20:29.681] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:gravel} 19034 -8053 -8053 VisualFallingBlockEntity['Falling Gravel'/51383, l='ServerLevel[world]', x=19034.50, y=20.00, z=-8052.50]
+[18Aug2025 18:21:06.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Aug2025 18:21:23.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[18Aug2025 18:21:58.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Aug2025 18:22:00.448] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19054 -8023 -8023 VisualFallingBlockEntity['Falling Deepslate'/53428, l='ServerLevel[world]', x=19054.50, y=-14.00, z=-8022.50]
+[18Aug2025 18:22:16.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[18Aug2025 18:22:26.732] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magic_missile
+[18Aug2025 18:22:26.732] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.MagicMissileSpell@546364be
+[18Aug2025 18:22:39.646] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:icicle
+[18Aug2025 18:22:39.646] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ice.IcicleSpell@5832bc57
+[18Aug2025 18:22:50.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Aug2025 18:22:57.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Alex's Caves]
+[18Aug2025 18:23:10.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Once Upon a Cave]
+[18Aug2025 18:23:14.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Aug2025 18:23:31.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[18Aug2025 18:23:48.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[18Aug2025 18:24:06.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
+[18Aug2025 18:24:23.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[18Aug2025 18:24:40.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hachiko2357> xaero-waypoint:Shared Location:S:19386:93:-8272:10:false:0:Internal-overworld-waypoints
+[18Aug2025 18:24:43.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18Aug2025 18:25:00.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[18Aug2025 18:25:18.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[18Aug2025 18:25:40.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[18Aug2025 18:25:47.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 18:25:47.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 18:25:49.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Lorem Ipsum]
+[18Aug2025 18:26:24.011] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 13151 -56 -13557 in 4s
+[18Aug2025 18:27:21.711] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.3 and blood value 9 for entity alexsmobs:tarantula_hawk
+[18Aug2025 18:28:23.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Once Upon a Cave]

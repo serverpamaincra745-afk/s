@@ -2956,3 +2956,51 @@ java.lang.Throwable: null
 [18Aug2025 18:07:45.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
 [18Aug2025 18:08:08.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
 [18Aug2025 18:08:31.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Aug2025 18:08:49.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2853ms or 57 ticks behind
+[18Aug2025 18:10:00.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Dark (Chocolate) Tower]
+[18Aug2025 18:13:14.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Flexible Schedule]
+[18Aug2025 18:14:05.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Chest Slayer]
+[18Aug2025 18:14:49.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[18Aug2025 18:15:06.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[18Aug2025 18:15:23.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[18Aug2025 18:15:51.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Aug2025 18:16:09.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Aug2025 18:16:27.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
+[18Aug2025 18:16:44.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[18Aug2025 18:17:01.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[18Aug2025 18:17:19.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[18Aug2025 18:17:37.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[18Aug2025 18:17:56.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3517ms or 70 ticks behind
+[18Aug2025 18:18:14.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2974ms or 59 ticks behind
+[18Aug2025 18:18:31.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[18Aug2025 18:18:49.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3450ms or 69 ticks behind
+[18Aug2025 18:19:08.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3436ms or 68 ticks behind
+[18Aug2025 18:19:28.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4822ms or 96 ticks behind
+[18Aug2025 18:19:45.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[18Aug2025 18:20:03.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[18Aug2025 18:20:22.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4208ms or 84 ticks behind
+[18Aug2025 18:20:27.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [Dessert Power]
+[18Aug2025 18:21:06.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Aug2025 18:21:23.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[18Aug2025 18:21:58.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Aug2025 18:22:16.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[18Aug2025 18:22:26.732] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magic_missile
+[18Aug2025 18:22:26.732] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.MagicMissileSpell@546364be
+[18Aug2025 18:22:39.646] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:icicle
+[18Aug2025 18:22:39.646] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ice.IcicleSpell@5832bc57
+[18Aug2025 18:22:50.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Aug2025 18:22:57.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Alex's Caves]
+[18Aug2025 18:23:10.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Once Upon a Cave]
+[18Aug2025 18:23:14.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Aug2025 18:23:31.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[18Aug2025 18:23:48.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[18Aug2025 18:24:06.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
+[18Aug2025 18:24:23.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[18Aug2025 18:24:40.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hachiko2357> xaero-waypoint:Shared Location:S:19386:93:-8272:10:false:0:Internal-overworld-waypoints
+[18Aug2025 18:24:43.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18Aug2025 18:25:00.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[18Aug2025 18:25:18.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[18Aug2025 18:25:40.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[18Aug2025 18:25:49.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Lorem Ipsum]
+[18Aug2025 18:26:24.011] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 13151 -56 -13557 in 4s
+[18Aug2025 18:28:23.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Once Upon a Cave]

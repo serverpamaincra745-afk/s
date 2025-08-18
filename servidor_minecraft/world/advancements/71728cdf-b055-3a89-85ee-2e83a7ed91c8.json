@@ -10008,6 +10008,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-08-18 18:10:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
       "has_item": "2025-08-18 17:45:39 +0000"
@@ -10017,6 +10023,12 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-08-18 17:45:22 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-18 18:14:05 +0000"
     },
     "done": true
   },
@@ -10038,9 +10050,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2025-08-18 18:07:26 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2025-08-18 17:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-18 18:23:05 +0000"
     },
     "done": true
   },
@@ -10056,9 +10080,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_gum_worm": {
+    "criteria": {
+      "ride_gum_worm": "2025-08-18 18:20:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2025-08-18 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/rainbounce_boots": {
+    "criteria": {
+      "limestone": "2025-08-18 18:05:53 +0000"
     },
     "done": true
   },
