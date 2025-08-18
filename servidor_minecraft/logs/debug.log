@@ -18045,3 +18045,34 @@ java.lang.Throwable: null
 [18Aug2025 20:51:23.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
 [18Aug2025 20:51:26.128] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Hachiko2357 has new faction level vampirism:vampire 4
 [18Aug2025 20:51:26.131] [Server thread/DEBUG] [twilightforest/]: Player Hachiko2357 (e150fa99-c77a-3847-bab5-f1c8195ed2b2) respawned and received items held in storage
+[18Aug2025 20:51:52.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [A Flaming Sword]
+[18Aug2025 20:52:48.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 20:52:48.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 20:53:31.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [A Flaming Sword]
+[18Aug2025 20:54:26.522] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [836cf875-2dd0-486a-92a2-99e000e720e3]
+[18Aug2025 20:54:54.417] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Aug2025 20:55:44.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.31506328846899123
+[18Aug2025 20:55:44.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.5
+[18Aug2025 20:55:44.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3441502394368854
+[18Aug2025 20:57:32.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
+[18Aug2025 20:57:32.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Weird Fishes/Arpeggi]
+[18Aug2025 20:57:34.633] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Hachiko2357 has new faction level vampirism:vampire 4
+[18Aug2025 20:57:34.636] [Server thread/DEBUG] [twilightforest/]: Player Hachiko2357 (e150fa99-c77a-3847-bab5-f1c8195ed2b2) respawned and received items held in storage
+[18Aug2025 20:57:48.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 20:57:48.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 20:58:39.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
+[18Aug2025 20:58:40.718] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Hachiko2357 has new faction level vampirism:vampire 4
+[18Aug2025 20:58:40.721] [Server thread/DEBUG] [twilightforest/]: Player Hachiko2357 (e150fa99-c77a-3847-bab5-f1c8195ed2b2) respawned and received items held in storage
+[18Aug2025 20:58:47.569] [Server thread/INFO] [irons_spells_js/]: traveloptics:conjure_void_tomes
+[18Aug2025 20:58:47.569] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.ConjureVoidTomesSpell@384928d4
+[18Aug2025 20:58:53.263] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [0c0a916e-852e-4f69-919a-2bfc8976c094]
+[18Aug2025 20:59:36.209] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [836cf875-2dd0-486a-92a2-99e000e720e3]
+[18Aug2025 20:59:56.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.vortex_punch
+[18Aug2025 20:59:59.632] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Hachiko2357 has new faction level vampirism:vampire 4
+[18Aug2025 20:59:59.634] [Server thread/DEBUG] [twilightforest/]: Player Hachiko2357 (e150fa99-c77a-3847-bab5-f1c8195ed2b2) respawned and received items held in storage
+[18Aug2025 21:00:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
+[18Aug2025 21:00:19.342] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Hachiko2357 has new faction level vampirism:vampire 4
+[18Aug2025 21:00:19.344] [Server thread/DEBUG] [twilightforest/]: Player Hachiko2357 (e150fa99-c77a-3847-bab5-f1c8195ed2b2) respawned and received items held in storage
+[18Aug2025 21:00:59.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
+[18Aug2025 21:01:01.149] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Hachiko2357 has new faction level vampirism:vampire 4
+[18Aug2025 21:01:01.152] [Server thread/DEBUG] [twilightforest/]: Player Hachiko2357 (e150fa99-c77a-3847-bab5-f1c8195ed2b2) respawned and received items held in storage

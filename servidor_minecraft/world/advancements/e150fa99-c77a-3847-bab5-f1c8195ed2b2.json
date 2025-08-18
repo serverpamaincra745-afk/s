@@ -9273,6 +9273,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-08-18 20:53:31 +0000"
+    },
+    "done": true
+  },
   "traveloptics:visit_void_cathedral": {
     "criteria": {
       "void_cathedral": "2025-08-18 20:36:48 +0000"

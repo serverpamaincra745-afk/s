@@ -3770,3 +3770,16 @@ java.lang.Throwable: null
 [18Aug2025 20:49:30.937] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.StarfallSpell@edd7f4f7
 [18Aug2025 20:51:12.295] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/144010, l='ServerLevel[world]', x=1590.18, y=119.00, z=1630.44]
 [18Aug2025 20:51:23.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
+[18Aug2025 20:51:52.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [A Flaming Sword]
+[18Aug2025 20:53:31.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [A Flaming Sword]
+[18Aug2025 20:55:44.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.31506328846899123
+[18Aug2025 20:55:44.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.5
+[18Aug2025 20:55:44.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3441502394368854
+[18Aug2025 20:57:32.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
+[18Aug2025 20:57:32.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Weird Fishes/Arpeggi]
+[18Aug2025 20:58:39.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
+[18Aug2025 20:58:47.569] [Server thread/INFO] [irons_spells_js/]: traveloptics:conjure_void_tomes
+[18Aug2025 20:58:47.569] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.ConjureVoidTomesSpell@384928d4
+[18Aug2025 20:59:56.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.vortex_punch
+[18Aug2025 21:00:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
+[18Aug2025 21:00:59.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
