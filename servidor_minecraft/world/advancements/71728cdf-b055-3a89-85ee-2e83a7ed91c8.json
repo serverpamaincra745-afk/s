@@ -3164,6 +3164,7 @@
       "floodplain": "2025-08-16 23:06:59 +0000",
       "highland": "2025-08-17 15:29:01 +0000",
       "jacaranda_glade": "2025-08-16 21:17:44 +0000",
+      "marsh": "2025-08-18 14:55:46 +0000",
       "wetland": "2025-08-17 19:46:12 +0000",
       "mystic_grove": "2025-08-18 14:13:24 +0000",
       "cold_desert": "2025-08-16 20:17:08 +0000",
@@ -3174,6 +3175,7 @@
       "moor": "2025-08-18 01:11:09 +0000",
       "mediterranean_forest": "2025-08-16 23:14:34 +0000",
       "coniferous_forest": "2025-08-17 02:12:30 +0000",
+      "spider_nest": "2025-08-18 14:44:23 +0000",
       "dryland": "2025-08-17 02:04:14 +0000",
       "wasteland": "2025-08-17 15:17:30 +0000",
       "old_growth_dead_forest": "2025-08-16 21:09:49 +0000",
@@ -3413,6 +3415,7 @@
       "minecraft:creeper": "2025-08-17 15:45:35 +0000",
       "minecraft:evoker": "2025-08-17 19:58:39 +0000",
       "minecraft:phantom": "2025-08-17 02:08:01 +0000",
+      "minecraft:witch": "2025-08-18 14:56:04 +0000",
       "minecraft:stray": "2025-08-16 20:35:21 +0000",
       "minecraft:vex": "2025-08-17 19:59:28 +0000",
       "minecraft:zombie": "2025-08-16 22:50:39 +0000"
@@ -9799,77 +9802,101 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_any_ingredient": "2025-08-18 14:57:51 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:kill_babyvillager": {
+    "criteria": {
+      "killedbabyvillager": "2025-08-18 14:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-18 14:46:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-08-18 14:33:25 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_item": "2025-08-18 14:32:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_item": "2025-08-18 14:32:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_reeds": "2025-08-18 14:54:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "anger_wizard": "2025-08-18 14:45:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_sugar_cane": "2025-08-18 14:54:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_blaze_rod": "2025-08-18 14:46:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_any_ingredient": "2025-08-18 14:57:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_bone_meal": "2025-08-18 14:32:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_bone_meal": "2025-08-18 14:32:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_brown_mushroom": "2025-08-18 14:57:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
-      "log_spam_fixer": "2025-08-18 14:26:13 +0000"
+      "has_any_ingredient": "2025-08-18 14:57:51 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-18 14:46:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

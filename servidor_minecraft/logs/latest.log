@@ -2817,3 +2817,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [18Aug2025 14:27:02.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
 [18Aug2025 14:27:02.950] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
 [18Aug2025 14:27:02.951] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[18Aug2025 14:27:32.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[18Aug2025 14:27:32.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[18Aug2025 14:27:32.293] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[18Aug2025 14:27:42.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@42394269[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.70.50.114:50313): Took too long to log in
+[18Aug2025 14:27:42.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42394269[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.70.50.114:50313) lost connection: Took too long to log in
+[18Aug2025 14:27:42.889] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Aug2025 14:27:43.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:45239] logged in with entity id 24373 at (15956.5, 75.076, -9239.5)
+[18Aug2025 14:27:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[18Aug2025 14:27:44.836] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[18Aug2025 14:27:44.837] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[18Aug2025 14:28:22.856] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@50c24e6a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.70.50.114:39079): Took too long to log in
+[18Aug2025 14:28:22.857] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50c24e6a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.70.50.114:39079) lost connection: Took too long to log in
+[18Aug2025 14:28:22.917] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Aug2025 14:28:27.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Timed out
+[18Aug2025 14:28:27.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[18Aug2025 14:28:27.101] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[18Aug2025 14:28:29.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[18Aug2025 14:28:29.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[18Aug2025 14:28:29.087] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[18Aug2025 14:28:39.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:52339] logged in with entity id 25367 at (16141.5, 71.5, -13707.5)
+[18Aug2025 14:28:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[18Aug2025 14:28:40.585] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[18Aug2025 14:28:40.586] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[18Aug2025 14:28:47.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:48121] logged in with entity id 25673 at (16209.206494449922, 63.0, -13569.97374644107)
+[18Aug2025 14:28:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[18Aug2025 14:28:49.174] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
+[18Aug2025 14:28:49.175] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[18Aug2025 14:29:00.340] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7755c2a9[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.70.50.114:51125): Took too long to log in
+[18Aug2025 14:29:00.341] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7755c2a9[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.70.50.114:51125) lost connection: Took too long to log in
+[18Aug2025 14:29:00.425] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Aug2025 14:29:34.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.70.50.114:57173] logged in with entity id 26106 at (16302.152163324092, 73.97460855288317, -13889.227844219766)
+[18Aug2025 14:29:34.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[18Aug2025 14:29:35.231] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[18Aug2025 14:29:35.232] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[18Aug2025 14:30:16.119] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:chain_lightning
+[18Aug2025 14:30:16.119] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.lightning.ChainLightningSpell@7347f6f6
+[18Aug2025 14:33:33.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[18Aug2025 14:33:51.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[18Aug2025 14:34:09.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[18Aug2025 14:34:26.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[18Aug2025 14:35:03.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Aug2025 14:35:09.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:16803:70:-13982:14:false:0:Internal-overworld-waypoints
+[18Aug2025 14:35:30.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Aug2025 14:35:49.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Aug2025 14:37:49.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28442, l='ServerLevel[world]', x=16795.53, y=69.00, z=-14012.78] died, message: 'Villager was blown up by Zairac74509'
+[18Aug2025 14:37:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Even Badder Deal]
+[18Aug2025 14:38:19.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[18Aug2025 14:38:19.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[18Aug2025 14:38:19.055] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[18Aug2025 14:38:48.756] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:spectral_hammer
+[18Aug2025 14:38:48.756] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SpectralHammerSpell@7b137a2b
+[18Aug2025 14:39:19.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Chest Slayer]
+[18Aug2025 14:40:16.232] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:guiding_bolt
+[18Aug2025 14:40:16.232] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.GuidingBoltSpell@ecb08685
+[18Aug2025 14:40:19.536] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wisp
+[18Aug2025 14:40:19.536] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.WispSpell@9f9940d9
+[18Aug2025 14:40:47.587] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Aug2025 14:40:47.602] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Aug2025 14:41:23.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:16818:65:-13492:15:false:0:Internal-overworld-waypoints
+[18Aug2025 14:44:50.579] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firebolt
+[18Aug2025 14:44:50.579] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.FireboltSpell@7dcdb5f5
+[18Aug2025 14:44:56.329] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magma_bomb
+[18Aug2025 14:44:56.329] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.MagmaBombSpell@cd2419e4
+[18Aug2025 14:44:58.129] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:burning_dash
+[18Aug2025 14:44:58.129] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.BurningDashSpell@277a50c8
+[18Aug2025 14:45:17.132] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blaze_storm
+[18Aug2025 14:45:17.132] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.BlazeStormSpell@e4a3e556
+[18Aug2025 14:45:26.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [A Fool's Folly]
+[18Aug2025 14:46:08.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Into Fire]
+[18Aug2025 14:54:05.043] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:angel_wing
+[18Aug2025 14:54:05.043] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.AngelWingsSpell@4cc959b3
+[18Aug2025 14:54:23.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[18Aug2025 14:54:50.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:16927:67:-13375:2:false:0:Internal-overworld-waypoints
+[18Aug2025 14:56:17.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[18Aug2025 14:56:23.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [It Belongs in a Museum]
