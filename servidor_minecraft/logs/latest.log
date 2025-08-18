@@ -3760,3 +3760,13 @@ java.lang.Throwable: null
 [18Aug2025 20:40:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [There Is No Gravity Here!]
 [18Aug2025 20:40:32.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [There Is No Gravity Here!]
 [18Aug2025 20:41:10.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [Who's The Thief Now?]
+[18Aug2025 20:42:03.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Spooky Scary Shulker Box]
+[18Aug2025 20:43:03.856] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/140402, l='ServerLevel[world]', x=1591.64, y=140.50, z=1604.98]
+[18Aug2025 20:46:34.372] [Server thread/INFO] [irons_spells_js/]: traveloptics:astral_sense
+[18Aug2025 20:46:34.372] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.AstralSenseSpell@6761b62a
+[18Aug2025 20:49:16.991] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_punch
+[18Aug2025 20:49:16.991] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VortexPunchSpell@f83efbd
+[18Aug2025 20:49:30.937] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:starfall
+[18Aug2025 20:49:30.937] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.StarfallSpell@edd7f4f7
+[18Aug2025 20:51:12.295] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/144010, l='ServerLevel[world]', x=1590.18, y=119.00, z=1630.44]
+[18Aug2025 20:51:23.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow

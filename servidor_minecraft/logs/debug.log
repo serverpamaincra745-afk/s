@@ -18023,3 +18023,25 @@ java.lang.Throwable: null
 [18Aug2025 20:40:32.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [There Is No Gravity Here!]
 [18Aug2025 20:41:10.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [Who's The Thief Now?]
 [18Aug2025 20:41:15.349] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [03eda508-8f7e-461a-a0db-761aa175ee09]
+[18Aug2025 20:42:03.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Spooky Scary Shulker Box]
+[18Aug2025 20:42:48.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 20:42:48.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 20:43:03.856] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/140402, l='ServerLevel[world]', x=1591.64, y=140.50, z=1604.98]
+[18Aug2025 20:44:36.449] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Aug2025 20:46:34.372] [Server thread/INFO] [irons_spells_js/]: traveloptics:astral_sense
+[18Aug2025 20:46:34.372] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.AstralSenseSpell@6761b62a
+[18Aug2025 20:47:17.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Aug2025 20:47:48.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 20:47:48.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 20:49:02.004] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [836cf875-2dd0-486a-92a2-99e000e720e3]
+[18Aug2025 20:49:16.991] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_punch
+[18Aug2025 20:49:16.991] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VortexPunchSpell@f83efbd
+[18Aug2025 20:49:30.937] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:starfall
+[18Aug2025 20:49:30.937] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.StarfallSpell@edd7f4f7
+[18Aug2025 20:49:41.260] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [836cf875-2dd0-486a-92a2-99e000e720e3]
+[18Aug2025 20:49:42.300] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [836cf875-2dd0-486a-92a2-99e000e720e3]
+[18Aug2025 20:49:44.495] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [836cf875-2dd0-486a-92a2-99e000e720e3]
+[18Aug2025 20:51:12.295] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/144010, l='ServerLevel[world]', x=1590.18, y=119.00, z=1630.44]
+[18Aug2025 20:51:23.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was punctured by Void Tome's magic arrow
+[18Aug2025 20:51:26.128] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Hachiko2357 has new faction level vampirism:vampire 4
+[18Aug2025 20:51:26.131] [Server thread/DEBUG] [twilightforest/]: Player Hachiko2357 (e150fa99-c77a-3847-bab5-f1c8195ed2b2) respawned and received items held in storage

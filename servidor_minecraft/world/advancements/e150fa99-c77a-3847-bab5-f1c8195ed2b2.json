@@ -9237,6 +9237,12 @@
     },
     "done": true
   },
+  "stellarity:end_city/whos_the_thief_now": {
+    "criteria": {
+      "open_chest_1": "2025-08-18 20:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-08-18 20:33:53 +0000"
@@ -9282,6 +9288,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-08-18 20:33:53 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_shulker_tower": {
+    "criteria": {
+      "tower": "2025-08-18 20:40:32 +0000"
     },
     "done": true
   },

@@ -9673,15 +9673,39 @@
     },
     "done": true
   },
+  "stellarity:end_city/whos_the_thief_now": {
+    "criteria": {
+      "open_chest_1": "2025-08-18 20:39:23 +0000"
+    },
+    "done": true
+  },
   "stellarity:end_city/defeat_shulker": {
     "criteria": {
       "defeat_shulkers": "2025-08-18 20:37:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-08-18 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_shulker_mimic": {
+    "criteria": {
+      "shulker_mimic": "2025-08-18 20:42:03 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_shulker_tower": {
     "criteria": {
       "tower": "2025-08-18 20:37:18 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/abyss_core": {
+    "criteria": {
+      "has_void_essence": "2025-08-18 20:39:25 +0000"
     },
     "done": true
   },
