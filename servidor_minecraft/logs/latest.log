@@ -2919,3 +2919,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [18Aug2025 15:15:43.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17945, y=63, z=-13826} BlockPos{x=17945, y=61, z=-13826}
 [18Aug2025 15:15:43.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17945, y=63, z=-13826} BlockPos{x=17945, y=61, z=-13826}
 [18Aug2025 15:15:43.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17945, y=63, z=-13827} BlockPos{x=17945, y=61, z=-13826}
+[18Aug2025 15:21:59.887] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heat_surge
+[18Aug2025 15:21:59.887] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.HeatSurgeSpell@59840449
+[18Aug2025 15:22:12.543] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:fire_breath
+[18Aug2025 15:22:12.543] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.FireBreathSpell@761116b3
+[18Aug2025 15:23:15.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[18Aug2025 15:23:15.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[18Aug2025 15:23:15.536] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[18Aug2025 15:25:18.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b694c5[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.70.50.114:51813) lost connection: Timed out
+[18Aug2025 15:26:02.188] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2852b884[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.70.50.114:55833) lost connection: Timed out
+[18Aug2025 15:26:11.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:51317] logged in with entity id 59136 at (17951.91795572052, 64.0, -13835.984066640392)
+[18Aug2025 15:26:11.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[18Aug2025 15:26:11.738] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[18Aug2025 15:26:11.739] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[18Aug2025 15:26:41.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[18Aug2025 15:26:41.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[18Aug2025 15:26:41.341] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[18Aug2025 15:26:41.638] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@171af2c8[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.70.50.114:58511) lost connection: Disconnected
+[18Aug2025 15:26:48.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.70.50.114:56745] logged in with entity id 59237 at (17951.91795572052, 64.0, -13835.984066640392)
+[18Aug2025 15:26:48.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[18Aug2025 15:26:48.960] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[18Aug2025 15:26:48.961] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[18Aug2025 15:27:07.810] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:fireball
+[18Aug2025 15:27:07.810] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.FireballSpell@7dcd815f
+[18Aug2025 15:31:53.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Spooky Scary Skeleton]
