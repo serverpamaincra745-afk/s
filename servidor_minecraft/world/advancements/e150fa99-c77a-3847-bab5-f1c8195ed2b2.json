@@ -118,15 +118,19 @@
       "minecraft:mushroom_fields": "2025-08-17 16:01:03 +0000",
       "minecraft:taiga": "2025-08-16 20:04:45 +0000",
       "minecraft:deep_ocean": "2025-08-16 21:35:25 +0000",
+      "minecraft:eroded_badlands": "2025-08-18 01:43:26 +0000",
       "minecraft:frozen_river": "2025-08-16 20:05:02 +0000",
       "minecraft:sunflower_plains": "2025-08-17 02:13:34 +0000",
       "minecraft:cherry_grove": "2025-08-17 16:47:34 +0000",
       "minecraft:birch_forest": "2025-08-16 22:47:25 +0000",
       "minecraft:windswept_hills": "2025-08-17 18:20:08 +0000",
       "minecraft:bamboo_jungle": "2025-08-17 02:04:53 +0000",
+      "minecraft:badlands": "2025-08-18 01:44:16 +0000",
       "minecraft:savanna_plateau": "2025-08-17 15:09:43 +0000",
       "minecraft:beach": "2025-08-16 21:31:58 +0000",
       "minecraft:dark_forest": "2025-08-17 02:02:00 +0000",
+      "minecraft:stony_peaks": "2025-08-18 01:54:46 +0000",
+      "minecraft:mangrove_swamp": "2025-08-18 14:07:22 +0000",
       "minecraft:sparse_jungle": "2025-08-17 15:17:25 +0000",
       "minecraft:river": "2025-08-16 20:10:58 +0000",
       "minecraft:lukewarm_ocean": "2025-08-17 02:03:19 +0000",
@@ -145,6 +149,7 @@
       "minecraft:ocean": "2025-08-16 21:36:03 +0000",
       "minecraft:jungle": "2025-08-17 20:03:28 +0000",
       "minecraft:snowy_beach": "2025-08-17 18:24:49 +0000",
+      "minecraft:warm_ocean": "2025-08-18 01:43:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-17 02:02:57 +0000",
       "minecraft:flower_forest": "2025-08-17 02:13:26 +0000",
       "minecraft:frozen_peaks": "2025-08-16 21:08:29 +0000",
@@ -1850,6 +1855,8 @@
       "shrubland": "2025-08-16 21:38:38 +0000",
       "snowblossom_grove": "2025-08-16 20:15:51 +0000",
       "rocky_shrubland": "2025-08-16 21:39:38 +0000",
+      "scrubland": "2025-08-18 01:43:25 +0000",
+      "bayou": "2025-08-18 01:55:51 +0000",
       "floodplain": "2025-08-16 22:14:49 +0000",
       "highland": "2025-08-16 20:18:31 +0000",
       "jacaranda_glade": "2025-08-17 16:37:04 +0000",
@@ -1869,10 +1876,12 @@
       "old_growth_dead_forest": "2025-08-16 20:10:43 +0000",
       "lush_desert": "2025-08-17 02:04:18 +0000",
       "redwood_forest": "2025-08-16 22:20:51 +0000",
+      "wasteland_steppe": "2025-08-18 01:45:44 +0000",
       "aspen_glade": "2025-08-16 20:20:59 +0000",
       "dune_beach": "2025-08-17 16:10:30 +0000",
       "seasonal_forest": "2025-08-16 20:35:51 +0000",
       "dead_forest": "2025-08-16 20:12:04 +0000",
+      "volcano": "2025-08-18 14:05:59 +0000",
       "rocky_rainforest": "2025-08-17 02:04:49 +0000",
       "pasture": "2025-08-17 16:11:22 +0000",
       "volcanic_plains": "2025-08-16 21:40:04 +0000",
@@ -5134,9 +5143,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-08-18 01:52:54 +0000",
       "main": "2025-08-16 21:39:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/sniped": {
     "criteria": {
@@ -5628,6 +5638,7 @@
     "criteria": {
       "taiga": "2025-08-17 17:38:21 +0000",
       "plains": "2025-08-17 03:54:49 +0000",
+      "savanna": "2025-08-18 14:04:10 +0000",
       "snowy": "2025-08-17 18:22:08 +0000"
     },
     "done": false
@@ -8191,6 +8202,426 @@
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-08-17 21:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
+    "criteria": {
+      "has_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/dye_red_bar_stool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_yellow_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_yellow_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_yellow_from_white": {
+    "criteria": {
+      "has_dye": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/dye_yellow_bar_stool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-08-18 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-08-18 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_magenta_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-08-18 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_magenta_industrial_lamp": {
+    "criteria": {
+      "has_small_magenta_industrial_lamp": "2025-08-18 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_magenta_from_white": {
+    "criteria": {
+      "has_dye": "2025-08-18 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_magenta_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-08-18 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-08-18 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/magenta_industrial_lamp": {
+    "criteria": {
+      "has_magenta_industrial_lamp": "2025-08-18 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/dye_magenta_bar_stool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-18 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-08-18 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-08-18 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-08-18 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-08-18 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-08-18 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-18 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-08-18 01:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-18 01:58:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-08-18 01:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-18 01:58:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-18 01:58:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-08-18 02:12:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-18 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-08-18 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-08-18 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-18 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-08-18 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-08-18 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-08-18 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-08-18 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-18 02:15:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-08-18 02:38:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-08-18 02:44:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-08-18 02:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-18 14:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-18 14:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-08-18 14:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-18 14:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-18 14:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-18 14:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-18 14:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-18 14:08:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-08-18 14:08:49 +0000"
     },
     "done": true
   },
