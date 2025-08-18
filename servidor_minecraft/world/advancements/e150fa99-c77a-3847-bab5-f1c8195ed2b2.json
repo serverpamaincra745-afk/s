@@ -8922,15 +8922,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_the_recipe": "2025-08-18 19:39:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-08-18 19:40:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {
       "has_item": "2025-08-18 19:29:14 +0000"
     },
     "done": true
   },
+  "stellarity:end_city/portable_storage": {
+    "criteria": {
+      "craft_shulker_box": "2025-08-18 19:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-08-18 19:42:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-08-18 19:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-08-18 19:29:14 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_obsidian_heart": "2025-08-18 19:54:26 +0000"
     },
     "done": true
   },
@@ -8952,9 +9000,52 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-08-18 19:38:50 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-08-18 19:40:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_helmet": {
     "criteria": {
       "has_item": "2025-08-18 19:29:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/ender_adventurer": {
+    "criteria": {
+      "amethyst_forest": "2025-08-18 19:43:24 +0000",
+      "end_highlands": "2025-08-18 19:45:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-08-18 19:39:46 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
     },
     "done": true
   },
@@ -8964,9 +9055,51 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_obsidian_heart": "2025-08-18 19:54:26 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-08-18 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/evil_eye": {
+    "criteria": {
+      "has_ender_eye": "2025-08-18 19:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-08-18 19:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-08-18 19:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2025-08-18 19:39:14 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/backtrack_mirror": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-18 19:38:50 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_obsidian_heart": "2025-08-18 19:54:26 +0000"
     },
     "done": true
   },
@@ -8979,6 +9112,18 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-08-18 19:33:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/glass_from_end_stone": {
+    "criteria": {
+      "has_item": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
     },
     "done": true
   },

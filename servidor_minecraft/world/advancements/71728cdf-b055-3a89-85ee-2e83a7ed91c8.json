@@ -3419,6 +3419,9 @@
       "minecraft:slime": "2025-08-18 15:05:20 +0000",
       "minecraft:phantom": "2025-08-17 02:08:01 +0000",
       "minecraft:witch": "2025-08-18 14:56:04 +0000",
+      "minecraft:wither_skeleton": "2025-08-18 19:45:18 +0000",
+      "minecraft:ender_dragon": "2025-08-18 19:39:05 +0000",
+      "minecraft:shulker": "2025-08-18 19:42:28 +0000",
       "minecraft:stray": "2025-08-16 20:35:21 +0000",
       "minecraft:enderman": "2025-08-18 19:36:31 +0000",
       "minecraft:vex": "2025-08-17 19:59:28 +0000",
@@ -10004,6 +10007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-08-18 19:36:39 +0000"
@@ -10019,6 +10028,24 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_wildflower": "2025-08-18 18:44:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/whos_the_thief_now": {
+    "criteria": {
+      "open_chest_3": "2025-08-18 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/defeat_shulker": {
+    "criteria": {
+      "defeat_shulkers": "2025-08-18 19:42:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
@@ -10040,6 +10067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-18 19:45:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
       "has_item": "2025-08-18 17:45:39 +0000"
@@ -10058,9 +10091,33 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-08-18 19:40:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2025-08-18 19:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-08-18 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/enter_end_village": {
+    "criteria": {
+      "find_a_town_in_a_complete_shithole": "2025-08-18 19:49:21 +0000"
     },
     "done": true
   },
@@ -10100,9 +10157,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-08-18 19:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-08-18 19:30:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-18 19:47:06 +0000"
     },
     "done": true
   },
@@ -10118,6 +10187,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-08-18 19:45:40 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/headhunter": {
+    "criteria": {
+      "1": "2025-08-18 19:42:49 +0000",
+      "2": "2025-08-18 19:42:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-08-18 19:20:37 +0000"
@@ -10127,6 +10215,12 @@
   "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
       "killed": "2025-08-18 17:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
@@ -10154,6 +10248,14 @@
     },
     "done": true
   },
+  "stellarity:exploration/ender_adventurer": {
+    "criteria": {
+      "prismarine_forest": "2025-08-18 19:51:43 +0000",
+      "amethyst_forest": "2025-08-18 19:41:27 +0000",
+      "end_highlands": "2025-08-18 19:52:50 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-08-18 18:51:14 +0000"
@@ -10163,6 +10265,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2025-08-18 19:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
     },
     "done": true
   },
@@ -10184,6 +10292,18 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-08-18 19:40:02 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
       "killed": "2025-08-18 19:08:16 +0000"
@@ -10202,9 +10322,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-18 19:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-18 19:45:40 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
       "cave_book": "2025-08-18 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
@@ -10238,15 +10376,33 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2025-08-18 19:39:14 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/journeys_end": {
     "criteria": {
       "activate_portal": "2025-08-18 19:30:57 +0000"
     },
     "done": true
   },
+  "stellarity:end_city/treasure_room": {
+    "criteria": {
+      "obtain_head": "2025-08-18 19:42:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2025-08-18 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-18 19:45:40 +0000"
     },
     "done": true
   },
@@ -10265,6 +10421,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2025-08-18 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-08-18 19:41:44 +0000"
     },
     "done": true
   },
@@ -10289,6 +10451,18 @@
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2025-08-18 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/glass_from_end_stone": {
+    "criteria": {
+      "has_item": "2025-08-18 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:40:00 +0000"
     },
     "done": true
   },

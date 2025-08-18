@@ -3388,3 +3388,290 @@ java.lang.Throwable: null
 [18Aug2025 19:39:14.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has completed the challenge [Free the End]
 [18Aug2025 19:39:46.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Ender Distancing]
 [18Aug2025 19:40:02.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [The Next Generation]
+[18Aug2025 19:40:43.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Remote Getaway]
+[18Aug2025 19:40:46.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3512ms or 70 ticks behind
+[18Aug2025 19:40:48.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [Strengthened by Fire]
+[18Aug2025 19:41:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The City at the End of the Game]
+[18Aug2025 19:42:14.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Who's The Thief Now?]
+[18Aug2025 19:42:28.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [This Block Moves!]
+[18Aug2025 19:42:36.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Sky's the Limit]
+[18Aug2025 19:42:43.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Treasure Room]
+[18Aug2025 19:42:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [Remote Getaway]
+[18Aug2025 19:43:32.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/115396, l='ServerLevel[world]', x=1264.70, y=174.00, z=23.04]
+[18Aug2025 19:43:44.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/115888, l='ServerLevel[world]', x=1232.08, y=108.00, z=212.70]
+[18Aug2025 19:43:58.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3950956278531521
+[18Aug2025 19:43:58.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.2160579298028438
+[18Aug2025 19:43:58.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.049613740370944
+[18Aug2025 19:43:58.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.8898026613987327
+[18Aug2025 19:43:58.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7606912791241598
+[18Aug2025 19:43:58.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7627581357639883
+[18Aug2025 19:43:59.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7638640695432741
+[18Aug2025 19:43:59.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7649596540319976
+[18Aug2025 19:43:59.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7655458794483252
+[18Aug2025 19:43:59.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7658595569805016
+[18Aug2025 19:43:59.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7659284861982201
+[18Aug2025 19:43:59.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7657647752891421
+[18Aug2025 19:43:59.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7676791053365264
+[18Aug2025 19:43:59.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7676673272442827
+[18Aug2025 19:43:59.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.767752496638991
+[18Aug2025 19:43:59.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7682414261681174
+[18Aug2025 19:43:59.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7694719739015454
+[18Aug2025 19:43:59.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7721002871433029
+[18Aug2025 19:43:59.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7744666558769495
+[18Aug2025 19:43:59.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7743890427222482
+[18Aug2025 19:43:59.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7718783999568473
+[18Aug2025 19:43:59.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.6192590888946938
+[18Aug2025 19:44:33.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.40708951627118495
+[18Aug2025 19:44:33.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.260353590405657
+[18Aug2025 19:44:33.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.113106444257255
+[18Aug2025 19:44:33.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.9665546856186893
+[18Aug2025 19:44:33.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 3.8203750149721145
+[18Aug2025 19:44:33.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.4022142288034729
+[18Aug2025 19:44:33.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.2087385057411666
+[18Aug2025 19:44:33.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.9885036161998642
+[18Aug2025 19:44:33.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.754603096879805
+[18Aug2025 19:44:35.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5611379332764272
+[18Aug2025 19:44:53.552] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/116085, l='ServerLevel[world]', x=1259.02, y=83.00, z=559.91]
+[18Aug2025 19:44:58.597] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/115888, l='ServerLevel[world]', x=1258.93, y=83.00, z=557.53]
+[18Aug2025 19:44:59.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1410, y=25, z=775} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:44:59.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1410, y=25, z=775}
+[18Aug2025 19:45:05.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.49564779800141423
+[18Aug2025 19:45:05.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.3831323278706122
+[18Aug2025 19:45:05.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 2.2868287821524973
+[18Aug2025 19:45:05.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 2.8132608569437707
+[18Aug2025 19:45:05.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.4936901698846441
+[18Aug2025 19:45:05.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.8670746292515332
+[18Aug2025 19:45:06.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.8833981284528818
+[18Aug2025 19:45:06.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.8905723361094715
+[18Aug2025 19:45:06.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.895022536667625
+[18Aug2025 19:45:06.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.8993628936375444
+[18Aug2025 19:45:06.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9022233718053485
+[18Aug2025 19:45:06.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.8247232751184583
+[18Aug2025 19:45:06.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9049205555418212
+[18Aug2025 19:45:06.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9060482617870775
+[18Aug2025 19:45:06.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.8315266381142692
+[18Aug2025 19:45:06.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9073323007602312
+[18Aug2025 19:45:06.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9075807716945974
+[18Aug2025 19:45:06.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9076987537399646
+[18Aug2025 19:45:06.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9077618835800649
+[18Aug2025 19:45:06.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9077956630989092
+[18Aug2025 19:45:06.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9078137378459132
+[18Aug2025 19:45:06.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9078234092826278
+[18Aug2025 19:45:06.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9069083140402654
+[18Aug2025 19:45:06.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.8621800369662651
+[18Aug2025 19:45:06.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.4526580412192516
+[18Aug2025 19:45:12.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3655040959820326
+[18Aug2025 19:45:12.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9251750926691784
+[18Aug2025 19:45:12.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5887409266531449
+[18Aug2025 19:45:12.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.3078988166350882
+[18Aug2025 19:45:12.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5507873868625666
+[18Aug2025 19:45:12.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3669044274715816
+[18Aug2025 19:45:12.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.1773850532119923
+[18Aug2025 19:45:12.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.2908107618552549
+[18Aug2025 19:45:16.594] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1112, y=27, z=974} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:45:16.594] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1112, y=27, z=974}
+[18Aug2025 19:45:17.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.3386962676991061
+[18Aug2025 19:45:17.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.8661377127425567
+[18Aug2025 19:45:17.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.0
+[18Aug2025 19:45:17.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.25833548403011264
+[18Aug2025 19:45:17.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.3809832794804606
+[18Aug2025 19:45:17.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.0
+[18Aug2025 19:45:18.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.40666965092805185
+[18Aug2025 19:45:19.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.6791788911737058
+[18Aug2025 19:45:19.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.52494961401203
+[18Aug2025 19:45:19.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 2.408292637014256
+[18Aug2025 19:45:19.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.2559611502319967
+[18Aug2025 19:45:35.143] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1186, y=33, z=999} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:45:35.143] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1186, y=33, z=999}
+[18Aug2025 19:45:35.143] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1189, y=34, z=992} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:45:35.143] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1189, y=34, z=992}
+[18Aug2025 19:45:35.144] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1229, y=32, z=993} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:45:35.144] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1229, y=32, z=993}
+[18Aug2025 19:45:35.144] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1229, y=31, z=995} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:45:35.144] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1229, y=31, z=995}
+[18Aug2025 19:45:36.899] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/115888, l='ServerLevel[world]', x=1184.30, y=77.00, z=797.30]
+[18Aug2025 19:45:51.400] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1216, y=26, z=1017} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:45:51.400] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1216, y=26, z=1017}
+[18Aug2025 19:45:52.573] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:52.573] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:52.574] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:54.604] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:54.605] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:54.605] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:54.606] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:54.606] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:54.606] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:54.606] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:54.607] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:54.607] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:54.608] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:45:55.091] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1388, y=26, z=1045} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:45:55.091] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1388, y=26, z=1045}
+[18Aug2025 19:45:56.149] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1413, y=27, z=1042} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:45:56.149] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1413, y=27, z=1042}
+[18Aug2025 19:45:56.149] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1413, y=27, z=1041} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:45:56.149] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1413, y=27, z=1041}
+[18Aug2025 19:46:05.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.34692652129592716
+[18Aug2025 19:46:06.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.2913758932958217
+[18Aug2025 19:46:06.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6125704351611603
+[18Aug2025 19:46:06.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9599548214383731
+[18Aug2025 19:46:06.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[18Aug2025 19:46:06.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[18Aug2025 19:46:06.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[18Aug2025 19:46:06.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.6033307892516859
+[18Aug2025 19:46:06.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.5197055869143696
+[18Aug2025 19:46:06.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.0
+[18Aug2025 19:46:06.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.0
+[18Aug2025 19:46:07.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.4061032876129502
+[18Aug2025 19:46:07.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.0
+[18Aug2025 19:46:07.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.0
+[18Aug2025 19:46:08.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.6278535593446577
+[18Aug2025 19:46:08.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.5370189103523444
+[18Aug2025 19:46:08.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.4530797224042544
+[18Aug2025 19:46:08.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.0
+[18Aug2025 19:46:08.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.3607367659699321
+[18Aug2025 19:46:09.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3757370287722779
+[18Aug2025 19:46:09.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0072661374033487
+[18Aug2025 19:46:09.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.648595076364927
+[18Aug2025 19:46:18.592] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1066, y=39, z=1142} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:46:18.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1066, y=39, z=1142}
+[18Aug2025 19:46:19.796] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1091, y=41, z=1164} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:46:19.797] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1091, y=41, z=1164}
+[18Aug2025 19:46:42.242] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1082, y=44, z=1184} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:46:42.242] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1082, y=44, z=1184}
+[18Aug2025 19:46:42.689] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1373, y=41, z=1184} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:46:42.689] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1373, y=41, z=1184}
+[18Aug2025 19:46:46.794] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1453, y=47, z=1180} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:46:46.795] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1453, y=47, z=1180}
+[18Aug2025 19:46:46.864] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1417, y=42, z=1218} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:46:46.864] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1417, y=42, z=1218}
+[18Aug2025 19:46:49.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1469, y=41, z=1200} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:46:49.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1469, y=41, z=1200}
+[18Aug2025 19:46:50.996] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1474, y=45, z=1175} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:46:50.996] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1474, y=45, z=1175}
+[18Aug2025 19:46:53.596] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1484, y=42, z=1254} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:46:53.596] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1484, y=42, z=1254}
+[18Aug2025 19:47:00.492] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:village/villagers_jobless
+[18Aug2025 19:47:01.104] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1522, y=36, z=1142} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:47:01.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1522, y=36, z=1142}
+[18Aug2025 19:47:01.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1534, y=35, z=1168} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:47:01.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1534, y=35, z=1168}
+[18Aug2025 19:47:01.202] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1520, y=36, z=1208} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:47:01.202] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1520, y=36, z=1208}
+[18Aug2025 19:47:01.341] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1520, y=43, z=1064} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:47:01.341] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1520, y=43, z=1064}
+[18Aug2025 19:47:09.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.5842576032703164
+[18Aug2025 19:47:09.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.49752691425214834
+[18Aug2025 19:47:09.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.4144785022549513
+[18Aug2025 19:47:09.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.33340040327493625
+[18Aug2025 19:47:10.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.3312141029821305
+[18Aug2025 19:47:10.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.37433663408569373
+[18Aug2025 19:47:10.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 1.0702157107433155
+[18Aug2025 19:47:10.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.27588374967626805
+[18Aug2025 19:47:15.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1358, y=125, z=1209} BlockPos{x=1358, y=123, z=1208}
+[18Aug2025 19:47:16.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1554, y=26, z=1158} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:47:16.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1554, y=26, z=1158}
+[18Aug2025 19:47:16.493] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1559, y=36, z=1256} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:47:16.493] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1559, y=36, z=1256}
+[18Aug2025 19:47:29.193] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1101, y=41, z=1382} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:47:29.193] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1101, y=41, z=1382}
+[18Aug2025 19:48:05.299] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[18Aug2025 19:49:21.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Forever Stranded]
+[18Aug2025 19:49:25.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[18Aug2025 19:50:11.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -6.990092866179793,3.658417069606429,-6.214933170771246
+[18Aug2025 19:52:22.360] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1778, y=25, z=-85} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:52:22.362] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1778, y=25, z=-85}
+[18Aug2025 19:52:42.726] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:village/villagers_jobless
+[18Aug2025 19:52:45.911] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:village/villagers_jobless
+[18Aug2025 19:52:46.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2315, y=25, z=-184} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:52:46.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2315, y=25, z=-184}
+[18Aug2025 19:52:47.140] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2324, y=25, z=-183} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:52:47.140] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2324, y=25, z=-183}
+[18Aug2025 19:52:47.692] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2344, y=25, z=-190} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:52:47.693] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2344, y=25, z=-190}
+[18Aug2025 19:53:00.291] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2600, y=25, z=-371} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:53:00.291] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2600, y=25, z=-371}
+[18Aug2025 19:53:04.173] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:village/villagers_jobless
+[18Aug2025 19:53:07.811] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:07.812] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:07.812] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:07.812] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:07.813] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:07.813] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:07.813] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:07.813] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:07.814] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:12.620] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:12.621] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:12.621] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:12.622] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:21.658] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:21.659] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:21.659] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:21.659] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:21.660] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:21.660] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:21.660] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:21.661] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:21.661] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:53:22.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2800, y=25, z=-430} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:53:22.072] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2800, y=25, z=-430}
+[18Aug2025 19:53:27.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2901, y=25, z=-479} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:53:27.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2901, y=25, z=-479}
+[18Aug2025 19:53:27.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2902, y=25, z=-476} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:53:27.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2902, y=25, z=-476}
+[18Aug2025 19:53:31.845] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3011, y=25, z=-190} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:53:31.845] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3011, y=25, z=-190}
+[18Aug2025 19:53:46.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Obsidian Obliterator]
+[18Aug2025 19:53:56.261] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2929, y=25, z=170} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:53:56.261] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2929, y=25, z=170}
+[18Aug2025 19:53:56.447] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2950, y=25, z=163} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:53:56.447] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2950, y=25, z=163}
+[18Aug2025 19:54:37.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:1313:151:1282:12:false:0:Internal-the-end-waypoints
+[18Aug2025 19:54:48.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Portable Storage]
+[18Aug2025 19:54:59.551] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:village/villagers_jobless
+[18Aug2025 19:55:18.797] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2033, y=25, z=934} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:55:18.797] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2033, y=25, z=934}
+[18Aug2025 19:55:18.958] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1955, y=25, z=882} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:55:18.958] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1955, y=25, z=882}
+[18Aug2025 19:55:18.958] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1955, y=25, z=881} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:55:18.958] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1955, y=25, z=881}
+[18Aug2025 19:55:19.406] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1941, y=25, z=879} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:55:19.406] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1941, y=25, z=879}
+[18Aug2025 19:55:20.195] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2004, y=36, z=980} but found not block entity block Block{minecraft:air} at location
+[18Aug2025 19:55:20.195] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2004, y=36, z=980}
+[18Aug2025 19:55:27.563] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.563] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.563] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.564] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.564] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.564] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.564] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.565] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.565] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.710] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.710] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.711] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:55:27.711] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:56:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 fell out of the world
+[18Aug2025 19:56:27.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[18Aug2025 19:56:36.838] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/127431, l='ServerLevel[world]', x=16074.51, y=66.00, z=-6323.99] died: Vampire Baron Level 1 was slain by Vampire Baron Level 2
+[18Aug2025 19:57:00.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 6.808160059512375,1.596639720154542,7.7714862227467165
+[18Aug2025 19:57:00.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[18Aug2025 19:57:03.184] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.184] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.185] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.185] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.185] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.186] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.186] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.186] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.186] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.198] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.199] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.199] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:03.199] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Aug2025 19:57:10.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 4.56742967627747,-1.0898468707831341,9.113728008698445
+[18Aug2025 19:57:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Void Cathedral]
+[18Aug2025 19:57:58.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved wrongly!
+[18Aug2025 19:58:24.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/128764, l='ServerLevel[world]', x=16046.36, y=66.00, z=-6273.05] died: Vampire Baron Level 1 was slain by Vampire Baron Level 2
