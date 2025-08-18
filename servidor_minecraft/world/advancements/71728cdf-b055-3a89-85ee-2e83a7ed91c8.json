@@ -10015,6 +10015,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-08-18 19:07:28 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
       "licowitch_tower": "2025-08-18 18:10:00 +0000"
@@ -10024,6 +10030,12 @@
   "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
       "has_item": "2025-08-18 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-08-18 19:01:35 +0000"
     },
     "done": true
   },
@@ -10045,9 +10057,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-08-18 19:13:49 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
       "killed": "2025-08-18 17:47:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-08-18 18:56:05 +0000"
     },
     "done": true
   },
@@ -10081,6 +10105,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-08-18 19:08:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-08-18 18:23:05 +0000"
@@ -10090,6 +10120,18 @@
   "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
       "cave_book": "2025-08-18 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2025-08-18 19:07:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-08-18 18:57:54 +0000"
     },
     "done": true
   },
@@ -10120,6 +10162,12 @@
   "alexscaves:alexscaves/rainbounce_boots": {
     "criteria": {
       "limestone": "2025-08-18 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-08-18 19:11:42 +0000"
     },
     "done": true
   },
