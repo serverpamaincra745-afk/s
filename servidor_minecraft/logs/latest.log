@@ -3731,3 +3731,32 @@ java.lang.Throwable: null
 [18Aug2025 20:31:19.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
 [18Aug2025 20:31:21.803] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
 [18Aug2025 20:31:21.804] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[18Aug2025 20:32:14.810] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/137296, l='ServerLevel[world]', x=1378.12, y=56.00, z=1408.39]
+[18Aug2025 20:32:21.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:1572:143:1620:1:false:0:Internal-the-end-waypoints
+[18Aug2025 20:32:28.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [The Chorus Infection]
+[18Aug2025 20:36:13.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:13.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:13.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:14.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:14.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:14.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:14.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:14.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:14.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:14.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:14.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:14.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:14.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved too quickly! -56.17217870727313,-18.0,-3.0092874446452242
+[18Aug2025 20:36:30.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.35088089518535526
+[18Aug2025 20:36:30.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.9598926149014915
+[18Aug2025 20:36:30.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.32366149009158107
+[18Aug2025 20:36:30.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Hachiko2357) moved wrongly! 0.5506025141326063
+[18Aug2025 20:36:48.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Void Cathedral]
+[18Aug2025 20:36:49.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Void Cathedral]
+[18Aug2025 20:37:18.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [There Is No Gravity Here!]
+[18Aug2025 20:37:21.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [This Block Moves!]
+[18Aug2025 20:39:23.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Who's The Thief Now?]
+[18Aug2025 20:39:34.498] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/138561, l='ServerLevel[world]', x=1509.68, y=111.00, z=1611.40]
+[18Aug2025 20:40:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [There Is No Gravity Here!]
+[18Aug2025 20:40:32.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [There Is No Gravity Here!]
+[18Aug2025 20:41:10.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [Who's The Thief Now?]

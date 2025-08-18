@@ -8923,136 +8923,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-08-18 20:16:11 +0000",
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 20:15:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-08-18 19:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_the_recipe": "2025-08-18 19:39:14 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/strengthened_by_fire": {
-    "criteria": {
-      "criteria": "2025-08-18 19:40:48 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {
       "has_item": "2025-08-18 19:29:14 +0000"
-    },
-    "done": true
-  },
-  "stellarity:end_city/portable_storage": {
-    "criteria": {
-      "craft_shulker_box": "2025-08-18 19:54:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_crate": {
-    "criteria": {
-      "has_log": "2025-08-18 20:11:50 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2025-08-18 20:11:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-08-18 19:42:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/protecto": {
-    "criteria": {
-      "has_ender_eye": "2025-08-18 19:40:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-08-18 19:41:09 +0000"
     },
     "done": true
   },
@@ -9062,9 +8935,21 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+  "iceandfire:recipes/combat/tide_teal_helmet": {
     "criteria": {
-      "has_obsidian_heart": "2025-08-18 19:54:26 +0000"
+      "has_item": "2025-08-18 19:29:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-08-18 19:29:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-08-18 19:29:14 +0000"
     },
     "done": true
   },
@@ -9086,15 +8971,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
+  "minecraft:end/root": {
     "criteria": {
-      "has_end_stone": "2025-08-18 19:41:09 +0000"
+      "entered_end": "2025-08-18 19:33:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_hanging_sign": {
+  "alexsmobs:alexsmobs/capsid": {
     "criteria": {
-      "has_stripped_logs": "2025-08-18 20:11:50 +0000"
+      "capsid": "2025-08-18 19:37:02 +0000"
     },
     "done": true
   },
@@ -9104,15 +8989,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-08-18 19:38:50 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/backtrack_mirror": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-18 19:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_the_recipe": "2025-08-18 19:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2025-08-18 19:39:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-08-18 19:39:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-08-18 19:40:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-08-18 19:40:48 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/slime_ball_from_ender_eye": {
     "criteria": {
       "has_item": "2025-08-18 19:40:48 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_helmet": {
+  "celestial_artifacts:recipes/misc/evil_eye": {
     "criteria": {
-      "has_item": "2025-08-18 19:29:14 +0000"
+      "has_ender_eye": "2025-08-18 19:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-08-18 19:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/glass_from_end_stone": {
+    "criteria": {
+      "has_item": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-18 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-08-18 19:42:53 +0000"
     },
     "done": true
   },
@@ -9123,6 +9104,54 @@
       "end_highlands": "2025-08-18 19:45:12 +0000"
     },
     "done": false
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_obsidian_heart": "2025-08-18 19:54:26 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_obsidian_heart": "2025-08-18 19:54:26 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_obsidian_heart": "2025-08-18 19:54:26 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/portable_storage": {
+    "criteria": {
+      "craft_shulker_box": "2025-08-18 19:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-08-18 20:11:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-18 20:11:50 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
     "criteria": {
@@ -9142,33 +9171,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-08-18 19:41:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-08-18 19:39:46 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/purpur_altar": {
-    "criteria": {
-      "has_end_stone": "2025-08-18 19:41:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-08-18 20:11:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_leggings": {
-    "criteria": {
-      "has_item": "2025-08-18 19:29:14 +0000"
     },
     "done": true
   },
@@ -9178,63 +9183,15 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/mob_ward": {
-    "criteria": {
-      "has_obsidian_heart": "2025-08-18 19:54:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-08-18 20:11:00 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2025-08-18 19:37:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_log": "2025-08-18 20:11:50 +0000"
     },
     "done": true
   },
-  "celestial_artifacts:recipes/misc/evil_eye": {
-    "criteria": {
-      "has_ender_eye": "2025-08-18 19:40:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_the_recipe": "2025-08-18 19:38:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-08-18 19:40:48 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
     "criteria": {
       "has_log": "2025-08-18 20:11:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "kill_dragon": "2025-08-18 19:39:14 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/backtrack_mirror": {
-    "criteria": {
-      "has_ender_pearl": "2025-08-18 19:38:50 +0000"
     },
     "done": true
   },
@@ -9250,18 +9207,6 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/earthdive_spear": {
-    "criteria": {
-      "has_obsidian_heart": "2025-08-18 19:54:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
-    "criteria": {
-      "has_sea_serpent_scales_teal": "2025-08-18 19:29:14 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
     "criteria": {
       "has_log": "2025-08-18 20:11:50 +0000"
@@ -9271,12 +9216,6 @@
   "cfm:recipes/decorations/stripped_crimson_cabinet": {
     "criteria": {
       "has_planks": "2025-08-18 20:11:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-08-18 19:33:47 +0000"
     },
     "done": true
   },
@@ -9292,15 +9231,87 @@
     },
     "done": true
   },
-  "stellarity:recipes/glass_from_end_stone": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
-      "has_item": "2025-08-18 19:41:09 +0000"
+      "has_end_stone_bricks": "2025-08-18 20:37:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
-      "has_end_stone": "2025-08-18 19:41:09 +0000"
+      "has_purpur_block": "2025-08-18 20:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-08-18 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-18 20:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-08-18 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-08-18 20:33:53 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:visit_void_cathedral": {
+    "criteria": {
+      "void_cathedral": "2025-08-18 20:36:48 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_chorusling": {
+    "criteria": {
+      "chorusling": "2025-08-18 20:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-08-18 20:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-08-18 20:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-08-18 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-08-18 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-08-18 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-18 20:33:53 +0000"
     },
     "done": true
   },
