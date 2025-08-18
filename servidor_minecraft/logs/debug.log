@@ -13785,3 +13785,341 @@ java.lang.Throwable: null
 [18Aug2025 17:25:09.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1937.901947653616,-6.352546162005687,7512.547509293863
 [18Aug2025 17:25:09.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1937.901947653616,-7.586185695728375,7512.547509293863
 [18Aug2025 17:25:09.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved too quickly! -1937.901947653616,-8.847805128470213,7512.547509293863
+[18Aug2025 17:26:05.272] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [e150fa99-c77a-3847-bab5-f1c8195ed2b2]
+[18Aug2025 17:26:05.273] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blessing_of_life
+[18Aug2025 17:26:05.273] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.BlessingOfLifeSpell@78b6b956
+[18Aug2025 17:26:07.904] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [e150fa99-c77a-3847-bab5-f1c8195ed2b2]
+[18Aug2025 17:26:14.848] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_step
+[18Aug2025 17:26:14.851] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodStepSpell@5ae9361b
+[18Aug2025 17:26:23.495] [Server thread/INFO] [irons_spells_js/]: traveloptics:void_eruption
+[18Aug2025 17:26:23.495] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VoidEruptionSpell@af34a2c7
+[18Aug2025 17:26:56.846] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:fire_breath
+[18Aug2025 17:26:56.954] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.FireBreathSpell@761116b3
+[18Aug2025 17:27:44.954] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity alexsmobs:anaconda
+[18Aug2025 17:27:49.295] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[18Aug2025 17:27:49.295] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:root
+[18Aug2025 17:27:49.296] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.RootSpell@9f97110c
+[18Aug2025 17:28:18.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:28:18.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 17:28:22.644] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[18Aug2025 17:28:47.993] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:angel_wing
+[18Aug2025 17:28:47.994] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.AngelWingsSpell@4cc959b3
+[18Aug2025 17:28:58.591] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[18Aug2025 17:29:29.155] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[18Aug2025 17:29:32.837] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[18Aug2025 17:31:15.307] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[18Aug2025 17:31:15.308] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[18Aug2025 17:31:16.289] [Worker-Main-11/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Aug2025 17:31:16.289] [Worker-Main-11/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Aug2025 17:31:16.289] [Worker-Main-11/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Aug2025 17:31:17.011] [Worker-Main-11/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 17:31:17.015] [Worker-Main-11/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 17:31:17.017] [Worker-Main-11/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 17:31:17.017] [Worker-Main-11/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 17:31:17.033] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[18Aug2025 17:31:17.034] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[18Aug2025 17:31:33.286] [Worker-Main-36/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[18Aug2025 17:31:33.290] [Worker-Main-36/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[18Aug2025 17:31:34.609] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[18Aug2025 17:31:34.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Aug2025 17:32:36.383] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:sugar_glider
+[18Aug2025 17:32:53.742] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[18Aug2025 17:32:57.473] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[18Aug2025 17:32:57.474] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[18Aug2025 17:32:57.475] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[18Aug2025 17:33:03.136] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:lightning_dragon
+[18Aug2025 17:33:05.088] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[18Aug2025 17:33:05.089] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[18Aug2025 17:33:05.089] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[18Aug2025 17:33:05.089] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[18Aug2025 17:33:05.089] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[18Aug2025 17:33:05.089] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[18Aug2025 17:33:05.090] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[18Aug2025 17:33:09.636] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[18Aug2025 17:33:18.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:33:18.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 17:33:25.566] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Aug2025 17:33:25.584] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Aug2025 17:33:31.832] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Aug2025 17:33:40.019] [Server thread/INFO] [irons_spells_js/]: traveloptics:tsunami
+[18Aug2025 17:33:40.019] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.TsunamiSpell@4fb5eac5
+[18Aug2025 17:33:51.799] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[18Aug2025 17:34:21.892] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:toucan
+[18Aug2025 17:34:24.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 1.0
+[18Aug2025 17:34:24.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 1.0
+[18Aug2025 17:34:24.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 1.0
+[18Aug2025 17:34:24.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 1.0
+[18Aug2025 17:34:32.009] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[18Aug2025 17:34:45.223] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[18Aug2025 17:34:47.369] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.62 and blood value 15 for entity iceandfire:hippogryph
+[18Aug2025 17:34:50.900] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [795957af-4d27-3957-9087-4f2291678558]
+[18Aug2025 17:35:11.591] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e150fa99-c77a-3847-bab5-f1c8195ed2b2]
+[18Aug2025 17:35:56.462] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:alligator_snapping_turtle
+[18Aug2025 17:37:55.187] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:maned_wolf
+[18Aug2025 17:37:55.843] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[18Aug2025 17:37:56.455] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[18Aug2025 17:37:56.455] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[18Aug2025 17:37:56.456] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[18Aug2025 17:37:56.456] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[18Aug2025 17:37:56.456] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[18Aug2025 17:37:56.456] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[18Aug2025 17:37:56.456] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[18Aug2025 17:37:59.814] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 33.63 and blood value 0 for entity alexsmobs:elephant
+[18Aug2025 17:38:02.932] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[18Aug2025 17:38:02.936] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[18Aug2025 17:38:02.936] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[18Aug2025 17:38:02.936] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[18Aug2025 17:38:02.937] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[18Aug2025 17:38:05.856] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.7 and blood value 0 for entity alexsmobs:rhinoceros
+[18Aug2025 17:38:09.105] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[18Aug2025 17:38:09.692] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19618, y=-19, z=-8984}
+[18Aug2025 17:38:09.698] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19624, y=-19, z=-8995}
+[18Aug2025 17:38:09.703] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19619, y=-19, z=-8994}
+[18Aug2025 17:38:09.703] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19624, y=-19, z=-8995}
+[18Aug2025 17:38:09.704] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19618, y=-19, z=-8984}
+[18Aug2025 17:38:11.637] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19618, y=-19, z=-8984}
+[18Aug2025 17:38:11.837] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19624, y=-19, z=-8995}
+[18Aug2025 17:38:11.845] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19624, y=-19, z=-8977}
+[18Aug2025 17:38:11.845] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19619, y=-19, z=-8994}
+[18Aug2025 17:38:11.846] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19624, y=-19, z=-8995}
+[18Aug2025 17:38:11.847] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19618, y=-19, z=-8984}
+[18Aug2025 17:38:12.618] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19618, y=-19, z=-8967}
+[18Aug2025 17:38:13.028] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19632, y=-19, z=-8912}
+[18Aug2025 17:38:13.047] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19623, y=-19, z=-8959}
+[18Aug2025 17:38:13.048] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19618, y=-19, z=-8967}
+[18Aug2025 17:38:13.048] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19624, y=-19, z=-8977}
+[18Aug2025 17:38:13.055] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19632, y=-19, z=-8912}
+[18Aug2025 17:38:13.827] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19590, y=-19, z=-8933}
+[18Aug2025 17:38:13.835] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19590, y=-19, z=-8933}
+[18Aug2025 17:38:13.836] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19618, y=-33, z=-8949}
+[18Aug2025 17:38:13.837] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=19614, y=-18, z=-8950}
+[18Aug2025 17:38:14.086] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19623, y=-19, z=-8941}
+[18Aug2025 17:38:14.087] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19624, y=-19, z=-8958}
+[18Aug2025 17:38:14.087] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19623, y=-19, z=-8959}
+[18Aug2025 17:38:14.087] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19618, y=-33, z=-8949}
+[18Aug2025 17:38:14.092] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19632, y=-19, z=-8912}
+[18Aug2025 17:38:14.103] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19632, y=-19, z=-8912}
+[18Aug2025 17:38:15.375] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19575, y=-19, z=-8928}
+[18Aug2025 17:38:15.375] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19576, y=-33, z=-8933}
+[18Aug2025 17:38:16.020] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19631, y=-19, z=-8940}
+[18Aug2025 17:38:16.021] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19610, y=-19, z=-8932}
+[18Aug2025 17:38:16.021] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19590, y=-19, z=-8933}
+[18Aug2025 17:38:16.027] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19610, y=-19, z=-8932}
+[18Aug2025 17:38:16.028] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19590, y=-19, z=-8933}
+[18Aug2025 17:38:16.029] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19575, y=-19, z=-8928}
+[18Aug2025 17:38:16.030] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19576, y=-33, z=-8933}
+[18Aug2025 17:38:16.201] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19631, y=-19, z=-8940}
+[18Aug2025 17:38:16.203] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19623, y=-19, z=-8941}
+[18Aug2025 17:38:16.304] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19632, y=-19, z=-8912}
+[18Aug2025 17:38:16.313] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19661, y=-19, z=-8920}
+[18Aug2025 17:38:16.318] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19632, y=-19, z=-8912}
+[18Aug2025 17:38:17.802] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19575, y=-19, z=-8928}
+[18Aug2025 17:38:17.803] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19586, y=-19, z=-8927}
+[18Aug2025 17:38:17.817] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19631, y=-19, z=-8940}
+[18Aug2025 17:38:17.817] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19610, y=-19, z=-8932}
+[18Aug2025 17:38:17.817] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19604, y=-19, z=-8927}
+[18Aug2025 17:38:17.831] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19610, y=-19, z=-8932}
+[18Aug2025 17:38:17.831] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19604, y=-19, z=-8927}
+[18Aug2025 17:38:17.832] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19575, y=-19, z=-8928}
+[18Aug2025 17:38:17.832] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19586, y=-19, z=-8927}
+[18Aug2025 17:38:17.929] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19631, y=-19, z=-8940}
+[18Aug2025 17:38:18.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:38:18.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 17:38:22.195] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexscaves:gummy_bear
+[18Aug2025 17:38:22.420] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19643, y=-19, z=-8870}
+[18Aug2025 17:38:28.650] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.5 and blood value 15 for entity alexscaves:candicorn
+[18Aug2025 17:38:28.650] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.5 and blood value 15 for entity alexscaves:candicorn
+[18Aug2025 17:38:28.698] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19643, y=-19, z=-8870}
+[18Aug2025 17:38:30.555] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [795957af-4d27-3957-9087-4f2291678558]
+[18Aug2025 17:38:43.297] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.5 and blood value 15 for entity alexscaves:candicorn
+[18Aug2025 17:38:43.297] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.5 and blood value 15 for entity alexscaves:candicorn
+[18Aug2025 17:38:43.297] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.5 and blood value 15 for entity alexscaves:candicorn
+[18Aug2025 17:38:43.297] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.5 and blood value 15 for entity alexscaves:candicorn
+[18Aug2025 17:38:43.298] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.5 and blood value 15 for entity alexscaves:candicorn
+[18Aug2025 17:38:46.282] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19632, y=-19, z=-8912}
+[18Aug2025 17:38:46.297] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19632, y=-19, z=-8912}
+[18Aug2025 17:38:46.300] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19656, y=-19, z=-8891}
+[18Aug2025 17:38:46.379] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19656, y=-19, z=-8891}
+[18Aug2025 17:38:46.379] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19648, y=-19, z=-8873}
+[18Aug2025 17:38:46.380] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19643, y=-19, z=-8870}
+[18Aug2025 17:38:46.400] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19648, y=-19, z=-8873}
+[18Aug2025 17:38:46.401] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19643, y=-19, z=-8870}
+[18Aug2025 17:38:49.070] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19632, y=-19, z=-8912}
+[18Aug2025 17:38:49.075] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19673, y=-8, z=-8912}
+[18Aug2025 17:38:49.076] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19656, y=-19, z=-8891}
+[18Aug2025 17:38:49.077] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19657, y=-19, z=-8898}
+[18Aug2025 17:38:49.086] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19632, y=-19, z=-8912}
+[18Aug2025 17:38:49.095] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19661, y=-19, z=-8920}
+[18Aug2025 17:38:49.095] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19673, y=-8, z=-8912}
+[18Aug2025 17:38:49.132] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19656, y=-19, z=-8891}
+[18Aug2025 17:38:49.133] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19648, y=-19, z=-8873}
+[18Aug2025 17:38:49.133] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19649, y=-19, z=-8882}
+[18Aug2025 17:38:49.155] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19648, y=-19, z=-8873}
+[18Aug2025 17:38:49.156] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19649, y=-19, z=-8882}
+[18Aug2025 17:38:50.464] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19668, y=-19, z=-8880}
+[18Aug2025 17:38:50.464] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19684, y=-19, z=-8879}
+[18Aug2025 17:38:50.465] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19686, y=-19, z=-8861}
+[18Aug2025 17:38:50.507] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19686, y=-19, z=-8861}
+[18Aug2025 17:38:50.625] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19675, y=-19, z=-8887}
+[18Aug2025 17:38:50.626] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19679, y=-6, z=-8904}
+[18Aug2025 17:38:50.626] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19676, y=-33, z=-8898}
+[18Aug2025 17:38:50.627] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19666, y=-19, z=-8889}
+[18Aug2025 17:38:50.627] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19668, y=-19, z=-8880}
+[18Aug2025 17:38:50.628] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19678, y=-6, z=-8895}
+[18Aug2025 17:38:50.756] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19673, y=-8, z=-8912}
+[18Aug2025 17:38:50.756] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19669, y=-19, z=-8919}
+[18Aug2025 17:38:50.756] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19657, y=-19, z=-8898}
+[18Aug2025 17:38:50.757] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19674, y=-19, z=-8912}
+[18Aug2025 17:38:50.757] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19675, y=-19, z=-8887}
+[18Aug2025 17:38:50.758] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19668, y=-19, z=-8902}
+[18Aug2025 17:38:50.758] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19683, y=-6, z=-8913}
+[18Aug2025 17:38:50.758] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19679, y=-6, z=-8904}
+[18Aug2025 17:38:50.759] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19676, y=-33, z=-8898}
+[18Aug2025 17:38:50.759] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19666, y=-19, z=-8889}
+[18Aug2025 17:38:50.759] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19667, y=-6, z=-8905}
+[18Aug2025 17:38:50.781] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19661, y=-19, z=-8920}
+[18Aug2025 17:38:50.788] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19661, y=-19, z=-8920}
+[18Aug2025 17:38:50.789] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19673, y=-8, z=-8912}
+[18Aug2025 17:38:50.792] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19669, y=-19, z=-8919}
+[18Aug2025 17:38:50.792] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19691, y=-6, z=-8918}
+[18Aug2025 17:38:50.792] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19683, y=-6, z=-8913}
+[18Aug2025 17:38:50.793] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19674, y=-6, z=-8919}
+[18Aug2025 17:38:55.446] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19691, y=-19, z=-8862}
+[18Aug2025 17:38:55.446] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19692, y=-19, z=-8875}
+[18Aug2025 17:38:55.447] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19686, y=-19, z=-8861}
+[18Aug2025 17:38:55.456] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19668, y=-19, z=-8880}
+[18Aug2025 17:38:55.456] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19684, y=-19, z=-8879}
+[18Aug2025 17:38:55.457] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19691, y=-19, z=-8862}
+[18Aug2025 17:38:55.457] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19692, y=-19, z=-8875}
+[18Aug2025 17:38:55.457] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19686, y=-19, z=-8861}
+[18Aug2025 17:38:55.721] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19676, y=-33, z=-8898}
+[18Aug2025 17:38:55.722] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19668, y=-19, z=-8880}
+[18Aug2025 17:38:55.725] [Worker-Main-36/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19697, y=-6, z=-8897}
+[18Aug2025 17:38:55.735] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19674, y=-19, z=-8912}
+[18Aug2025 17:38:55.736] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19683, y=-6, z=-8913}
+[18Aug2025 17:38:55.737] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19676, y=-33, z=-8898}
+[18Aug2025 17:38:55.737] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19680, y=-6, z=-8898}
+[18Aug2025 17:38:55.737] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19697, y=-6, z=-8897}
+[18Aug2025 17:38:55.738] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19686, y=-6, z=-8903}
+[18Aug2025 17:38:58.118] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19692, y=-19, z=-8875}
+[18Aug2025 17:38:58.177] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19692, y=-19, z=-8875}
+[18Aug2025 17:38:58.978] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19692, y=-19, z=-8875}
+[18Aug2025 17:38:58.984] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19692, y=-19, z=-8875}
+[18Aug2025 17:38:59.441] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19697, y=-6, z=-8897}
+[18Aug2025 17:38:59.442] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19698, y=-6, z=-8905}
+[18Aug2025 17:38:59.600] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[18Aug2025 17:38:59.602] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[18Aug2025 17:38:59.603] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[18Aug2025 17:38:59.607] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[18Aug2025 17:38:59.610] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[18Aug2025 17:38:59.610] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
+[18Aug2025 17:39:04.105] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19709, y=-6, z=-8913}
+[18Aug2025 17:39:04.106] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19680, y=-6, z=-8898}
+[18Aug2025 17:39:04.107] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19697, y=-6, z=-8897}
+[18Aug2025 17:39:04.107] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19686, y=-6, z=-8903}
+[18Aug2025 17:39:04.107] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19698, y=-6, z=-8905}
+[18Aug2025 17:39:29.298] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:platypus
+[18Aug2025 17:39:40.314] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 15.64 and blood value 0 for entity iceandfire:myrmex_queen
+[18Aug2025 17:39:40.314] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[18Aug2025 17:39:40.315] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[18Aug2025 17:39:40.315] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[18Aug2025 17:39:40.316] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[18Aug2025 17:39:40.316] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[18Aug2025 17:39:40.317] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.37 and blood value 9 for entity iceandfire:myrmex_soldier
+[18Aug2025 17:39:40.317] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.37 and blood value 9 for entity iceandfire:myrmex_soldier
+[18Aug2025 17:39:40.317] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.3 and blood value 0 for entity iceandfire:myrmex_sentinel
+[18Aug2025 17:39:47.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Pure Imagination]
+[18Aug2025 17:40:09.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [Pure Imagination]
+[18Aug2025 17:40:12.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Pure Imagination]
+[18Aug2025 17:40:26.655] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=19227, y=68, z=-8538}
+[18Aug2025 17:42:18.450] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.86 and blood value 13 for entity alexsmobs:anteater
+[18Aug2025 17:42:18.455] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.86 and blood value 13 for entity alexsmobs:anteater
+[18Aug2025 17:42:25.707] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:42:28.146] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:42:37.173] [Server thread/INFO] [irons_spells_js/]: traveloptics:aqua_missiles
+[18Aug2025 17:42:37.173] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.AquaMissilesSpell@ab616390
+[18Aug2025 17:42:44.053] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:42:50.001] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:eldritch_blast
+[18Aug2025 17:42:50.001] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.eldritch.EldritchBlastSpell@5cd72128
+[18Aug2025 17:42:59.408] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:42:59.667] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:43:03.003] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:43:13.748] [Server thread/INFO] [irons_spells_js/]: traveloptics:shadowed_miasma
+[18Aug2025 17:43:13.748] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.eldritch.ShadowedMiasmaSpell@9ede58c2
+[18Aug2025 17:43:18.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:43:18.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 17:43:25.866] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Aug2025 17:43:35.103] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:43:36.896] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:43:58.851] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:43:59.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Yellow Brick Road]
+[18Aug2025 17:44:02.367] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:44:08.402] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:44:09.348] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:44:10.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has left this dimension
+[18Aug2025 17:44:13.730] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Zairac74509 has new faction level vampirism:vampire 4
+[18Aug2025 17:44:13.735] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[18Aug2025 17:44:13.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[18Aug2025 17:44:31.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Yellow Brick Road]
+[18Aug2025 17:44:33.055] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:44:48.694] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e37a3156-08a1-401d-82d1-1317cf06c2f8]
+[18Aug2025 17:45:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Mother of Dragons]
+[18Aug2025 17:45:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Mother of Dragons]
+[18Aug2025 17:45:22.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Mother of Dragons]
+[18Aug2025 17:46:23.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Carbonated Swim]
+[18Aug2025 17:46:29.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Carbonated Swim]
+[18Aug2025 17:47:08.997] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[18Aug2025 17:47:18.249] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[18Aug2025 17:47:18.249] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[18Aug2025 17:47:18.249] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[18Aug2025 17:47:29.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [I Found the Coin Slot]
+[18Aug2025 17:47:30.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [0ade7e4c-8bc9-4e6b-9f8d-08006e20047b]
+[18Aug2025 17:47:33.696] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [0ade7e4c-8bc9-4e6b-9f8d-08006e20047b]
+[18Aug2025 17:47:51.577] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [0ade7e4c-8bc9-4e6b-9f8d-08006e20047b]
+[18Aug2025 17:47:52.562] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [0ade7e4c-8bc9-4e6b-9f8d-08006e20047b]
+[18Aug2025 17:47:54.052] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [0ade7e4c-8bc9-4e6b-9f8d-08006e20047b]
+[18Aug2025 17:47:57.145] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [0ade7e4c-8bc9-4e6b-9f8d-08006e20047b]
+[18Aug2025 17:48:02.296] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [0ade7e4c-8bc9-4e6b-9f8d-08006e20047b]
+[18Aug2025 17:48:06.554] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [0ade7e4c-8bc9-4e6b-9f8d-08006e20047b]
+[18Aug2025 17:48:20.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:48:20.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 17:48:22.451] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[18Aug2025 17:48:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Yellow Brick Road]
+[18Aug2025 17:48:43.002] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [0ade7e4c-8bc9-4e6b-9f8d-08006e20047b]
+[18Aug2025 17:49:15.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Carbonated Swim]
+[18Aug2025 17:49:51.823] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [e150fa99-c77a-3847-bab5-f1c8195ed2b2]
+[18Aug2025 17:53:20.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 17:53:20.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 17:53:36.756] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e150fa99-c77a-3847-bab5-f1c8195ed2b2]
+[18Aug2025 17:53:45.365] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [9ee1afe0-982c-47e9-bf57-2cb99f57f772]
+[18Aug2025 17:53:47.202] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [9ee1afe0-982c-47e9-bf57-2cb99f57f772]
+[18Aug2025 17:54:40.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Caniac No More]
+[18Aug2025 17:54:43.677] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [9ee1afe0-982c-47e9-bf57-2cb99f57f772]
+[18Aug2025 17:54:49.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Aug2025 17:55:18.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18Aug2025 17:55:34.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Where's Goopy?]
+[18Aug2025 17:55:36.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[18Aug2025 17:55:54.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3105ms or 62 ticks behind
+[18Aug2025 17:56:07.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19154, y=-23, z=-8396} BlockPos{x=19154, y=-22, z=-8395}
+[18Aug2025 17:56:15.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5350ms or 107 ticks behind
+[18Aug2025 17:56:32.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[18Aug2025 17:56:45.505] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:spectral_hammer
+[18Aug2025 17:56:45.505] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SpectralHammerSpell@7b137a2b
+[18Aug2025 17:56:46.337] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19453 -8354 -8354 VisualFallingBlockEntity['Falling Deepslate'/26036, l='ServerLevel[world]', x=19453.50, y=-31.00, z=-8353.50]
+[18Aug2025 17:56:46.341] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19451 -8355 -8355 VisualFallingBlockEntity['Falling Deepslate'/26037, l='ServerLevel[world]', x=19451.50, y=-31.00, z=-8354.50]
+[18Aug2025 17:56:49.470] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19459 -8355 -8355 VisualFallingBlockEntity['Falling Deepslate'/26121, l='ServerLevel[world]', x=19459.50, y=-28.00, z=-8354.50]
+[18Aug2025 17:56:49.493] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19459 -8353 -8353 VisualFallingBlockEntity['Falling Deepslate'/26122, l='ServerLevel[world]', x=19459.50, y=-28.00, z=-8352.50]
+[18Aug2025 17:56:49.495] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19457 -8355 -8355 VisualFallingBlockEntity['Falling Deepslate'/26123, l='ServerLevel[world]', x=19457.50, y=-31.00, z=-8354.50]
+[18Aug2025 17:56:51.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19454 -8361 -8361 VisualFallingBlockEntity['Falling Deepslate'/26168, l='ServerLevel[world]', x=19454.50, y=-29.00, z=-8360.50]
+[18Aug2025 17:56:54.412] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19460 -8363 -8363 VisualFallingBlockEntity['Falling Deepslate'/26264, l='ServerLevel[world]', x=19460.50, y=-29.00, z=-8362.50]
+[18Aug2025 17:56:54.412] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19462 -8360 -8360 VisualFallingBlockEntity['Falling Deepslate'/26265, l='ServerLevel[world]', x=19462.50, y=-31.00, z=-8359.50]
+[18Aug2025 17:56:55.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18Aug2025 17:56:57.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19463 -8364 -8364 VisualFallingBlockEntity['Falling Deepslate'/26372, l='ServerLevel[world]', x=19463.50, y=-39.00, z=-8363.50]
+[18Aug2025 17:56:57.650] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} 19460 -8360 -8360 VisualFallingBlockEntity['Falling Tuff'/26373, l='ServerLevel[world]', x=19460.50, y=-35.00, z=-8359.50]
+[18Aug2025 17:57:01.392] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} 19464 -8361 -8361 VisualFallingBlockEntity['Falling Tuff'/26458, l='ServerLevel[world]', x=19464.50, y=-42.00, z=-8360.50]
+[18Aug2025 17:57:01.404] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 19463 -8364 -8364 VisualFallingBlockEntity['Falling Deepslate'/26459, l='ServerLevel[world]', x=19463.50, y=-41.00, z=-8363.50]
+[18Aug2025 17:57:06.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Once Upon a Cave]
+[18Aug2025 17:57:15.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5338ms or 106 ticks behind
+[18Aug2025 17:57:32.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[18Aug2025 17:57:52.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [The Dark (Chocolate) Tower]
+[18Aug2025 17:57:54.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind

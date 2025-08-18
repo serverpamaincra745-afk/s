@@ -1752,6 +1752,7 @@
       "dune_beach": "2025-08-17 16:10:38 +0000",
       "seasonal_forest": "2025-08-16 20:53:58 +0000",
       "dead_forest": "2025-08-16 20:48:33 +0000",
+      "volcano": "2025-08-18 17:35:18 +0000",
       "rocky_rainforest": "2025-08-17 02:04:49 +0000",
       "pasture": "2025-08-17 16:11:19 +0000",
       "volcanic_plains": "2025-08-16 21:39:55 +0000",
@@ -9138,6 +9139,66 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-08-18 16:05:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-08-18 17:39:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-18 17:51:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-08-18 17:45:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-08-18 17:51:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-08-18 17:51:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-08-18 17:41:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-08-18 17:46:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-08-18 17:44:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-08-18 17:51:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-08-18 17:51:26 +0000"
     },
     "done": true
   },
