@@ -16892,3 +16892,119 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [18Aug2025 14:56:23.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [It Belongs in a Museum]
 [18Aug2025 14:58:28.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Aug2025 14:58:28.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 14:59:10.766] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [16b962a7-bdc8-4079-80b7-fc593d607ffd]
+[18Aug2025 14:59:20.385] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:fang_strike
+[18Aug2025 14:59:20.386] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.FangStrikeSpell@6f9ac2c7
+[18Aug2025 14:59:21.302] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [16b962a7-bdc8-4079-80b7-fc593d607ffd]
+[18Aug2025 14:59:25.084] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firefly_swarm
+[18Aug2025 14:59:25.084] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.FireflySwarmSpell@e01e560
+[18Aug2025 15:03:11.367] [Server thread/INFO] [irons_spells_js/]: traveloptics:meteor_storm
+[18Aug2025 15:03:11.487] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.fire.MeteorStormSpell@376b9f6
+[18Aug2025 15:03:28.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 15:03:28.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 15:03:45.204] [Server thread/INFO] [irons_spells_js/]: traveloptics:cursed_revenants
+[18Aug2025 15:03:45.204] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ice.CursedRevenantsSpell@83836d6b
+[18Aug2025 15:08:28.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 15:08:28.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 15:09:24.951] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [40dca51f-8848-4997-a7b6-06b2f8146989]
+[18Aug2025 15:10:03.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:03.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:04.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:04.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:04.441] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:04.441] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:04.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:04.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:04.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:04.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:05.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:05.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:05.436] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:05.436] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:05.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:05.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:05.936] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:05.936] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:06.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:06.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:06.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:06.441] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:06.688] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:06.688] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:06.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:06.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:29.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:29.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:29.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:29.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:29.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:29.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:29.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:29.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:30.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:30.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:30.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:30.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:30.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:30.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:30.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:30.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:31.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:31.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:31.493] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:31.494] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:31.741] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:31.741] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:31.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:31.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:32.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:10:32.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:12:55.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} 17948 -13821 -13821 VisualFallingBlockEntity['Falling Dirt'/53920, l='ServerLevel[world]', x=17948.50, y=60.00, z=-13820.50]
+[18Aug2025 15:13:04.687] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:grass_block}[snowy=false] 17950 -13826 -13826 VisualFallingBlockEntity['Falling Grass Block'/53977, l='ServerLevel[world]', x=17950.50, y=63.00, z=-13825.50]
+[18Aug2025 15:13:08.290] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} 17945 -13831 -13831 VisualFallingBlockEntity['Falling Dirt'/54013, l='ServerLevel[world]', x=17945.50, y=60.00, z=-13830.50]
+[18Aug2025 15:13:14.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 17950 -13827 -13827 VisualFallingBlockEntity['Falling Stone'/54094, l='ServerLevel[world]', x=17950.50, y=52.00, z=-13826.50]
+[18Aug2025 15:13:28.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 15:13:28.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 15:13:36.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 17953 -13832 -13832 VisualFallingBlockEntity['Falling Stone'/54235, l='ServerLevel[world]', x=17953.50, y=54.00, z=-13831.50]
+[18Aug2025 15:13:36.507] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 17956 -13836 -13836 VisualFallingBlockEntity['Falling Stone'/54236, l='ServerLevel[world]', x=17956.50, y=56.00, z=-13835.50]
+[18Aug2025 15:13:38.589] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} 17953 -13832 -13832 VisualFallingBlockEntity['Falling Dirt'/54256, l='ServerLevel[world]', x=17953.50, y=60.00, z=-13831.50]
+[18Aug2025 15:13:38.595] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 17953 -13831 -13831 VisualFallingBlockEntity['Falling Stone'/54257, l='ServerLevel[world]', x=17953.50, y=58.00, z=-13830.50]
+[18Aug2025 15:14:42.304] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 17952 -13828 -13828 VisualFallingBlockEntity['Falling Stone'/55046, l='ServerLevel[world]', x=17952.50, y=48.00, z=-13827.50]
+[18Aug2025 15:14:42.306] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 17953 -13828 -13828 VisualFallingBlockEntity['Falling Stone'/55047, l='ServerLevel[world]', x=17953.50, y=47.00, z=-13827.50]
+[18Aug2025 15:15:27.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17951, y=63, z=-13823} BlockPos{x=17951, y=61, z=-13824}
+[18Aug2025 15:15:27.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17951, y=63, z=-13823} BlockPos{x=17951, y=61, z=-13824}
+[18Aug2025 15:15:32.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17950, y=63, z=-13820} BlockPos{x=17951, y=61, z=-13820}
+[18Aug2025 15:15:32.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17950, y=63, z=-13820} BlockPos{x=17951, y=61, z=-13820}
+[18Aug2025 15:15:32.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17949, y=63, z=-13820} BlockPos{x=17949, y=62, z=-13819}
+[18Aug2025 15:15:33.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17949, y=63, z=-13820} BlockPos{x=17949, y=62, z=-13819}
+[18Aug2025 15:15:38.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17945, y=63, z=-13822} BlockPos{x=17944, y=61, z=-13821}
+[18Aug2025 15:15:38.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17945, y=63, z=-13822} BlockPos{x=17944, y=61, z=-13821}
+[18Aug2025 15:15:39.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17945, y=63, z=-13822} BlockPos{x=17944, y=61, z=-13821}
+[18Aug2025 15:15:39.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17944, y=63, z=-13822} BlockPos{x=17944, y=61, z=-13821}
+[18Aug2025 15:15:39.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17944, y=63, z=-13823} BlockPos{x=17944, y=61, z=-13821}
+[18Aug2025 15:15:39.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17944, y=63, z=-13823} BlockPos{x=17944, y=61, z=-13821}
+[18Aug2025 15:15:39.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17944, y=63, z=-13823} BlockPos{x=17944, y=61, z=-13821}
+[18Aug2025 15:15:39.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17944, y=63, z=-13824} BlockPos{x=17944, y=61, z=-13821}
+[18Aug2025 15:15:39.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17944, y=63, z=-13824} BlockPos{x=17944, y=61, z=-13821}
+[18Aug2025 15:15:43.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17945, y=63, z=-13826} BlockPos{x=17945, y=61, z=-13826}
+[18Aug2025 15:15:43.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17945, y=63, z=-13826} BlockPos{x=17945, y=61, z=-13826}
+[18Aug2025 15:15:43.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17945, y=63, z=-13826} BlockPos{x=17945, y=61, z=-13826}
+[18Aug2025 15:15:43.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17945, y=63, z=-13827} BlockPos{x=17945, y=61, z=-13826}
+[18Aug2025 15:18:28.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 15:18:28.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 15:18:54.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:54.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:55.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:55.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:55.387] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:55.387] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:55.635] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:55.635] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:55.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:55.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:56.141] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:56.141] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:56.392] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:56.392] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:56.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Aug2025 15:18:56.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null

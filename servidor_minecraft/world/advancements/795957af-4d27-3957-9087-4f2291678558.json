@@ -6850,7 +6850,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "barrel": "2025-08-17 17:02:18 +0000"
+      "barrel": "2025-08-17 17:02:18 +0000",
+      "cauldron": "2025-08-18 15:17:25 +0000"
     },
     "done": false
   },
@@ -8846,6 +8847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-18 14:58:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2025-08-18 14:46:17 +0000"
@@ -8855,6 +8862,18 @@
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-08-18 14:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-18 14:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-18 14:58:57 +0000"
     },
     "done": true
   },
@@ -8918,6 +8937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-18 14:58:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-08-18 14:46:17 +0000"
@@ -8927,6 +8952,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-08-18 14:46:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2025-08-18 15:17:25 +0000"
     },
     "done": true
   },
@@ -9041,6 +9072,18 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-18 14:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-18 14:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-18 14:58:57 +0000"
     },
     "done": true
   },
