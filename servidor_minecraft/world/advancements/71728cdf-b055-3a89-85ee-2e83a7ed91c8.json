@@ -10033,6 +10033,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-08-18 19:20:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-08-18 19:01:35 +0000"
@@ -10060,6 +10066,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-08-18 19:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-18 19:20:37 +0000"
     },
     "done": true
   },
@@ -10093,6 +10105,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-08-18 19:19:26 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/candy_cane_hook": {
     "criteria": {
       "candy_cane_hook": "2025-08-18 18:07:26 +0000"
@@ -10111,6 +10129,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_tall_lavender": "2025-08-18 19:17:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-08-18 18:23:05 +0000"
@@ -10126,6 +10150,12 @@
   "alexscaves:alexscaves/underzealot_sacrifice": {
     "criteria": {
       "underzealot_sacrifice": "2025-08-18 19:07:20 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/prayer_crown": {
+    "criteria": {
+      "has_redstone_block": "2025-08-18 19:20:37 +0000"
     },
     "done": true
   },
