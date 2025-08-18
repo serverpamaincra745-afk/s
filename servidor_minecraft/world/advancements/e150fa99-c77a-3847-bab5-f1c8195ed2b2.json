@@ -1860,6 +1860,7 @@
       "floodplain": "2025-08-16 22:14:49 +0000",
       "highland": "2025-08-16 20:18:31 +0000",
       "jacaranda_glade": "2025-08-17 16:37:04 +0000",
+      "marsh": "2025-08-18 16:04:11 +0000",
       "mystic_grove": "2025-08-16 22:16:47 +0000",
       "cold_desert": "2025-08-18 01:17:16 +0000",
       "old_growth_woodland": "2025-08-16 21:43:12 +0000",
@@ -8624,78 +8625,6 @@
       "cave_tablet": "2025-08-18 14:08:49 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-18 14:37:28 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
