@@ -3008,3 +3008,45 @@ java.lang.Throwable: null
 [18Aug2025 18:38:30.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Hachiko2357> xaero-waypoint:Shared Location:S:19375:106:-8245:0:false:0:Internal-overworld-waypoints
 [18Aug2025 18:38:31.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Shared Location:S:19377:105:-8250:15:false:0:Internal-overworld-waypoints
 [18Aug2025 18:38:46.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Hooked on a Feeling]
+[18Aug2025 18:39:28.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [We do a little trolling...]
+[18Aug2025 18:48:00.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/72581, l='ServerLevel[world]', x=20476.15, y=64.94, z=-7095.55] died, message: 'Villager hit the ground too hard whilst trying to escape Iron Golem'
+[18Aug2025 18:48:02.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/72583, l='ServerLevel[world]', x=20476.28, y=64.94, z=-7098.21] died, message: 'Villager was slain by Iron Golem'
+[18Aug2025 18:48:05.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -0.872340213310963,1.5338820075866124,10.04166583593269
+[18Aug2025 18:48:05.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -0.953502613469027,1.683832661769486,10.97430026875827
+[18Aug2025 18:48:05.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.0348587440166739,1.8351480785884178,11.90913184285182
+[18Aug2025 18:48:05.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.1163924562606553,1.987792452919308,12.84599701839943
+[18Aug2025 18:48:05.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.1980887302815972,2.1417330338603904,13.78474173403356
+[18Aug2025 18:48:05.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.2799335536801664,2.2969396148830583,14.725220873700891
+[18Aug2025 18:48:06.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Hunter'/72580, l='ServerLevel[world]', x=20481.54, y=64.00, z=-7090.24] died, message: 'Hunter was slain by Iron Golem'
+[18Aug2025 18:48:29.098] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:chain_creeper
+[18Aug2025 18:48:29.098] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.ChainCreeperSpell@1846fe1a
+[18Aug2025 18:50:13.674] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Aug2025 18:50:40.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[18Aug2025 18:51:12.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Large Plane to Zairac74509]
+[18Aug2025 18:51:14.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Pic-A-Nic Basket?]
+[18Aug2025 18:51:15.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -347.96877554403545,252.9290850136672,1679.006017830021
+[18Aug2025 18:51:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[18Aug2025 18:51:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Shared Location:S:20693:81:-6525:5:false:0:Internal-overworld-waypoints
+[18Aug2025 18:52:07.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.28692618047989527
+[18Aug2025 18:52:07.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.1363993910763384
+[18Aug2025 18:52:07.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.9860206602625112
+[18Aug2025 18:52:12.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.2834164180858352
+[18Aug2025 18:52:12.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.9987447089552006
+[18Aug2025 18:52:12.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.7146120274119312
+[18Aug2025 18:52:12.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.4307677687838805
+[18Aug2025 18:52:15.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3534788137958458
+[18Aug2025 18:52:15.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.136895840220859
+[18Aug2025 18:52:15.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.9402474990574774
+[18Aug2025 18:52:15.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.7546077215147307
+[18Aug2025 18:52:16.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7119255704674288
+[18Aug2025 18:52:17.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.5572933092680614
+[18Aug2025 18:52:17.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.409787615854839
+[18Aug2025 18:53:20.975] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Aug2025 18:53:20.976] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Aug2025 18:53:29.320] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Aug2025 18:55:55.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Forlornliest Day of My Life]
+[18Aug2025 18:55:58.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [Forlornliest Day of My Life]
+[18Aug2025 18:56:05.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Forlornliest Day of My Life]
+[18Aug2025 18:57:29.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved wrongly!
+[18Aug2025 18:57:39.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Hans Moleman]
+[18Aug2025 18:57:54.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Hans Moleman]

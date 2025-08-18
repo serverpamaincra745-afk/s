@@ -8746,6 +8746,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2025-08-18 18:38:46 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2025-08-18 17:46:29 +0000"
@@ -8797,6 +8803,12 @@
   "iceandfire:recipes/combat/armor_electric_helmet": {
     "criteria": {
       "has_item": "2025-08-18 17:51:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-18 18:37:43 +0000"
     },
     "done": true
   },

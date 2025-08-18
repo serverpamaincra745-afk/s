@@ -3191,6 +3191,7 @@
       "volcanic_plains": "2025-08-17 02:05:17 +0000",
       "lavender_field": "2025-08-17 16:26:16 +0000",
       "fir_clearing": "2025-08-17 19:46:11 +0000",
+      "pumpkin_patch": "2025-08-18 18:47:52 +0000",
       "prairie": "2025-08-16 21:18:11 +0000",
       "grassland": "2025-08-18 01:11:10 +0000",
       "snowy_coniferous_forest": "2025-08-16 20:17:41 +0000",
@@ -10002,6 +10003,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-08-18 18:44:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2025-08-18 17:45:39 +0000"
@@ -10026,6 +10033,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-08-18 18:39:28 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-08-18 18:14:05 +0000"
@@ -10047,6 +10060,12 @@
   "alexscaves:alexscaves/gelatin": {
     "criteria": {
       "gelatin": "2025-08-18 17:55:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-08-18 18:51:14 +0000"
     },
     "done": true
   },
