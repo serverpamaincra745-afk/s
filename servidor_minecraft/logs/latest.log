@@ -3242,3 +3242,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [19Aug2025 20:37:38.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
 [19Aug2025 20:37:39.345] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
 [19Aug2025 20:37:39.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[19Aug2025 20:46:16.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:59737] logged in with entity id 88612 at (13008.116503448544, -8.875, -13153.181909115328)
+[19Aug2025 20:46:16.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[19Aug2025 20:46:19.709] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[19Aug2025 20:46:19.710] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
