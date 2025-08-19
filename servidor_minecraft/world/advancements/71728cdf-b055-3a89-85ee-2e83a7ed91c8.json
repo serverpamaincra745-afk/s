@@ -10358,6 +10358,7 @@
   },
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
+      "end_midlands": "2025-08-19 18:36:00 +0000",
       "prismarine_forest": "2025-08-18 19:51:43 +0000",
       "amethyst_forest": "2025-08-18 19:41:27 +0000",
       "sculk_growth": "2025-08-18 20:03:49 +0000",
@@ -10696,15 +10697,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+  "traveloptics:visit_void_cathedral": {
     "criteria": {
-      "has_end_stone_bricks": "2025-08-18 20:54:16 +0000"
+      "void_cathedral": "2025-08-18 20:36:49 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_shulker_tower": {
+    "criteria": {
+      "tower": "2025-08-18 20:40:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-08-18 20:41:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-08-18 20:41:08 +0000"
     },
     "done": true
   },
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2025-08-18 20:41:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-08-18 20:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-08-18 20:54:16 +0000"
     },
     "done": true
   },
@@ -10720,51 +10751,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-08-18 20:51:52 +0000"
-    },
-    "done": true
-  },
-  "traveloptics:visit_void_cathedral": {
-    "criteria": {
-      "void_cathedral": "2025-08-18 20:36:49 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/cosmic_cod": {
-    "criteria": {
-      "capsid": "2025-08-18 20:57:32 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_boots_repairing": {
-    "criteria": {
-      "has_leather_boots": "2025-08-18 20:41:08 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_shulker_tower": {
-    "criteria": {
-      "tower": "2025-08-18 20:40:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-08-18 20:55:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2025-08-18 20:54:16 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_chestplate_repairing": {
-    "criteria": {
-      "has_leather_chestplate": "2025-08-18 20:41:02 +0000"
     },
     "done": true
   },
@@ -10779,6 +10768,90 @@
       "has_end_stone_brick": "2025-08-18 20:54:16 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-08-18 20:55:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-08-18 20:57:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-19 18:37:15 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
