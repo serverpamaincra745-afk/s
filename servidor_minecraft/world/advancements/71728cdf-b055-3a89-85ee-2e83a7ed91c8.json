@@ -8962,6 +8962,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-19 19:44:00 +0000",
       "minecraft:nether_wastes": "2025-08-17 20:40:57 +0000"
     },
     "done": false
@@ -10806,6 +10807,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-08-19 19:24:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-08-19 19:44:31 +0000"
     },
     "done": true
   },
