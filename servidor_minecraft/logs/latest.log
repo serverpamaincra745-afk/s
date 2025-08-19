@@ -2749,3 +2749,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [19Aug2025 18:38:44.546] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
 [19Aug2025 18:38:44.547] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
 [19Aug2025 18:39:05.685] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12d434e8[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.25.192.68:37745) lost connection: Timed out
+[19Aug2025 18:39:13.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[19Aug2025 18:39:13.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[19Aug2025 18:39:13.789] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[19Aug2025 18:39:24.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.25.192.68:54121] logged in with entity id 4073 at (1809.4639702070087, 87.0, 1875.5918147123662)
+[19Aug2025 18:39:24.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[19Aug2025 18:39:25.150] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[19Aug2025 18:39:25.150] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[19Aug2025 18:40:25.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:55483] logged in with entity id 4336 at (15976.300000011921, 78.0, -6364.699999988079)
+[19Aug2025 18:40:25.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[19Aug2025 18:40:26.127] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[19Aug2025 18:40:26.127] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[19Aug2025 18:41:40.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Chorus Infection]
+[19Aug2025 18:41:58.006] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:healing_circle
+[19Aug2025 18:41:58.006] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealingCircleSpell@3974fbdf
+[19Aug2025 18:42:05.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/4529, l='ServerLevel[world]', x=16084.70, y=68.00, z=-6387.04] died, message: 'Scribe was sucked dry fighting Vampire'
+[19Aug2025 18:45:05.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -0.18106119161780043,20.682114227586908,0.9657421989884369
+[19Aug2025 18:46:09.679] [Server thread/INFO] [irons_spells_js/]: traveloptics:aqua_missiles
+[19Aug2025 18:46:09.679] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.AquaMissilesSpell@ab616390
+[19Aug2025 18:46:23.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The City at the End of the Game]
+[19Aug2025 18:46:27.319] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[19Aug2025 18:47:24.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Treasure Room]
+[19Aug2025 18:47:40.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Sky's the Limit]
+[19Aug2025 18:52:05.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Hunt and Gather]
