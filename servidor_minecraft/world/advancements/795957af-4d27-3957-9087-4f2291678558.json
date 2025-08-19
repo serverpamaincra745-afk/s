@@ -142,6 +142,7 @@
       "minecraft:jagged_peaks": "2025-08-17 02:00:26 +0000",
       "minecraft:cold_ocean": "2025-08-16 21:10:44 +0000",
       "minecraft:forest": "2025-08-16 21:30:31 +0000",
+      "minecraft:lush_caves": "2025-08-19 20:09:08 +0000",
       "minecraft:deep_cold_ocean": "2025-08-16 21:34:29 +0000",
       "minecraft:frozen_ocean": "2025-08-17 03:45:30 +0000",
       "minecraft:desert": "2025-08-17 02:03:54 +0000",
@@ -9888,15 +9889,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-08-19 20:02:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 19:49:39 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-08-19 20:01:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-08-19 19:58:28 +0000"
     },
     "done": true
   },
@@ -9924,6 +9943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-19 19:58:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 19:49:39 +0000"
@@ -9939,6 +9964,12 @@
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-08-19 19:53:08 +0000"
     },
     "done": true
   },
@@ -9960,6 +9991,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-19 19:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-19 19:58:37 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-08-19 19:49:50 +0000"
@@ -9972,9 +10015,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-19 19:58:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-08-19 20:06:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-08-19 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-08-19 20:06:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-08-19 20:03:42 +0000"
     },
     "done": true
   },
@@ -9983,6 +10056,12 @@
       "has_stone_types_limestone": "2025-08-19 19:49:39 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2025-08-19 20:01:12 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
@@ -9993,6 +10072,18 @@
   "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-19 19:58:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-08-19 19:52:44 +0000"
     },
     "done": true
   },
