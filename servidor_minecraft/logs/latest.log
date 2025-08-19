@@ -2772,3 +2772,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [19Aug2025 18:47:24.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Treasure Room]
 [19Aug2025 18:47:40.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Sky's the Limit]
 [19Aug2025 18:52:05.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Hunt and Gather]
+[19Aug2025 18:52:44.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[19Aug2025 18:54:42.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [A Flaming Sword]
+[19Aug2025 18:56:41.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[19Aug2025 18:56:41.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[19Aug2025 18:56:41.978] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[19Aug2025 18:58:14.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a61eba3[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:44361) lost connection: Disconnected
+[19Aug2025 18:58:31.726] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b95c43[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:50051) lost connection: Disconnected
+[19Aug2025 18:59:05.225] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@47e6729a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:55755): Took too long to log in
+[19Aug2025 18:59:05.225] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47e6729a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:55755) lost connection: Took too long to log in
+[19Aug2025 18:59:05.274] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Aug2025 18:59:58.675] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d3ae5fa[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:38355) lost connection: Timed out
+[19Aug2025 19:00:15.156] [Server thread/INFO] [irons_spells_js/]: traveloptics:void_eruption
+[19Aug2025 19:00:15.156] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.VoidEruptionSpell@af34a2c7
+[19Aug2025 19:00:57.374] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@434e9733[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:44943) lost connection: Disconnected
+[19Aug2025 19:01:26.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:35511] logged in with entity id 11538 at (1720.8079920502478, 170.0, 2024.2194245086616)
+[19Aug2025 19:01:26.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[19Aug2025 19:01:27.593] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[19Aug2025 19:01:27.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
