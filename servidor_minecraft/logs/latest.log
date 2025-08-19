@@ -2910,3 +2910,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [19Aug2025 19:31:56.516] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@511b58ca[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:45611) lost connection: Took too long to log in
 [19Aug2025 19:31:56.565] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [19Aug2025 19:32:20.565] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42ad3c41[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:56181) lost connection: Disconnected
+[19Aug2025 19:32:53.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:40537] logged in with entity id 25131 at (14121.5, 150.076, -8104.5)
+[19Aug2025 19:32:53.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[19Aug2025 19:32:54.929] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[19Aug2025 19:32:54.929] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[19Aug2025 19:36:58.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/30286, l='ServerLevel[world]', x=13196.04, y=51.01, z=-9055.24]
+[19Aug2025 19:36:58.948] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/30287, l='ServerLevel[world]', x=13196.04, y=51.01, z=-9055.24]
+[19Aug2025 19:36:58.948] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/30288, l='ServerLevel[world]', x=13196.04, y=51.01, z=-9055.24]
+[19Aug2025 19:36:58.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/30289, l='ServerLevel[world]', x=13196.04, y=51.01, z=-9055.24]
+[19Aug2025 19:36:58.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/30290, l='ServerLevel[world]', x=13196.04, y=51.01, z=-9055.24]
+[19Aug2025 19:38:41.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[19Aug2025 19:38:47.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -0.2882142723610741,-1.9040413395917426,-17.788646984714433
+[19Aug2025 19:38:54.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[19Aug2025 19:38:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[19Aug2025 19:38:54.632] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[19Aug2025 19:40:06.666] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38e3f9c9[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:53667) lost connection: Disconnected
+[19Aug2025 19:40:37.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:41099] logged in with entity id 32585 at (13328.5, 186.076, -10790.5)
+[19Aug2025 19:40:37.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[19Aug2025 19:40:37.792] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[19Aug2025 19:40:37.793] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[19Aug2025 19:40:41.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.25.192.68:38117] logged in with entity id 32672 at (15977.827209323976, 78.0, -6363.099186900631)
+[19Aug2025 19:40:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[19Aug2025 19:40:41.762] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[19Aug2025 19:40:41.762] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[19Aug2025 19:41:18.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/32712, l='ServerLevel[world]', x=15984.79, y=73.00, z=-6405.22] died, message: 'Nitwit was slain by Zombie'
+[19Aug2025 19:41:30.889] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/32694, l='ServerLevel[world]', x=16009.65, y=66.00, z=-6324.00] died, message: 'Hunter was slain by Zombie'
+[19Aug2025 19:42:01.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/32682, l='ServerLevel[world]', x=15996.98, y=70.00, z=-6345.51] died, message: 'Hunter was slain by Zombie'
+[19Aug2025 19:43:15.609] [Worker-Main-105/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
