@@ -2823,3 +2823,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [19Aug2025 19:11:51.527] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4773a426[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:45843): Took too long to log in
 [19Aug2025 19:11:51.528] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4773a426[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:45843) lost connection: Took too long to log in
 [19Aug2025 19:11:51.575] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Aug2025 19:12:37.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[19Aug2025 19:12:37.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[19Aug2025 19:12:37.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[19Aug2025 19:12:46.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:53493] logged in with entity id 14079 at (1720.8079920502478, 170.0, 2024.2194245086616)
+[19Aug2025 19:12:47.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[19Aug2025 19:12:48.145] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[19Aug2025 19:12:48.145] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[19Aug2025 19:13:17.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[19Aug2025 19:13:17.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[19Aug2025 19:13:17.132] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[19Aug2025 19:13:31.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.25.192.68:56325] logged in with entity id 14229 at (1743.0430906169524, 229.0, 2009.0744609795843)
+[19Aug2025 19:13:31.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[19Aug2025 19:13:32.380] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[19Aug2025 19:13:32.381] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[19Aug2025 19:15:17.725] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f546785[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:54277) lost connection: Disconnected
+[19Aug2025 19:15:41.326] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ab3fd64[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:37941) lost connection: Disconnected
+[19Aug2025 19:16:23.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:55127] logged in with entity id 14623 at (1720.8079920502478, 170.0, 2024.2194245086616)
+[19Aug2025 19:16:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[19Aug2025 19:16:24.147] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[19Aug2025 19:16:24.147] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[19Aug2025 19:16:49.656] [Server thread/INFO] [irons_spells_js/]: traveloptics:conjure_void_tomes
+[19Aug2025 19:16:49.656] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.ConjureVoidTomesSpell@384928d4
+[19Aug2025 19:17:48.578] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:sculk_tentacles
+[19Aug2025 19:17:48.578] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.eldritch.SculkTentaclesSpell@2aa0db30
+[19Aug2025 19:18:02.124] [Server thread/INFO] [irons_spells_js/]: traveloptics:orbital_void
+[19Aug2025 19:18:02.125] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.ender.OrbitalVoidSpell@5f90e2fe
+[19Aug2025 19:18:23.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Waystone:W:1809:87:1875:10:false:0:Internal-the-end-waypoints
+[19Aug2025 19:18:46.778] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/14982, l='ServerLevel[world]', x=1734.36, y=166.00, z=2043.46]
+[19Aug2025 19:20:58.848] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Aug2025 19:20:58.848] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Aug2025 19:21:03.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -3.912294612936421,16.616308122675264,-5.594782646685417
+[19Aug2025 19:21:03.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7164ms or 143 ticks behind
