@@ -2790,3 +2790,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [19Aug2025 19:01:26.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
 [19Aug2025 19:01:27.593] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
 [19Aug2025 19:01:27.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[19Aug2025 19:02:27.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[19Aug2025 19:02:27.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[19Aug2025 19:02:27.028] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[19Aug2025 19:03:42.379] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39e13bc0[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:60749) lost connection: Timed out
+[19Aug2025 19:04:12.477] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a28903c[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:53119) lost connection: Disconnected
+[19Aug2025 19:04:31.324] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11991d9a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:35465) lost connection: Disconnected
+[19Aug2025 19:04:44.125] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26d90a5f[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:53015) lost connection: Disconnected
+[19Aug2025 19:04:47.525] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a01aab0[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:33907) lost connection: Disconnected
+[19Aug2025 19:05:20.679] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@65d9a956[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:38623): Took too long to log in
+[19Aug2025 19:05:20.680] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65d9a956[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:38623) lost connection: Took too long to log in
+[19Aug2025 19:05:20.726] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Aug2025 19:06:05.476] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3921a43b[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:49205): Took too long to log in
+[19Aug2025 19:06:05.477] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3921a43b[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:49205) lost connection: Took too long to log in
+[19Aug2025 19:06:05.525] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Aug2025 19:06:28.328] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62c63332[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:48293) lost connection: Disconnected
+[19Aug2025 19:06:53.424] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d42e0bf[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:54547) lost connection: Disconnected
+[19Aug2025 19:07:29.623] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4211fb9a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:35259): Took too long to log in
+[19Aug2025 19:07:29.624] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4211fb9a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:35259) lost connection: Took too long to log in
+[19Aug2025 19:07:29.674] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Aug2025 19:08:31.024] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1a8baf26[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:46417): Took too long to log in
+[19Aug2025 19:08:31.024] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a8baf26[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:46417) lost connection: Took too long to log in
+[19Aug2025 19:08:31.074] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Aug2025 19:09:27.475] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6507602d[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:42565) lost connection: Disconnected
+[19Aug2025 19:10:00.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:54723] logged in with entity id 13380 at (1720.8079920502478, 170.0, 2024.2194245086616)
+[19Aug2025 19:10:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[19Aug2025 19:10:01.328] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[19Aug2025 19:10:01.328] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[19Aug2025 19:10:30.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[19Aug2025 19:10:30.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[19Aug2025 19:10:30.330] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[19Aug2025 19:11:51.527] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4773a426[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:45843): Took too long to log in
+[19Aug2025 19:11:51.528] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4773a426[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:45843) lost connection: Took too long to log in
+[19Aug2025 19:11:51.575] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
