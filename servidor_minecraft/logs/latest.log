@@ -3226,3 +3226,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [19Aug2025 20:21:41.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
 [19Aug2025 20:21:45.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -9.335070266106413,-3.1417493376749235,-14.803691599563535
 [19Aug2025 20:21:46.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -3.460726842060467,-9.632658286332685,-0.4682308354294946
+[19Aug2025 20:27:05.288] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:root
+[19Aug2025 20:27:05.288] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.RootSpell@9f97110c
+[19Aug2025 20:27:26.284] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ball_lightning
+[19Aug2025 20:27:26.284] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.lightning.BallLightningSpell@5586b0b4
+[19Aug2025 20:30:29.091] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:eldritch_blast
+[19Aug2025 20:30:29.091] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.eldritch.EldritchBlastSpell@5cd72128
+[19Aug2025 20:35:47.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[19Aug2025 20:35:47.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[19Aug2025 20:35:47.837] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[19Aug2025 20:35:52.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[19Aug2025 20:35:52.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[19Aug2025 20:35:52.539] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[19Aug2025 20:37:38.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.25.192.68:36957] logged in with entity id 86836 at (13005.553852823268, -9.0, -13153.51773172005)
+[19Aug2025 20:37:38.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[19Aug2025 20:37:39.345] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[19Aug2025 20:37:39.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
