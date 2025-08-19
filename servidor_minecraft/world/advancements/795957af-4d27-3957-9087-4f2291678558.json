@@ -115,6 +115,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-08-19 20:13:38 +0000",
       "minecraft:mushroom_fields": "2025-08-17 16:01:02 +0000",
       "minecraft:taiga": "2025-08-16 20:46:25 +0000",
       "minecraft:deep_ocean": "2025-08-16 21:35:25 +0000",
@@ -1747,6 +1748,7 @@
       "mediterranean_forest": "2025-08-16 22:08:28 +0000",
       "coniferous_forest": "2025-08-16 21:10:49 +0000",
       "spider_nest": "2025-08-17 03:40:32 +0000",
+      "forested_field": "2025-08-19 20:14:14 +0000",
       "dryland": "2025-08-17 02:04:14 +0000",
       "wasteland": "2025-08-17 15:17:30 +0000",
       "old_growth_dead_forest": "2025-08-16 20:47:49 +0000",
@@ -9919,6 +9921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-19 20:17:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 19:49:39 +0000"
@@ -9973,9 +9981,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-19 20:17:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-19 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-19 20:14:56 +0000"
     },
     "done": true
   },
@@ -9994,6 +10014,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-08-19 19:58:37 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-08-19 20:17:00 +0000"
     },
     "done": true
   },
@@ -10078,6 +10104,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_copper": "2025-08-19 19:58:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-19 20:14:56 +0000"
     },
     "done": true
   },
